@@ -17,10 +17,10 @@
         <slotNumber>1</slotNumber>
         <majorVersion>0</majorVersion>
         <minorVersion>0</minorVersion>
-        <build>81</build>
-        <nextId>3519</nextId>
+        <build>82</build>
+        <nextId>3520</nextId>
     </projectInfo>
-    <variables varCount="519">
+    <variables varCount="520">
         <variable id="3427" dclName="CB_1 Recieve 5" type="201" category="1" value="0" />
         <variable id="3425" dclName="CB_1 Recieve 1" type="201" category="1" value="0" />
         <variable id="3423" dclName="CB_1 Recieve 2" type="201" category="1" value="0" />
@@ -540,6 +540,7 @@
         <variable id="3510" dclName="DV_B-Puls Counter" type="102" category="1" value="0" />
         <variable id="3513" dclName="CV_Cam" type="103" category="1" value="0" />
         <variable id="3517" dclName="SO_Cam On-Off" type="101" category="1" value="0" />
+        <variable id="3519" dclName="DclD_Testing" type="0" category="1" value="0" />
     </variables>
     <sysVariables varCount="26">
         <sysVariable id="623" sysVarID="10000" dclName="SyI_Power 1" value="0" />
@@ -1987,7 +1988,7 @@
                 <instruction type="0" variableId="3517" operatorId="10" configurationId="-1" comment="" />
             </row>
         </block>
-        <block dclName="Midjegivare" numCols="4" numRows="8">
+        <block dclName="Midjegivare" numCols="4" numRows="9">
             <row nr="1" instructionCount="2">
                 <instruction type="0" variableId="3466" operatorId="9" configurationId="-1" comment="" />
                 <instruction type="0" variableId="3503" operatorId="10" configurationId="-1" comment="" />
@@ -2011,13 +2012,17 @@
                 <instruction type="0" variableId="3495" operatorId="9" configurationId="-1" comment="" />
                 <instruction type="0" variableId="3499" operatorId="10" configurationId="-1" comment="" />
             </row>
-            <row nr="6" instructionCount="0" />
-            <row nr="7" instructionCount="3">
+            <row nr="6" instructionCount="2">
+                <instruction type="0" variableId="3495" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3519" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="7" instructionCount="0" />
+            <row nr="8" instructionCount="3">
                 <instruction type="0" variableId="3493" operatorId="9" configurationId="-1" comment="" />
                 <instruction type="0" variableId="3505" operatorId="8" configurationId="-1" comment="" />
                 <instruction type="0" variableId="3508" operatorId="10" configurationId="-1" comment="" />
             </row>
-            <row nr="8" instructionCount="3">
+            <row nr="9" instructionCount="3">
                 <instruction type="0" variableId="3495" operatorId="9" configurationId="-1" comment="" />
                 <instruction type="0" variableId="3505" operatorId="8" configurationId="-1" comment="" />
                 <instruction type="0" variableId="3510" operatorId="10" configurationId="-1" comment="" />

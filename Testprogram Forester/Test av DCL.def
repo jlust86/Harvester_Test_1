@@ -7,13 +7,13 @@
     <userName>Jonny Hansson</userName>
     <company>Rottne Industri AB</company>
     <identity>Test av DCL</identity>
-    <version>0.0.81</version>
+    <version>0.0.82</version>
     <dclToolVersion>3.5.2.0</dclToolVersion>
   </info>
   <projectGroup projectCount="1">
     <project projectNumber="-1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" name="Test av DCL" />
   </projectGroup>
-  <variables variableCount="545">
+  <variables variableCount="546">
     <variable id="3427" dclIndex="0" dclName="CB_1 Recieve 5" ownerId="3428" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
     <variable id="3425" dclIndex="1" dclName="CB_1 Recieve 1" ownerId="3426" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
     <variable id="3423" dclIndex="2" dclName="CB_1 Recieve 2" ownerId="3424" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
@@ -531,34 +531,35 @@
     <variable id="3506" dclIndex="514" dclName="SO_Nollpuls" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
     <variable id="3508" dclIndex="515" dclName="DV_A-Puls Counter" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
     <variable id="3510" dclIndex="516" dclName="DV_B-Puls Counter" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="623" dclIndex="517" dclName="SyI_Power 1" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="624" dclIndex="518" dclName="SyI_Power 2" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="625" dclIndex="519" dclName="SyI_Power 3" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="626" dclIndex="520" dclName="SyI_Power 4" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="627" dclIndex="521" dclName="SyI_Power 5" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="628" dclIndex="522" dclName="SyI_Power 6" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="629" dclIndex="523" dclName="SyI_Power 7" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="630" dclIndex="524" dclName="SyI_Power 8" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="2804" dclIndex="525" dclName="SyIO_1" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="2805" dclIndex="526" dclName="SyIO_2" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="3210" dclIndex="527" dclName="SyI_Timer 0 Time" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="2806" dclIndex="528" dclName="SyI_Timer 1 Time" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="2807" dclIndex="529" dclName="SyI_Timer 2 Time" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="3206" dclIndex="530" dclName="SyO_Timer 0 Enable" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="2808" dclIndex="531" dclName="SyO_Timer 1 Enable" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="2809" dclIndex="532" dclName="SyO_Timer 2 Enable" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="3207" dclIndex="533" dclName="SyO_Timer 0 Clear" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="2810" dclIndex="534" dclName="SyO_Timer 1 Clear" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="2811" dclIndex="535" dclName="SyO_Timer 2 Clear" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="3227" dclIndex="536" dclName="SyI_Counter 0 Value" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="3228" dclIndex="537" dclName="SyO_Counter 0 Input" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="3229" dclIndex="538" dclName="SyO_Counter 0 Clear" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="3279" dclIndex="539" dclName="SyI_Access Level" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="3280" dclIndex="540" dclName="SyI_Operator" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="2720" dclIndex="541" dclName="SyO_TST Access Level" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="3512" dclIndex="542" dclName="SyO_MC-F Camera Source" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="3513" dclIndex="543" dclName="CV_Cam" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
-    <variable id="3517" dclIndex="544" dclName="SO_Cam On-Off" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3513" dclIndex="517" dclName="CV_Cam" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3517" dclIndex="518" dclName="SO_Cam On-Off" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="623" dclIndex="519" dclName="SyI_Power 1" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="624" dclIndex="520" dclName="SyI_Power 2" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="625" dclIndex="521" dclName="SyI_Power 3" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="626" dclIndex="522" dclName="SyI_Power 4" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="627" dclIndex="523" dclName="SyI_Power 5" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="628" dclIndex="524" dclName="SyI_Power 6" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="629" dclIndex="525" dclName="SyI_Power 7" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="630" dclIndex="526" dclName="SyI_Power 8" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2804" dclIndex="527" dclName="SyIO_1" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2805" dclIndex="528" dclName="SyIO_2" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3210" dclIndex="529" dclName="SyI_Timer 0 Time" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2806" dclIndex="530" dclName="SyI_Timer 1 Time" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2807" dclIndex="531" dclName="SyI_Timer 2 Time" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3206" dclIndex="532" dclName="SyO_Timer 0 Enable" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2808" dclIndex="533" dclName="SyO_Timer 1 Enable" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2809" dclIndex="534" dclName="SyO_Timer 2 Enable" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3207" dclIndex="535" dclName="SyO_Timer 0 Clear" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2810" dclIndex="536" dclName="SyO_Timer 1 Clear" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2811" dclIndex="537" dclName="SyO_Timer 2 Clear" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3227" dclIndex="538" dclName="SyI_Counter 0 Value" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3228" dclIndex="539" dclName="SyO_Counter 0 Input" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3229" dclIndex="540" dclName="SyO_Counter 0 Clear" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3279" dclIndex="541" dclName="SyI_Access Level" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3280" dclIndex="542" dclName="SyI_Operator" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3512" dclIndex="543" dclName="SyO_MC-F Camera Source" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2720" dclIndex="544" dclName="SyO_TST Access Level" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3519" dclIndex="545" dclName="DclD_Testing" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
   </variables>
   <graphs graphCount="0" />
   <canBuses busCount="4">
