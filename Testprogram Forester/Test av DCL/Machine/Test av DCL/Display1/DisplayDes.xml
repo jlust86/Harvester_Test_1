@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<displayDes width="800" height="480" firstPageCode="0" firstNavigationParameter="showLogin">
+    <pages pageCount="1">
+        <page name="Page 1" pageCode="0" />
+    </pages>
+</displayDes>

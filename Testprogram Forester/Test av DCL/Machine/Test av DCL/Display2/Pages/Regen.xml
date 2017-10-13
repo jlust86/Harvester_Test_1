@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page name="Regen" objectCount="13" backColor="-1380104" foreColor="-16777216" dclPageActive="-1" imageFile="Forester Inställningar utan svart list.bmp">
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="14" navigationCode="-1;-1" fontName="Segoe UI" imperialConversion="0" dispValueId="3269" divisor="1" textAlign="18" formatString="0" height="30" backColor="-9116937" width="100" left="304" top="120" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Regen.ValueLabel3.HelpText" />
+    </valueLabel>
+    <staticLabel fontName="Segoe UI" fontSize="14" navigationParameter="" navigationCode="-1;-1" textAlign="16" textId="Display 2.Regen.StaticLabel1" fontStyle="0" foreColor="-16777216" dclEnable="-1" width="232" height="40" left="8" top="392" backColor="-2892310" dclDown="-1" dclClick="-1" dclVisible="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Regen.StaticLabel1.HelpText" />
+    </staticLabel>
+    <staticLabel fontName="Segoe UI" fontSize="14" navigationParameter="" navigationCode="-1;-1" textAlign="16" textId="Display 2.Regen.StaticLabel15" fontStyle="0" foreColor="-16777216" dclEnable="-1" width="232" height="40" left="8" top="240" backColor="-2892310" dclDown="-1" dclClick="-1" dclVisible="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Regen.StaticLabel15.HelpText" />
+    </staticLabel>
+    <button foreColor="-16777216" textId="Display 2.Regen.Button3" fontStyle="1" fontName="Arial" fontSize="9" textAlign="17" transparent="0" downImage="Menyknapp Reset blå Down.bmp" imagePosition="3" downBackColor="-16711936" downForeColor="0" upImage="Menyknapp Reset blå.bmp" height="68" backColor="-4144960" width="68" left="464" top="96" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Regen.Button3.HelpText" />
+    </button>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="14" navigationCode="-1;-1" fontName="Segoe UI" imperialConversion="0" dispValueId="3253" divisor="1" textAlign="18" formatString="0" height="30" backColor="-9116937" width="100" left="192" top="136" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Regen.ValueLabel1.HelpText" />
+    </valueLabel>
+    <configVarSingleSelect valueFontStyle="0" valueTextAlign="18" valueHeight="-1" valueBorderColor="-16777216" valueFontName="Tahoma" valueFontSize="12" valueWidth="64" textId="Display 2.Regen.ConfigureSingleSelectionControl1" configVarId="3258" quickToggle="0" dclVisible="-1" dclEnable="-1" dialogActive="-1" height="64" fontName="Tahoma" fontSize="12" left="24" top="96" width="128" fontStyle="0" textAlign="16" valueBackColor="-1" valueForeColor="-16777216" foreColor="-16777216" transparent="0" backColor="-2892310">
+        <dialogSetting>
+            <helpText helpTextAutoShow="0" textId="Display 2.Regen.ConfigureSingleSelectionControl1.DialogSetting.HelpText" />
+        </dialogSetting>
+        <items itemCount="2">
+            <item textId="Display 2.Regen.ConfigureSingleSelectionControl1.Items.OFF" value="0" />
+            <item textId="Display 2.Regen.ConfigureSingleSelectionControl1.Items.ON" value="1" />
+        </items>
+    </configVarSingleSelect>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_On_01.bmp" transparent="0" imagePosition="1" width="43" top="456" left="88" height="43" dclVisible="-1" dclDown="-1" backColor="-4144960">
+        <helpText helpTextAutoShow="0" textId="Display 2.Regen.ImageBox1.HelpText" />
+    </image>
+    <button foreColor="-16777216" textId="Display 2.Regen.Button2" fontStyle="1" fontName="Arial" fontSize="9" textAlign="17" transparent="0" downImage="Menyknapp Reset blå Down.bmp" imagePosition="3" downBackColor="-16711936" downForeColor="0" upImage="Menyknapp Reset blå.bmp" height="68" backColor="-4144960" width="68" left="8" top="443" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Regen.Button2.HelpText" />
+    </button>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_On_01.bmp" transparent="0" imagePosition="1" width="43" top="304" left="88" height="43" dclVisible="-1" dclDown="-1" backColor="-4144960">
+        <helpText helpTextAutoShow="0" textId="Display 2.Regen.ImageBox6.HelpText" />
+    </image>
+    <button foreColor="-16777216" textId="Display 2.Regen.Button5" fontStyle="1" fontName="Arial" fontSize="9" textAlign="17" transparent="0" downImage="Menyknapp Reset blå Down.bmp" imagePosition="3" downBackColor="-16711936" downForeColor="0" upImage="Menyknapp Reset blå.bmp" height="68" backColor="-4144960" width="68" left="8" top="288" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Regen.Button5.HelpText" />
+    </button>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="14" navigationCode="-1;-1" fontName="Segoe UI" imperialConversion="0" dispValueId="3249" divisor="1" textAlign="18" formatString="0" height="30" backColor="-9116937" width="100" left="192" top="96" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Regen.ValueLabel2.HelpText" />
+    </valueLabel>
+    <button foreColor="-16777216" textId="Display 2.Regen.Button6" fontStyle="0" fontName="Tahoma" fontSize="12" textAlign="17" transparent="0" downImage="Menyknapp Statussida A Down Ny.bmp" imagePosition="1" downBackColor="0" downForeColor="0" upImage="Menyknapp Statussida A Ny.bmp" height="68" backColor="-1380104" width="68" left="8" top="8" dclVisible="-1" navigationParameter="" navigationCode="10000" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Regen.Button6.HelpText" />
+    </button>
+    <button foreColor="-16777216" textId="Display 2.Regen.Button1" fontStyle="0" fontName="Arial" fontSize="8" textAlign="17" transparent="0" downImage="Menyknapp Rund Down EXIT ny.bmp" imagePosition="3" downBackColor="-16711936" downForeColor="0" upImage="Menyknapp Rund EXIT ny.bmp" height="62" backColor="-4144960" width="124" left="1232" top="11" dclVisible="-1" navigationParameter="" navigationCode="-1;0" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Regen.Button1.HelpText" />
+    </button>
+</page>

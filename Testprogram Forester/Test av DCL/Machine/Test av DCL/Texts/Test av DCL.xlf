@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+    <file original="Test av DCL" source-language="" datatype="resources">
+        <body>
+            <trans-unit id="Display 2.MainPage.ConfigureSimpleControl9">
+                <source>UT Max</source>
+                <target>UT Max</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSimpleControl10">
+                <source>UT Min</source>
+                <target>UT Min</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSimpleControl8">
+                <source>IN Max</source>
+                <target>IN Max</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSimpleControl7">
+                <source>IN Min</source>
+                <target>IN Min</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel14">
+                <source>MCC ˚C:</source>
+                <target>MCC ˚C:</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel15">
+                <source>Scaled X:</source>
+                <target>Scaled X:</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel13">
+                <source>MCC mV:</source>
+                <target>MCC mV:</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel12">
+                <source>Raw X:</source>
+                <target>Raw X:</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel11">
+                <source>Givare</source>
+                <target>Givare</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel10">
+                <source>Backlight</source>
+                <target>Backlight</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSimpleControl4">
+                <source>6</source>
+                <target>6</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSimpleControl5">
+                <source>5</source>
+                <target>5</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSimpleControl6">
+                <source>4</source>
+                <target>4</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel9">
+                <source>6</source>
+                <target>6</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel8">
+                <source>5</source>
+                <target>5</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel7">
+                <source>4</source>
+                <target>4</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel6">
+                <source>3</source>
+                <target>3</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel5">
+                <source>2</source>
+                <target>2</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel3">
+                <source>1</source>
+                <target>1</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel2">
+                <source>Mätning</source>
+                <target>Mätning</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSimpleControl3">
+                <source>3</source>
+                <target>3</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSimpleControl2">
+                <source>2</source>
+                <target>2</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSimpleControl1">
+                <source>1</source>
+                <target>1</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSingleSelectionControl2">
+                <source>Tändning</source>
+                <target>Tändning</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSingleSelectionControl2.Items.OFF">
+                <source>OFF</source>
+                <target>OFF</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSingleSelectionControl2.Items.ON">
+                <source>ON</source>
+                <target>ON</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSingleSelectionControl1">
+                <source>PW Dwn</source>
+                <target>PW Dwn</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSingleSelectionControl1.Items.OFF">
+                <source>OFF</source>
+                <target>OFF</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.ConfigureSingleSelectionControl1.Items.ON">
+                <source>ON</source>
+                <target>ON</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel1">
+                <source>Operator:</source>
+                <target>Operator:</target>
+            </trans-unit>
+            <trans-unit id="Display 2.MainPage.StaticLabel4">
+                <source>Acces nivå:</source>
+                <target>Acces nivå:</target>
+            </trans-unit>
+            <trans-unit id="Display 2.Regen.StaticLabel1">
+                <source>Inhibit</source>
+                <target>Inhibit</target>
+            </trans-unit>
+            <trans-unit id="Display 2.Regen.StaticLabel15">
+                <source>Force</source>
+                <target>Force</target>
+            </trans-unit>
+            <trans-unit id="Display 2.Regen.ConfigureSingleSelectionControl1">
+                <source>Tillåt AB</source>
+                <target>Tillåt AB</target>
+            </trans-unit>
+            <trans-unit id="Display 2.Regen.ConfigureSingleSelectionControl1.Items.OFF">
+                <source>OFF</source>
+                <target>OFF</target>
+            </trans-unit>
+            <trans-unit id="Display 2.Regen.ConfigureSingleSelectionControl1.Items.ON">
+                <source>ON</source>
+                <target>ON</target>
+            </trans-unit>
+            <trans-unit id="Display 2.Page 3.StaticLabel5">
+                <source>TRC</source>
+                <target>TRC</target>
+            </trans-unit>
+            <trans-unit id="Display 2.Page 3.ConfigureSingleSelectionControl2">
+                <source>Trippmätare ON-OFF</source>
+                <target>Trippmätare ON-OFF</target>
+            </trans-unit>
+            <trans-unit id="Display 2.Page 3.StaticLabel4">
+                <source>R</source>
+                <target>R</target>
+            </trans-unit>
+            <trans-unit id="Display 2.Page 3.StaticLabel3">
+                <source>RESET</source>
+                <target>RESET</target>
+            </trans-unit>
+            <trans-unit id="Display 2.Page 3.StaticLabel1">
+                <source>RPM</source>
+                <target>RPM</target>
+            </trans-unit>
+            <trans-unit id="Display 2.Page 3.StaticLabel2">
+                <source>Trippmätare</source>
+                <target>Trippmätare</target>
+            </trans-unit>
+            <trans-unit id="Display 2.Page 4.StaticLabel15">
+                <source>B-Puls</source>
+                <target>B-Puls</target>
+            </trans-unit>
+            <trans-unit id="Display 2.Page 4.StaticLabel13">
+                <source>Nollpuls</source>
+                <target>Nollpuls</target>
+            </trans-unit>
+            <trans-unit id="Display 2.Page 4.StaticLabel12">
+                <source>A-Puls</source>
+                <target>A-Puls</target>
+            </trans-unit>
+            <trans-unit id="Display 1.Page 1.ConfigureSimpleControl1">
+                <source>Cam</source>
+                <target>Cam</target>
+            </trans-unit>
+            <trans-unit id="Display 1.Page 1.ConfigureSingleSelectionControl1">
+                <source>ConfigureSingleSelectionControl1</source>
+                <target>ConfigureSingleSelectionControl1</target>
+            </trans-unit>
+            <trans-unit id="Display 1.Page 1.ConfigureSingleSelectionControl1.Items.OFF">
+                <source>OFF</source>
+                <target>OFF</target>
+            </trans-unit>
+            <trans-unit id="Display 1.Page 1.ConfigureSingleSelectionControl1.Items.ON">
+                <source>ON</source>
+                <target>ON</target>
+            </trans-unit>
+            <trans-unit id="Display 1.Page 1.StaticLabel1">
+                <source>Pulståg</source>
+                <target>Pulståg</target>
+            </trans-unit>
+            <trans-unit id="Display 1.Page 1.StaticLabel15">
+                <source>B-Puls</source>
+                <target>B-Puls</target>
+            </trans-unit>
+            <trans-unit id="Display 1.Page 1.StaticLabel13">
+                <source>Nollpuls</source>
+                <target>Nollpuls</target>
+            </trans-unit>
+            <trans-unit id="Display 1.Page 1.StaticLabel12">
+                <source>A-Puls</source>
+                <target>A-Puls</target>
+            </trans-unit>
+            <trans-unit id="IO.Can1.D109">
+                <source>D109</source>
+                <target>D109</target>
+            </trans-unit>
+            <trans-unit id="IO.Can1.D109.OutA_Test">
+                <source>Test</source>
+                <target>Test</target>
+            </trans-unit>
+            <trans-unit id="IO.Can1.D109.InA_Measurement A">
+                <source>Measurement A</source>
+                <target>Measurement A</target>
+            </trans-unit>
+            <trans-unit id="IO.Can1.D109.InPG_Pulståg">
+                <source>Y-Värde</source>
+                <target>Y-Värde</target>
+            </trans-unit>
+            <trans-unit id="IO.Can1.D109.InD_Nollpuls">
+                <source>Nollpuls</source>
+                <target>Nollpuls</target>
+            </trans-unit>
+            <trans-unit id="IO.Can1.D109.InD_A-Puls">
+                <source>A-Puls</source>
+                <target>A-Puls</target>
+            </trans-unit>
+            <trans-unit id="IO.Can1.D109.InD_B-Puls">
+                <source>B-Puls</source>
+                <target>B-Puls</target>
+            </trans-unit>
+            <trans-unit id="IO.Can1.D115">
+                <source>D115</source>
+                <target>D115</target>
+            </trans-unit>
+            <trans-unit id="IO.Can1.D101">
+                <source>D101</source>
+                <target>D101</target>
+            </trans-unit>
+            <trans-unit id="IO.Can1.D101.InA_Broms nivå">
+                <source>Broms nivå</source>
+                <target>Broms nivå</target>
+            </trans-unit>
+            <trans-unit id="IO.Can1.D102">
+                <source>D102</source>
+                <target>D102</target>
+            </trans-unit>
+            <trans-unit id="IO.Can1.D102.InA_MCC Temp">
+                <source>MCC Temp</source>
+                <target>MCC Temp</target>
+            </trans-unit>
+            <trans-unit id="IO.Can4.Intern CB">
+                <source>Intern CB</source>
+                <target>Intern CB</target>
+            </trans-unit>
+            <trans-unit id="MapInVariable.CB_Keypad Button_1 Pressed Status">
+                <source>Keypad Button_1 Pressed Status</source>
+                <target>Keypad Button_1 Pressed Status</target>
+            </trans-unit>
+            <trans-unit id="MapOutVariable.Map_F4 Test">
+                <source>F4 Test</source>
+                <target>F4 Test</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cbMsgDesc>
+    <j1939>
+        <sources sourceCount="3">
+            <source id="938" sourceAddress="21" textId="J1939.Höger Exidor pallett">
+                <dtcs dtcCount="0" />
+            </source>
+            <source id="1216" sourceAddress="11" textId="J1939.Vänster Excidor pallett">
+                <dtcs dtcCount="0" />
+            </source>
+            <source id="3012" sourceAddress="225" textId="J1939.Test">
+                <dtcs dtcCount="0" />
+            </source>
+        </sources>
+    </j1939>
+</cbMsgDesc>

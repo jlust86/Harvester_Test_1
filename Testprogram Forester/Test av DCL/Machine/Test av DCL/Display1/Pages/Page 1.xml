@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page name="Page 1" objectCount="15" backColor="-986896" foreColor="-16777216" dclPageActive="-1">
+    <terminalCamera dclClick="-1" dclDown="-1" dclEnable="-1" navigationCode="-1;-1" navigationParameter="" dclVisible="3518" top="0" left="112" width="688" backColor="-16711681" height="480">
+        <helpText helpTextAutoShow="0" textId="Display 1.Page 1.TerminalCamera1.HelpText" />
+    </terminalCamera>
+    <configVarSimple valueFontStyle="0" valueTextAlign="18" valueHeight="-1" valueBorderColor="-16777216" valueFontName="Tahoma" valueFontSize="12" valueWidth="64" textId="Display 1.Page 1.ConfigureSimpleControl1" imperialConversion="0" configVarId="3410" dclVisible="-1" dclEnable="-1" dialogActive="-1" height="64" fontName="Tahoma" fontSize="12" left="2" top="264" width="112" fontStyle="0" textAlign="16" valueBackColor="-1" valueForeColor="-16777216" foreColor="-16777216" transparent="0" backColor="-2892310">
+        <dialogSetting transferValue="-1" onlineValueIn="-1" showDefaultValue="0" onlineSignalIn="-1">
+            <transferButton textId="Display 1.Page 1.ConfigureSimpleControl1.DialogSetting.TransferButton" visible="0" />
+            <onlineButton textId="Display 1.Page 1.ConfigureSimpleControl1.DialogSetting.OnlineButton" visible="0" />
+            <helpText helpTextAutoShow="0" textId="Display 1.Page 1.ConfigureSimpleControl1.DialogSetting.HelpText" />
+        </dialogSetting>
+    </configVarSimple>
+    <configVarSingleSelect valueTextAlign="18" valueHeight="-1" valueWidth="0" valueFontName="Tahoma" valueFontSize="12" valueFontStyle="0" imageFile="Menyknapp On-Off.bmp" textId="Display 1.Page 1.ConfigureSingleSelectionControl1" configVarId="3514" quickToggle="1" dclVisible="-1" dclEnable="-1" dialogActive="-1" valueBorderColor="-16777216" height="80" fontName="Tahoma" fontSize="12" left="24" top="176" width="72" fontStyle="0" textAlign="16" valueBackColor="-1" valueForeColor="-16777216" foreColor="-16777216" transparent="0" backColor="-986896">
+        <dialogSetting>
+            <helpText helpTextAutoShow="0" textId="Display 1.Page 1.ConfigureSingleSelectionControl1.DialogSetting.HelpText" />
+        </dialogSetting>
+        <items itemCount="2">
+            <item textId="Display 1.Page 1.ConfigureSingleSelectionControl1.Items.OFF" value="0" />
+            <item textId="Display 1.Page 1.ConfigureSingleSelectionControl1.Items.ON" value="1" />
+        </items>
+    </configVarSingleSelect>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="14" navigationCode="-1;-1" fontName="Segoe UI" imperialConversion="0" dispValueId="3511" divisor="1" textAlign="17" formatString="" height="32" backColor="-16711681" width="128" left="336" top="56" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 1.Page 1.ValueLabel5.HelpText" />
+    </valueLabel>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="14" navigationCode="-1;-1" fontName="Segoe UI" imperialConversion="0" dispValueId="3509" divisor="1" textAlign="17" formatString="" height="32" backColor="-16711681" width="128" left="336" top="16" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 1.Page 1.ValueLabel6.HelpText" />
+    </valueLabel>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_On_01.bmp" transparent="0" imagePosition="3" width="40" top="92" left="320" height="40" dclVisible="3449" dclDown="-1" backColor="-986896">
+        <helpText helpTextAutoShow="0" textId="Display 1.Page 1.ImageBox1.HelpText" />
+    </image>
+    <staticLabel fontName="Segoe UI" fontSize="14" navigationParameter="" navigationCode="-1;-1" textAlign="17" textId="Display 1.Page 1.StaticLabel1" fontStyle="1" foreColor="-16777216" dclEnable="-1" width="160" height="32" left="8" top="136" backColor="-5526613" dclDown="-1" dclClick="-1" dclVisible="-1">
+        <helpText helpTextAutoShow="0" textId="Display 1.Page 1.StaticLabel1.HelpText" />
+    </staticLabel>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="14" navigationCode="-1;-1" fontName="Segoe UI" imperialConversion="0" dispValueId="3504" divisor="1" textAlign="17" formatString="" height="32" backColor="-16711681" width="128" left="184" top="136" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 1.Page 1.ValueLabel1.HelpText" />
+    </valueLabel>
+    <button foreColor="-16777216" textId="Display 1.Page 1.Button6" fontStyle="0" fontName="Tahoma" fontSize="12" textAlign="17" transparent="0" downImage="Menyknapp Statussida A Down Ny.bmp" imagePosition="1" downBackColor="0" downForeColor="0" upImage="Menyknapp Statussida A Ny.bmp" height="68" backColor="-986896" width="68" left="720" top="8" dclVisible="-1" navigationParameter="sort=idTag" navigationCode="10000" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 1.Page 1.Button6.HelpText" />
+    </button>
+    <staticLabel fontName="Segoe UI" fontSize="14" navigationParameter="" navigationCode="-1;-1" textAlign="17" textId="Display 1.Page 1.StaticLabel15" fontStyle="1" foreColor="-16777216" dclEnable="-1" width="160" height="32" left="8" top="56" backColor="-5526613" dclDown="-1" dclClick="-1" dclVisible="-1">
+        <helpText helpTextAutoShow="0" textId="Display 1.Page 1.StaticLabel15.HelpText" />
+    </staticLabel>
+    <staticLabel fontName="Segoe UI" fontSize="14" navigationParameter="" navigationCode="-1;-1" textAlign="17" textId="Display 1.Page 1.StaticLabel13" fontStyle="1" foreColor="-16777216" dclEnable="-1" width="160" height="32" left="8" top="96" backColor="-5526613" dclDown="-1" dclClick="-1" dclVisible="-1">
+        <helpText helpTextAutoShow="0" textId="Display 1.Page 1.StaticLabel13.HelpText" />
+    </staticLabel>
+    <staticLabel fontName="Segoe UI" fontSize="14" navigationParameter="" navigationCode="-1;-1" textAlign="17" textId="Display 1.Page 1.StaticLabel12" fontStyle="1" foreColor="-16777216" dclEnable="-1" width="160" height="32" left="8" top="16" backColor="-5526613" dclDown="-1" dclClick="-1" dclVisible="-1">
+        <helpText helpTextAutoShow="0" textId="Display 1.Page 1.StaticLabel12.HelpText" />
+    </staticLabel>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="14" navigationCode="-1;-1" fontName="Segoe UI" imperialConversion="0" dispValueId="3502" divisor="1" textAlign="17" formatString="" height="32" backColor="-16711681" width="128" left="184" top="96" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 1.Page 1.ValueLabel4.HelpText" />
+    </valueLabel>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="14" navigationCode="-1;-1" fontName="Segoe UI" imperialConversion="0" dispValueId="3500" divisor="1" textAlign="17" formatString="" height="32" backColor="-16711681" width="128" left="184" top="56" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 1.Page 1.ValueLabel3.HelpText" />
+    </valueLabel>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="14" navigationCode="-1;-1" fontName="Segoe UI" imperialConversion="0" dispValueId="3498" divisor="1" textAlign="17" formatString="" height="32" backColor="-16711681" width="128" left="184" top="16" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 1.Page 1.ValueLabel2.HelpText" />
+    </valueLabel>
+</page>

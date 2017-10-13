@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<displayDes width="1367" height="690" firstPageCode="0" firstNavigationParameter="eseShell=register">
+    <pages pageCount="4">
+        <page name="MainPage" pageCode="0" />
+        <page name="Regen" pageCode="1" />
+        <page name="Page 3" pageCode="2" />
+        <page name="Page 4" pageCode="3" />
+    </pages>
+</displayDes>

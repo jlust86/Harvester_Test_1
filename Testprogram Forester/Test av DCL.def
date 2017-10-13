@@ -1,0 +1,1030 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--d5DCL DEF-file-->
+<mainDEF fileVersion="1.6.0.0">
+  <info>
+    <guid>43fab8b5-1e59-4f23-b247-3ad353ded7cc</guid>
+    <projectNumber>-1</projectNumber>
+    <userName>Jonny Hansson</userName>
+    <company>Rottne Industri AB</company>
+    <identity>Test av DCL</identity>
+    <version>0.0.81</version>
+    <dclToolVersion>3.5.2.0</dclToolVersion>
+  </info>
+  <projectGroup projectCount="1">
+    <project projectNumber="-1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" name="Test av DCL" />
+  </projectGroup>
+  <variables variableCount="545">
+    <variable id="3427" dclIndex="0" dclName="CB_1 Recieve 5" ownerId="3428" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3425" dclIndex="1" dclName="CB_1 Recieve 1" ownerId="3426" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3423" dclIndex="2" dclName="CB_1 Recieve 2" ownerId="3424" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3421" dclIndex="3" dclName="CB_1 Recieve 3" ownerId="3422" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3419" dclIndex="4" dclName="CB_1 Recieve 4" ownerId="3420" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2386" dclIndex="5" dclName="EV_Js 2 Höger Y-led -2H-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2294" dclIndex="6" dclName="EV_Ind Krantilt Auto" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1844" dclIndex="7" dclName="EV_Pot Diff -6H-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1746" dclIndex="8" dclName="EV_Pot Hastighet -6V-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1842" dclIndex="9" dclName="EV_Js 2 Vänster X-led -1V-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="651" dclIndex="10" dclName="SO_Ind Direktström" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="653" dclIndex="11" dclName="SO_Ind Huvudström" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1734" dclIndex="12" dclName="EV_Sw Stolsbroms -22H-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1846" dclIndex="13" dclName="EV_Sw -16V-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="655" dclIndex="14" dclName="SO_Ind Tändning" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="699" dclIndex="15" dclName="SO_Error Js Kransväng" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="705" dclIndex="16" dclName="SO_Error Js Vipparm" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="708" dclIndex="17" dclName="SO_Error Js Utskjut" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1433" dclIndex="18" dclName="EV_Sw Transm Drift Bakåt -15V-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1435" dclIndex="19" dclName="EV_Sw Transm Neutral -14V-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1437" dclIndex="20" dclName="EV_Sw Transm Drift Framåt -13V-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1449" dclIndex="21" dclName="EV_Sw Backkamera -17H-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1489" dclIndex="22" dclName="EV_Js 2 Vänster Y-led -2V-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2288" dclIndex="23" dclName="EV_Sw Farthållare -19V-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="116" dclIndex="24" dclName="CV_Js Kransväng Max mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="128" dclIndex="25" dclName="CV_Js Huvudbom Min mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="130" dclIndex="26" dclName="CV_Js Huvudbom Max mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="139" dclIndex="27" dclName="CV_Js Vipparm Min mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="141" dclIndex="28" dclName="CV_Js Vipparm Max mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="148" dclIndex="29" dclName="CV_Js Utskjut Min mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="150" dclIndex="30" dclName="CV_Js Utskjut Max mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="158" dclIndex="31" dclName="CV_Js Rotator Min mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="160" dclIndex="32" dclName="CV_Js Rotator Max mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="168" dclIndex="33" dclName="CV_Js Nedre knivar Min mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="170" dclIndex="34" dclName="CV_Js Nedre knivar Max mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="72" dclIndex="35" dclName="-1" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="78" dclIndex="36" dclName="2" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="79" dclIndex="37" dclName="50" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="112" dclIndex="38" dclName="DV_Js Kransväng mV" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="118" dclIndex="39" dclName="-100" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="119" dclIndex="40" dclName="100" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="121" dclIndex="41" dclName="-50" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="122" dclIndex="42" dclName="0" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="124" dclIndex="43" dclName="DV_Js Kransväng %" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="126" dclIndex="44" dclName="DV_Js Huvudbom mV" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="134" dclIndex="45" dclName="DV_Js Huvudbom %" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="136" dclIndex="46" dclName="DV_Js Vipparm mV" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="144" dclIndex="47" dclName="DV_Js Vipparm %" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="146" dclIndex="48" dclName="DV_Js Utskjut mV" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="154" dclIndex="49" dclName="DV_Js Utskjut %" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="156" dclIndex="50" dclName="DV_Js Rotator mV" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="164" dclIndex="51" dclName="DV_Js Rotator %" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="166" dclIndex="52" dclName="DV_Js Nedre Knivar mV" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="176" dclIndex="53" dclName="DV_Js Nedre knivar %" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="378" dclIndex="54" dclName="1" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="461" dclIndex="55" dclName="10" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="524" dclIndex="56" dclName="75" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="657" dclIndex="57" dclName="10000" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="697" dclIndex="58" dclName="450" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="722" dclIndex="59" dclName="3" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="729" dclIndex="60" dclName="90" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="928" dclIndex="61" dclName="1000" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="929" dclIndex="62" dclName="-1000" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="959" dclIndex="63" dclName="OutD_CB Lysdiod 1H (K1-1)" ownerId="960" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="961" dclIndex="64" dclName="OutD_CB Lysdiod 4H (K1-2)" ownerId="962" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="963" dclIndex="65" dclName="OutD_CB Lysdiod 7H (K1-3)" ownerId="964" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="965" dclIndex="66" dclName="OutD_CB Lysdiod 3H (K1-4)" ownerId="966" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="967" dclIndex="67" dclName="OutD_CB Lysdiod 6H (K1-5)" ownerId="968" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="969" dclIndex="68" dclName="OutD_CB Lysdiod 9H (K1-6)" ownerId="970" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="975" dclIndex="69" dclName="InD_CB Sw 20 H (K2-2)" ownerId="976" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="977" dclIndex="70" dclName="InD_CB Sw 21 H (K2-3)" ownerId="978" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="979" dclIndex="71" dclName="InD_CB Sw 16 H (K3-1)" ownerId="980" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="981" dclIndex="72" dclName="InD_CB Sw 17 H (K3-2)" ownerId="982" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="983" dclIndex="73" dclName="InD_CB Sw 18 H (K3-3)" ownerId="984" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="985" dclIndex="74" dclName="InD_CB Sw 13 H (K5-1)" ownerId="986" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="987" dclIndex="75" dclName="InD_CB Sw 14 H (K5-2)" ownerId="988" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="989" dclIndex="76" dclName="InD_CB Sw 15 H (K5-3)" ownerId="990" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="991" dclIndex="77" dclName="InD_CB Sw 12 H (K6-1)" ownerId="992" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="993" dclIndex="78" dclName="InD_CB Sw 11 H (K6-2)" ownerId="994" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="995" dclIndex="79" dclName="InD_CB Sw 10 H (K6-3)" ownerId="996" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="997" dclIndex="80" dclName="InD_CB Sw 1 H (K4-1)" ownerId="998" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="999" dclIndex="81" dclName="InD_CB Sw 2 H (K4-2)" ownerId="1000" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1001" dclIndex="82" dclName="InD_CB Sw 3 H (K4-3)" ownerId="1002" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1003" dclIndex="83" dclName="InD_CB Sw 4 H (K4-4)" ownerId="1004" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1005" dclIndex="84" dclName="InD_CB Sw 5 H (K4-5)" ownerId="1006" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1007" dclIndex="85" dclName="InD_CB Sw 6 H (K4-6)" ownerId="1008" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1009" dclIndex="86" dclName="InD_CB Sw 7 H (K4-7)" ownerId="1010" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1011" dclIndex="87" dclName="InD_CB Sw 8 H (K4-8)" ownerId="1012" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1013" dclIndex="88" dclName="InD_CB Sw 9 H (K4-9)" ownerId="1014" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1015" dclIndex="89" dclName="InD_CB Sw 19 H (K2-1)" ownerId="1016" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1026" dclIndex="90" dclName="InA_CB Js Kran X 1H (K10-1)" ownerId="1027" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1028" dclIndex="91" dclName="InA_CB Js Kran Y 2H (K10-2)" ownerId="1029" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1030" dclIndex="92" dclName="InA_CB Js Kran Z 3H (K10-3)" ownerId="1031" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1032" dclIndex="93" dclName="InD_CB Sw 30H (K10-9)" ownerId="1033" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1034" dclIndex="94" dclName="InD_CB Sw 22H (K7-1)" ownerId="1035" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1036" dclIndex="95" dclName="InD_CB Sw 23H (K7-2)" ownerId="1037" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1038" dclIndex="96" dclName="InD_CB Sw 24H (K7-3)" ownerId="1039" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1040" dclIndex="97" dclName="InA_CB Js2 X 4H (K9-1)" ownerId="1041" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1044" dclIndex="98" dclName="InA_CB Js2 Y 5H (K9-2)" ownerId="1045" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1046" dclIndex="99" dclName="InA_CB Pot 6H (K11-1)" ownerId="1047" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1048" dclIndex="100" dclName="InA_CB AI 7H (K11-2)" ownerId="1049" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1050" dclIndex="101" dclName="InA_CB Pot Access (K71-4)" ownerId="1051" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1052" dclIndex="102" dclName="InD_CB Sw 25AH (K10-4)" ownerId="1053" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1054" dclIndex="103" dclName="InD_CB Sw 26BH (K10-5)" ownerId="1055" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1056" dclIndex="104" dclName="InD_CB Sw 27CH (K10-6)" ownerId="1057" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1058" dclIndex="105" dclName="InD_CB Sw 28DH (K10-7)" ownerId="1059" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1060" dclIndex="106" dclName="InD_CB Sw 29EH (K10-8)" ownerId="1061" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1066" dclIndex="107" dclName="OutD_CB Disable background button" ownerId="1067" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1068" dclIndex="108" dclName="OutD_CB Background light Rightpanel" ownerId="1069" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1174" dclIndex="109" dclName="SO_Sw 1H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1176" dclIndex="110" dclName="SO_Sw 2H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1178" dclIndex="111" dclName="SO_Sw 3H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1180" dclIndex="112" dclName="SO_Sw 4H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1182" dclIndex="113" dclName="SO_Sw 5H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1184" dclIndex="114" dclName="SO_Sw 6H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1186" dclIndex="115" dclName="SO_Sw 7H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1188" dclIndex="116" dclName="SO_Sw 8H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1190" dclIndex="117" dclName="SO_Sw 9H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1192" dclIndex="118" dclName="SO_Sw 11H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1194" dclIndex="119" dclName="SO_Sw 10H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1196" dclIndex="120" dclName="SO_Sw 12H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1198" dclIndex="121" dclName="SO_Sw Gyro Krantilt -13H-" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1200" dclIndex="122" dclName="SO_Sw Krantilt Ut -14H-" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1202" dclIndex="123" dclName="SO_Sw Krantilt In -15H-" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1204" dclIndex="124" dclName="SO_Sw 16H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1206" dclIndex="125" dclName="SO_Sw 17H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1208" dclIndex="126" dclName="SO_Sw 18H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1210" dclIndex="127" dclName="SO_Sw 19H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1212" dclIndex="128" dclName="SO_Sw 20H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1214" dclIndex="129" dclName="SO_Sw 21H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1218" dclIndex="130" dclName="InA_CB Js Kran X 1V (K10-1)" ownerId="1219" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1220" dclIndex="131" dclName="InA_CB Js Kran Y 2V (K10-2)" ownerId="1221" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1222" dclIndex="132" dclName="InA_CB Js Kran Z 3V (K10-3)" ownerId="1223" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1224" dclIndex="133" dclName="InA_CB Js2 X 4V (K9-1)" ownerId="1225" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1227" dclIndex="134" dclName="InA_CB Js2 Y 5V (K9-2)" ownerId="1228" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1229" dclIndex="135" dclName="InA_CB Pot 6V (K11-1)" ownerId="1230" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1231" dclIndex="136" dclName="InA_CB AI 7V (K11-2)" ownerId="1232" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1233" dclIndex="137" dclName="InA_CB AI 8V (K7-4)" ownerId="1234" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1300" dclIndex="138" dclName="OutD_CB Lysdiod 1V (K1-1)" ownerId="1301" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1302" dclIndex="139" dclName="OutD_CB Lysdiod 4V (K1-2)" ownerId="1303" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1304" dclIndex="140" dclName="OutD_CB Lysdiod 7V (K1-3)" ownerId="1305" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1308" dclIndex="141" dclName="OutD_CB Lysdiod 3V (K1-4)" ownerId="1309" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1310" dclIndex="142" dclName="OutD_CB Lysdiod 6V (K1-5)" ownerId="1311" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1312" dclIndex="143" dclName="OutD_CB Lysdiod 9V (K1-6)" ownerId="1313" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1315" dclIndex="144" dclName="InD_CB Sw 10V (K2-1)" ownerId="1316" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1317" dclIndex="145" dclName="InD_CB Sw 11V (K2-2)" ownerId="1318" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1319" dclIndex="146" dclName="InD_CB Sw 12V (K2-3)" ownerId="1320" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1321" dclIndex="147" dclName="InD_CB Sw 15V (K3-1)" ownerId="1322" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1323" dclIndex="148" dclName="InD_CB Sw 14V (K3-2)" ownerId="1324" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1325" dclIndex="149" dclName="InD_CB Sw 13V (K3-3)" ownerId="1326" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1327" dclIndex="150" dclName="InD_CB Sw 18V (K5-1)" ownerId="1328" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1329" dclIndex="151" dclName="InD_CB Sw 17V (K5-2)" ownerId="1330" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1331" dclIndex="152" dclName="InD_CB Sw 16V (K5-3)" ownerId="1332" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1333" dclIndex="153" dclName="InD_CB Sw 21V (K6-1)" ownerId="1334" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1335" dclIndex="154" dclName="InD_CB Sw 20V (K6-2)" ownerId="1336" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1337" dclIndex="155" dclName="InD_CB Sw 19V (K6-3)" ownerId="1338" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1339" dclIndex="156" dclName="InD_CB Sw 1 V (K4-1)" ownerId="1340" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1341" dclIndex="157" dclName="InD_CB Sw 2 V (K4-2)" ownerId="1342" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1343" dclIndex="158" dclName="InD_CB Sw 3 V (K4-3)" ownerId="1344" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1345" dclIndex="159" dclName="InD_CB Sw 4 V (K4-4)" ownerId="1346" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1347" dclIndex="160" dclName="InD_CB Sw 5 V (K4-5)" ownerId="1348" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1349" dclIndex="161" dclName="InD_CB Sw 6 V (K4-6)" ownerId="1350" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1351" dclIndex="162" dclName="InD_CB Sw 7 V (K4-7)" ownerId="1352" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1353" dclIndex="163" dclName="InD_CB Sw 8 V (K4-8)" ownerId="1354" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1355" dclIndex="164" dclName="InD_CB Sw 9 V (K4-9)" ownerId="1356" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1357" dclIndex="165" dclName="InD_CB Sw Digital 22V (K7-1)" ownerId="1358" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1359" dclIndex="166" dclName="InD_CB Sw Digital 23V (K7-2)" ownerId="1360" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1361" dclIndex="167" dclName="InD_CB Sw Digital 24V (K7-3)" ownerId="1362" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1363" dclIndex="168" dclName="InD_CB Sw 25 AV (K10-4)" ownerId="1364" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1365" dclIndex="169" dclName="InD_CB Sw 26 BV (K10-5)" ownerId="1366" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1367" dclIndex="170" dclName="InD_CB Sw 27 CV (K10-6)" ownerId="1368" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1369" dclIndex="171" dclName="InD_CB Sw 28 DV (K10-7)" ownerId="1370" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1371" dclIndex="172" dclName="InD_CB Sw 29 EV (K10-8)" ownerId="1372" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1373" dclIndex="173" dclName="InD_CB Sw 30 Digital V (K10-9)" ownerId="1374" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1381" dclIndex="174" dclName="SO_Sw 1V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1383" dclIndex="175" dclName="SO_Sw 2V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1385" dclIndex="176" dclName="SO_Sw 3V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1387" dclIndex="177" dclName="SO_Sw 4V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1389" dclIndex="178" dclName="SO_Sw 5V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1391" dclIndex="179" dclName="SO_Sw 6V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1393" dclIndex="180" dclName="SO_Sw 7V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1395" dclIndex="181" dclName="SO_Sw 8V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1397" dclIndex="182" dclName="SO_Sw 9V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1399" dclIndex="183" dclName="SO_Sw 15V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1401" dclIndex="184" dclName="SO_Sw 14V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1403" dclIndex="185" dclName="SO_Sw 13V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1405" dclIndex="186" dclName="SO_Sw 10V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1407" dclIndex="187" dclName="SO_Sw 11V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1409" dclIndex="188" dclName="SO_Sw 12V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1411" dclIndex="189" dclName="SO_Sw 18V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1413" dclIndex="190" dclName="SO_Sw 17V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1415" dclIndex="191" dclName="SO_Sw 16V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1417" dclIndex="192" dclName="SO_Sw 21V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1419" dclIndex="193" dclName="SO_Sw 20V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1421" dclIndex="194" dclName="SO_Sw 19V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1427" dclIndex="195" dclName="EV_Sw Arbetsvarv -21H-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1429" dclIndex="196" dclName="EV_Sw Diff Fram-19H-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1431" dclIndex="197" dclName="EV_Sw Diff Bak -20H-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1439" dclIndex="198" dclName="EV_Sw Momentan Torkare -18H-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1441" dclIndex="199" dclName="EV_Js 2 Höger X-led -1H-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1481" dclIndex="200" dclName="EV_Sw -17V-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1483" dclIndex="201" dclName="EV_Sw -18V-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1485" dclIndex="202" dclName="EV_Sw Js Nivellering ON-OFF -21V-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1487" dclIndex="203" dclName="EV_Sw Tillåt Styrning -20V-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1754" dclIndex="204" dclName="-80" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1756" dclIndex="205" dclName="400" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1763" dclIndex="206" dclName="350" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1765" dclIndex="207" dclName="4" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1766" dclIndex="208" dclName="5" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1767" dclIndex="209" dclName="6" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1821" dclIndex="210" dclName="150" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1825" dclIndex="211" dclName="666" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1826" dclIndex="212" dclName="285" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1829" dclIndex="213" dclName="600" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1830" dclIndex="214" dclName="1300" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1833" dclIndex="215" dclName="700" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="1834" dclIndex="216" dclName="990" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2214" dclIndex="217" dclName="EV_Sw 1H" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2216" dclIndex="218" dclName="EV_Sw 2H" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2218" dclIndex="219" dclName="EV_Sw 3H" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2220" dclIndex="220" dclName="EV_Sw 4H" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2222" dclIndex="221" dclName="EV_Sw 5H" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2224" dclIndex="222" dclName="EV_Sw 6H" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2226" dclIndex="223" dclName="EV_Sw 7H" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2228" dclIndex="224" dclName="EV_Sw 8H" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2230" dclIndex="225" dclName="EV_Sw 9H" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2232" dclIndex="226" dclName="EV_Sw 12H" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2234" dclIndex="227" dclName="EV_Sw 11H" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2236" dclIndex="228" dclName="EV_Sw 10H" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2238" dclIndex="229" dclName="EV_Sw 16H" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2240" dclIndex="230" dclName="EV_Sw 25 AH" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2242" dclIndex="231" dclName="EV_Sw 26 BH" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2244" dclIndex="232" dclName="EV_Sw 27 CH" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2246" dclIndex="233" dclName="EV_Sw 28 DH" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2248" dclIndex="234" dclName="EV_Sw 29 EH" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2250" dclIndex="235" dclName="EV_Sw 1V" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2252" dclIndex="236" dclName="EV_Sw 2V" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2254" dclIndex="237" dclName="EV_Sw 3V" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2256" dclIndex="238" dclName="EV_Sw 4V" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2258" dclIndex="239" dclName="EV_Sw 5V" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2260" dclIndex="240" dclName="EV_Sw 6V" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2262" dclIndex="241" dclName="EV_Sw 7V" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2264" dclIndex="242" dclName="EV_Sw 8V" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2266" dclIndex="243" dclName="EV_Sw 9V" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2268" dclIndex="244" dclName="EV_Sw 10V" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2270" dclIndex="245" dclName="EV_Sw 11V" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2272" dclIndex="246" dclName="EV_Sw STOP -12V-" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2274" dclIndex="247" dclName="EV_Sw 25 AV" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2276" dclIndex="248" dclName="EV_Sw 26 BV" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2278" dclIndex="249" dclName="EV_Sw 27 CV" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2280" dclIndex="250" dclName="EV_Sw 28 DV" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2282" dclIndex="251" dclName="EV_Sw 29 EV" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2296" dclIndex="252" dclName="OutD_CB Lysdiod 19H (K2-5)" ownerId="2297" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2298" dclIndex="253" dclName="OutD_CB Lysdiod 20H (K2-6)" ownerId="2299" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2300" dclIndex="254" dclName="OutD_CB Lysdiod 21H (K2-7)" ownerId="2301" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2302" dclIndex="255" dclName="OutD_CB Lysdiod 16H (K3-5)" ownerId="2303" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2304" dclIndex="256" dclName="OutD_CB Lysdiod 17H (K3-6)" ownerId="2305" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2306" dclIndex="257" dclName="OutD_CB Lysdiod 18H (K3-7)" ownerId="2307" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2308" dclIndex="258" dclName="OutD_CB Lysdiod 13H (K5-5)" ownerId="2309" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2310" dclIndex="259" dclName="OutD_CB Lysdiod 14H (K5-6)" ownerId="2311" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2312" dclIndex="260" dclName="OutD_CB Lysdiod 15H (K5-7)" ownerId="2313" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2314" dclIndex="261" dclName="OutD_CB Lysdiod 12H (K6-5)" ownerId="2315" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2316" dclIndex="262" dclName="OutD_CB Lysdiod 11H (K6-6)" ownerId="2317" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2318" dclIndex="263" dclName="OutD_CB Lysdiod 10H (K6-7)" ownerId="2319" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2320" dclIndex="264" dclName="OutD_CB Lysdiod Digital ut 19H (K7-5)" ownerId="2321" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2322" dclIndex="265" dclName="OutD_CB Lysdiod Digital ut 20H (K7-6)" ownerId="2323" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2324" dclIndex="266" dclName="OutD_CB Lysdiod Digital ut 21H (K7-7)" ownerId="2325" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2326" dclIndex="267" dclName="OutD_CB Lysdiod 10V (K2-5)" ownerId="2327" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2328" dclIndex="268" dclName="OutD_CB Lysdiod 11V (K2-6)" ownerId="2329" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2330" dclIndex="269" dclName="OutD_CB Lysdiod 12V (K2-7)" ownerId="2331" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2332" dclIndex="270" dclName="OutD_CB Lysdiod 15V (K3-5)" ownerId="2333" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2334" dclIndex="271" dclName="OutD_CB Lysdiod 14V (K3-6)" ownerId="2335" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2336" dclIndex="272" dclName="OutD_CB Lysdiod 13V (K3-7)" ownerId="2337" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2338" dclIndex="273" dclName="OutD_CB Lysdiod 18V (K5-5)" ownerId="2339" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2340" dclIndex="274" dclName="OutD_CB Lysdiod 17V (K5-6)" ownerId="2341" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2342" dclIndex="275" dclName="OutD_CB Lysdiod 16V (K5-7)" ownerId="2343" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2344" dclIndex="276" dclName="OutD_CB Lysdiod 21V (K6-5)" ownerId="2345" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2346" dclIndex="277" dclName="OutD_CB Lysdiod 20V (K6-6)" ownerId="2347" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2348" dclIndex="278" dclName="OutD_CB Lysdiod 19V (K6-7)" ownerId="2349" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2350" dclIndex="279" dclName="OutD_CB Lysdiod Digital ut 19V (K7-5)" ownerId="2351" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2352" dclIndex="280" dclName="OutD_CB Lysdiod Digital ut 20V (K7-6)" ownerId="2353" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2354" dclIndex="281" dclName="OutD_CB Lysdiod Digital ut 21V (K7-7)" ownerId="2355" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2480" dclIndex="282" dclName="800" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2483" dclIndex="283" dclName="200" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2485" dclIndex="284" dclName="60" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2564" dclIndex="285" dclName="CV_Tid Fo filter 1" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2614" dclIndex="286" dclName="CV_Pot Min (mV)" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2616" dclIndex="287" dclName="CV_Pot Max (mV)" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2675" dclIndex="288" dclName="EV_Tillåt Arbetsvarv" ownerId="-1" type="10" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2679" dclIndex="289" dclName="CV_Js Kransväng Startläge Min (mV)" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2681" dclIndex="290" dclName="CV_Js Kransväng Startläge Max (mV)" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2683" dclIndex="291" dclName="CV_Js Huvudbom Startläge Min (mV)" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2685" dclIndex="292" dclName="CV_Js Huvudbom Startläge Max (mV)" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2687" dclIndex="293" dclName="CV_Js Vipparm Startläge Min (mV)" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2689" dclIndex="294" dclName="CV_Js Vipparm Startläge Max (mV)" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2691" dclIndex="295" dclName="CV_Js Rotator Startläge Min (mV)" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2693" dclIndex="296" dclName="CV_Js Rotator Startläge Max (mV)" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2738" dclIndex="297" dclName="SO_Stolsbrytare 1=bakåt" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2740" dclIndex="298" dclName="SO_Stolsberoende drift on/off" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2742" dclIndex="299" dclName="SO_Pedal fram/back" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2754" dclIndex="300" dclName="20" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2762" dclIndex="301" dclName="175" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2764" dclIndex="302" dclName="2000" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2765" dclIndex="303" dclName="DclA_Dieselmotorvarv rpm" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2766" dclIndex="304" dclName="DV_Dieselmotorvarv rpm" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2772" dclIndex="305" dclName="314" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2780" dclIndex="306" dclName="166" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2784" dclIndex="307" dclName="100000" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2797" dclIndex="308" dclName="1400" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2801" dclIndex="309" dclName="-200" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2820" dclIndex="310" dclName="60000" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2825" dclIndex="311" dclName="36000" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2826" dclIndex="312" dclName="3600" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2829" dclIndex="313" dclName="360" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2834" dclIndex="314" dclName="6000" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2837" dclIndex="315" dclName="59" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2847" dclIndex="316" dclName="500" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2901" dclIndex="317" dclName="-500" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2905" dclIndex="318" dclName="SO_Sw 25H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2907" dclIndex="319" dclName="SO_Sw 26H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2909" dclIndex="320" dclName="SO_Sw 27H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2911" dclIndex="321" dclName="SO_Sw 28H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2913" dclIndex="322" dclName="SO_Sw 29H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2915" dclIndex="323" dclName="SO_Sw 22H" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2917" dclIndex="324" dclName="DV_joystick Liten H" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2928" dclIndex="325" dclName="CV_Js2 Styrning 1 Min mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2930" dclIndex="326" dclName="CV_Js2 Styrning 1 Max mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2933" dclIndex="327" dclName="SO_Sw 25V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2935" dclIndex="328" dclName="SO_Sw 26V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2937" dclIndex="329" dclName="SO_Sw 27V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2939" dclIndex="330" dclName="SO_Sw 28V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2941" dclIndex="331" dclName="SO_Sw 29V" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2947" dclIndex="332" dclName="DV_joystick Liten V X" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2949" dclIndex="333" dclName="DV_joystick Liten V Y" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2951" dclIndex="334" dclName="CV_Js2 Styrning_VY min mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2953" dclIndex="335" dclName="CV_Js2 Styrning_VY max mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2955" dclIndex="336" dclName="CV_Js2 Styrning_VX min mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2957" dclIndex="337" dclName="CV_Js2 Styrning_VX max mV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2976" dclIndex="338" dclName="CV_Mintryck KV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2978" dclIndex="339" dclName="CV_Maxtryck KV" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2983" dclIndex="340" dclName="3937" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2994" dclIndex="341" dclName="254" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3055" dclIndex="342" dclName="CV_Js Midjestyrning Hastighet Orbitrol" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3071" dclIndex="343" dclName="2047" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3074" dclIndex="344" dclName="4095" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3080" dclIndex="345" dclName="9" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3081" dclIndex="346" dclName="25" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3089" dclIndex="347" dclName="CV_Red. Midjeposition Orbitrol Hö" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3091" dclIndex="348" dclName="CV_Red. Midjeposition Orbitrol Vä" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3102" dclIndex="349" dclName="CV_Start Red. Midjestyrning %" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3104" dclIndex="350" dclName="CV_Max Red. Midjestyrning %" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3106" dclIndex="351" dclName="CV_Max Red. Midjestyrning mA" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3108" dclIndex="352" dclName="CV_Pv Midjestyrning Hö Max" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3141" dclIndex="353" dclName="DV_H8_Transm_Potentiometer" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3143" dclIndex="354" dclName="DV_H8_Transm_Hjul_1" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3145" dclIndex="355" dclName="DV_H8_Transm_Hjul_2" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3148" dclIndex="356" dclName="CV_H8_Transm_Ventil min" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3150" dclIndex="357" dclName="CV_H8_Transm_Ventil max" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3152" dclIndex="358" dclName="DV_H8_Transm_Ventil_Ut" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3155" dclIndex="359" dclName="CV_H8_Transm_Störsignal min" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3157" dclIndex="360" dclName="CV_H8_Transm_Störsignal max" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3160" dclIndex="361" dclName="DV_H8_Transm_Störsignal Vä" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3162" dclIndex="362" dclName="DV_H8_Transm_Störsignal Hö" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3164" dclIndex="363" dclName="DV_H8_Transm_Hjul12_Diff" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3166" dclIndex="364" dclName="DV_H8_Transm_Hjul21_Diff" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3168" dclIndex="365" dclName="DclD_H8_transm_Hjul12_Slirar" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3169" dclIndex="366" dclName="DclD_H8_transm_Hjul21_Slirar" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3170" dclIndex="367" dclName="SO_H8_Transm_Vä Slirar" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3172" dclIndex="368" dclName="SO_H8_Transm_Hö Slirar" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3174" dclIndex="369" dclName="CV_Metric Bar Input" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3176" dclIndex="370" dclName="CV_Metric Celsius Input" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3178" dclIndex="371" dclName="CV_Metric Litre Input" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3180" dclIndex="372" dclName="DV_Imperial Gallon" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3182" dclIndex="373" dclName="DV_Imperial PSI" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3184" dclIndex="374" dclName="DV_Imperial Fahrenheit" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3186" dclIndex="375" dclName="145038" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3187" dclIndex="376" dclName="2642" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3188" dclIndex="377" dclName="18" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3189" dclIndex="378" dclName="32" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3195" dclIndex="379" dclName="CV_Metric kPa Input" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3197" dclIndex="380" dclName="DV_Imperial PSI 2" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3199" dclIndex="381" dclName="CV_Set Dieselmotortid Timmar" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3201" dclIndex="382" dclName="DclA_Kvar till 100" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3202" dclIndex="383" dclName="CV_Tändning" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3208" dclIndex="384" dclName="SI_Reset Motortid" ownerId="-1" type="100" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3211" dclIndex="385" dclName="DV_Motortid Timmar" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3213" dclIndex="386" dclName="DclD_Service counter 100" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3215" dclIndex="387" dclName="DclA_Kvar till 100 Tim Service" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3216" dclIndex="388" dclName="250" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3219" dclIndex="389" dclName="DclD_Visa 500 tim service" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3220" dclIndex="390" dclName="DclA_Kvar till 500 tim service" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3223" dclIndex="391" dclName="DclA_Kvar till 500" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3224" dclIndex="392" dclName="DclD_Service counter 500" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3225" dclIndex="393" dclName="DV_Kvar till Service" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3230" dclIndex="394" dclName="DclD_Visa 100 tim service" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3231" dclIndex="395" dclName="SO_Visa Service" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3233" dclIndex="396" dclName="SO_Servicelarm" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3235" dclIndex="397" dclName="CV_US Mode" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3239" dclIndex="398" dclName="SO_Ind US Mode" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3241" dclIndex="399" dclName="SI_Reset Servicetid" ownerId="-1" type="100" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3244" dclIndex="400" dclName="CV_Serviceintervall" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3246" dclIndex="401" dclName="242" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3248" dclIndex="402" dclName="DV_Control Byte 1" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3252" dclIndex="403" dclName="DV_Control Byte 2" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3256" dclIndex="404" dclName="36" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3257" dclIndex="405" dclName="CV_Tillåt Avgasbehandling" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3263" dclIndex="406" dclName="49" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3264" dclIndex="407" dclName="223" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3267" dclIndex="408" dclName="207" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3268" dclIndex="409" dclName="DV_Ecu Stationary Regen" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3274" dclIndex="410" dclName="3000" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3281" dclIndex="411" dclName="DV_1 Access" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3283" dclIndex="412" dclName="DV_1 Operator" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3285" dclIndex="413" dclName="SO_1 Driver" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3287" dclIndex="414" dclName="SO_1 Service" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3289" dclIndex="415" dclName="SO_1 Ubermensch" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3291" dclIndex="416" dclName="CV_1 Tändning" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3293" dclIndex="417" dclName="CV_1 Power down" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3299" dclIndex="418" dclName="SO_Stäng ej av huvudström" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3301" dclIndex="419" dclName="Temp" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3302" dclIndex="420" dclName="CV_1" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3304" dclIndex="421" dclName="CV_2" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3306" dclIndex="422" dclName="CV_3" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3308" dclIndex="423" dclName="Temp_1" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3309" dclIndex="424" dclName="DV_1" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3311" dclIndex="425" dclName="DV_2" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3313" dclIndex="426" dclName="DV_3" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3315" dclIndex="427" dclName="InA_Measurement A" ownerId="3316" type="1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3317" dclIndex="428" dclName="DV_Test mätning" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3319" dclIndex="429" dclName="DV_Test mätning 2" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3321" dclIndex="430" dclName="8" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3325" dclIndex="431" dclName="120" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3327" dclIndex="432" dclName="DV_1 VG Test" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3329" dclIndex="433" dclName="Temp_8" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3330" dclIndex="434" dclName="99" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3331" dclIndex="435" dclName="1200" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3333" dclIndex="436" dclName="CB_Btn_1_Led_1" ownerId="3334" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3335" dclIndex="437" dclName="CB_Btn_1_Led_2" ownerId="3336" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3337" dclIndex="438" dclName="CB_Btn_1_Led_3" ownerId="3338" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3342" dclIndex="439" dclName="CB_Keypad Button_1 Pressed Status" ownerId="3343" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3344" dclIndex="440" dclName="CB_Keypad Button_2 Pressed Status" ownerId="3345" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3346" dclIndex="441" dclName="CB_Keypad Button_3 Pressed Status" ownerId="3347" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3348" dclIndex="442" dclName="CB_Keypad Button_4 Pressed Status" ownerId="3349" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3350" dclIndex="443" dclName="CB_Keypad Button_5 Pressed Status" ownerId="3351" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3352" dclIndex="444" dclName="CB_Keypad Button_6 Pressed Status" ownerId="3353" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3355" dclIndex="445" dclName="DV_CB Keypad Status 1" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3357" dclIndex="446" dclName="DV_CB Keypad Status 2" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3359" dclIndex="447" dclName="DV_CB Keypad Status 3" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3361" dclIndex="448" dclName="DV_CB Keypad Status 4" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3363" dclIndex="449" dclName="DV_CB Keypad Status 5" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3365" dclIndex="450" dclName="DV_CB Keypad Status 6" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3367" dclIndex="451" dclName="CB_Btn_2_Led_1" ownerId="3368" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3369" dclIndex="452" dclName="CB_Btn_2_Led_2" ownerId="3370" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3371" dclIndex="453" dclName="CB_Btn_2_Led_3" ownerId="3372" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3373" dclIndex="454" dclName="CB_Btn_3_Led_1" ownerId="3374" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3375" dclIndex="455" dclName="CB_Btn_3_Led_2" ownerId="3376" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3377" dclIndex="456" dclName="CB_Btn_3_Led_3" ownerId="3378" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3379" dclIndex="457" dclName="CB_Btn_4_Led_1" ownerId="3380" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3381" dclIndex="458" dclName="CB_Btn_4_Led_2" ownerId="3382" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3383" dclIndex="459" dclName="CB_Btn_4_Led_3" ownerId="3384" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3385" dclIndex="460" dclName="CB_Btn_5_Led_1" ownerId="3386" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3387" dclIndex="461" dclName="CB_Btn_5_Led_2" ownerId="3388" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3389" dclIndex="462" dclName="CB_Btn_5_Led_3" ownerId="3390" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3391" dclIndex="463" dclName="CB_Btn_6_Led_1" ownerId="3392" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3393" dclIndex="464" dclName="CB_Btn_6_Led_2" ownerId="3394" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3395" dclIndex="465" dclName="CB_Btn_6_Led_3" ownerId="3396" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3397" dclIndex="466" dclName="CB_Btn_Backlight_1" ownerId="3398" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3399" dclIndex="467" dclName="CB_Btn_Backlight_2" ownerId="3400" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3401" dclIndex="468" dclName="CB_Btn_Backlight_3" ownerId="3402" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3403" dclIndex="469" dclName="CB_Btn_Backlight_4" ownerId="3404" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3405" dclIndex="470" dclName="CB_Btn_Backlight_5" ownerId="3406" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3407" dclIndex="471" dclName="CB_Btn_Backlight_6" ownerId="3408" type="201" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3409" dclIndex="472" dclName="CV_4" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3411" dclIndex="473" dclName="CV_5" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3413" dclIndex="474" dclName="CV_6" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3415" dclIndex="475" dclName="DV_1 Test receive ok" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3429" dclIndex="476" dclName="DV_1_CB_Receive 1" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3431" dclIndex="477" dclName="DV_1_CB_Receive 2" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3433" dclIndex="478" dclName="DV_1_CB_Receive 3" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3435" dclIndex="479" dclName="DV_1_CB_Receive 4" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3437" dclIndex="480" dclName="DV_1_CB_Receive 5" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3439" dclIndex="481" dclName="DclD_Reset Counter 1" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3440" dclIndex="482" dclName="1500" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3443" dclIndex="483" dclName="DclD_Reset Counter 2" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3444" dclIndex="484" dclName="DclD_Reset Counter 3" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3445" dclIndex="485" dclName="DclD_Reset Counter 4" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3446" dclIndex="486" dclName="DclD_Reset Counter 5" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3447" dclIndex="487" dclName="DclD_Reset Counter 6" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3448" dclIndex="488" dclName="SO_1 Test" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3450" dclIndex="489" dclName="SO_1 Test2" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3452" dclIndex="490" dclName="OutA_Test" ownerId="-1" type="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3454" dclIndex="491" dclName="Map_F4 Test" ownerId="-1" type="301" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3458" dclIndex="492" dclName="SO_1 Test3" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3460" dclIndex="493" dclName="InA_Broms nivå" ownerId="3461" type="1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3462" dclIndex="494" dclName="DV_Broms nivå" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3464" dclIndex="495" dclName="SO_1 Byt sida" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3466" dclIndex="496" dclName="InPG_Pulståg" ownerId="3467" type="1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3470" dclIndex="497" dclName="DV_1 X Scaled" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3472" dclIndex="498" dclName="DV_1 Y Scaled" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3474" dclIndex="499" dclName="DV_1 X" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3476" dclIndex="500" dclName="DV_1 Y" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3478" dclIndex="501" dclName="CV_1 Givare_Min" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3480" dclIndex="502" dclName="CV_1 Givare_Max" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3482" dclIndex="503" dclName="CV_1 Givare_Min_Ut" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3484" dclIndex="504" dclName="CV_1 Givare_Max_Ut" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3489" dclIndex="505" dclName="InA_MCC Temp" ownerId="3490" type="1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3491" dclIndex="506" dclName="InD_Nollpuls" ownerId="3492" type="1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3493" dclIndex="507" dclName="InD_A-Puls" ownerId="3494" type="1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3495" dclIndex="508" dclName="InD_B-Puls" ownerId="3496" type="1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3497" dclIndex="509" dclName="DV_A-Puls" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3499" dclIndex="510" dclName="DV_B-Puls" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3501" dclIndex="511" dclName="DV_Nollpuls" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3503" dclIndex="512" dclName="DV_Pulståg" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3505" dclIndex="513" dclName="DclD_Nollpuls Aktiv" ownerId="-1" type="0" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3506" dclIndex="514" dclName="SO_Nollpuls" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3508" dclIndex="515" dclName="DV_A-Puls Counter" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3510" dclIndex="516" dclName="DV_B-Puls Counter" ownerId="-1" type="102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="623" dclIndex="517" dclName="SyI_Power 1" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="624" dclIndex="518" dclName="SyI_Power 2" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="625" dclIndex="519" dclName="SyI_Power 3" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="626" dclIndex="520" dclName="SyI_Power 4" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="627" dclIndex="521" dclName="SyI_Power 5" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="628" dclIndex="522" dclName="SyI_Power 6" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="629" dclIndex="523" dclName="SyI_Power 7" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="630" dclIndex="524" dclName="SyI_Power 8" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2804" dclIndex="525" dclName="SyIO_1" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2805" dclIndex="526" dclName="SyIO_2" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3210" dclIndex="527" dclName="SyI_Timer 0 Time" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2806" dclIndex="528" dclName="SyI_Timer 1 Time" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2807" dclIndex="529" dclName="SyI_Timer 2 Time" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3206" dclIndex="530" dclName="SyO_Timer 0 Enable" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2808" dclIndex="531" dclName="SyO_Timer 1 Enable" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2809" dclIndex="532" dclName="SyO_Timer 2 Enable" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3207" dclIndex="533" dclName="SyO_Timer 0 Clear" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2810" dclIndex="534" dclName="SyO_Timer 1 Clear" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2811" dclIndex="535" dclName="SyO_Timer 2 Clear" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3227" dclIndex="536" dclName="SyI_Counter 0 Value" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3228" dclIndex="537" dclName="SyO_Counter 0 Input" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3229" dclIndex="538" dclName="SyO_Counter 0 Clear" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3279" dclIndex="539" dclName="SyI_Access Level" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3280" dclIndex="540" dclName="SyI_Operator" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="2720" dclIndex="541" dclName="SyO_TST Access Level" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3512" dclIndex="542" dclName="SyO_MC-F Camera Source" ownerId="-1" type="4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3513" dclIndex="543" dclName="CV_Cam" ownerId="-1" type="103" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <variable id="3517" dclIndex="544" dclName="SO_Cam On-Off" ownerId="-1" type="101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+  </variables>
+  <graphs graphCount="0" />
+  <canBuses busCount="4">
+    <can busNumber="0" dclName="CAN 1" boxCount="4">
+      <box type="20" boxNumber="0" id="2707" rtId="0" idTag="109" dclName="D109" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" portCount="6">
+        <port id="3316" type="0" portNumber="1" dclName="InA_Measurement A" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+        <port id="3467" type="40" portNumber="2" dclName="InPG_Pulståg" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+        <port id="3492" type="30" portNumber="4" dclName="InD_Nollpuls" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+        <port id="3494" type="30" portNumber="6" dclName="InD_A-Puls" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+        <port id="3496" type="30" portNumber="8" dclName="InD_B-Puls" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+        <port id="3453" type="1000" portNumber="0" dclName="OutA_Test" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+      </box>
+      <box type="50" boxNumber="1" id="936" rtId="6" idTag="115" dclName="D115" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" portCount="0" />
+      <box type="30" boxNumber="2" id="3323" rtId="2" idTag="101" dclName="D101" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" portCount="1">
+        <port id="3461" type="20" portNumber="46" dclName="InA_Broms nivå" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+      </box>
+      <box type="30" boxNumber="3" id="3488" rtId="3" idTag="102" dclName="D102" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" portCount="1">
+        <port id="3490" type="11" portNumber="4" dclName="InA_MCC Temp" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+      </box>
+    </can>
+    <can busNumber="1" dclName="CAN 2" boxCount="0" />
+    <can busNumber="2" dclName="CAN 3" boxCount="0" />
+    <can busNumber="3" dclName="CAN 4" boxCount="1">
+      <box type="50" boxNumber="4" id="3011" rtId="1" idTag="0" dclName="Intern CB" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" portCount="0" />
+    </can>
+  </canBuses>
+  <signalsIn signalInCount="2">
+    <signalIn id="3209" dclName="SI_Reset Motortid" />
+    <signalIn id="3242" dclName="SI_Reset Servicetid" />
+  </signalsIn>
+  <signalsOut signalOutCount="77">
+    <signalOut id="652" dclName="SO_Ind Direktström" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="654" dclName="SO_Ind Huvudström" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="656" dclName="SO_Ind Tändning" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="700" dclName="SO_Error Js Kransväng" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="706" dclName="SO_Error Js Vipparm" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="709" dclName="SO_Error Js Utskjut" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1175" dclName="SO_Sw 1H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1177" dclName="SO_Sw 2H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1179" dclName="SO_Sw 3H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1181" dclName="SO_Sw 4H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1183" dclName="SO_Sw 5H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1185" dclName="SO_Sw 6H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1187" dclName="SO_Sw 7H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1189" dclName="SO_Sw 8H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1191" dclName="SO_Sw 9H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1197" dclName="SO_Sw 12H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1193" dclName="SO_Sw 11H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1195" dclName="SO_Sw 10H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1199" dclName="SO_Sw Gyro Krantilt -13H-" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1201" dclName="SO_Sw Krantilt Ut -14H-" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1203" dclName="SO_Sw Krantilt In -15H-" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1205" dclName="SO_Sw 16H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1207" dclName="SO_Sw 17H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1209" dclName="SO_Sw 18H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1211" dclName="SO_Sw 19H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1213" dclName="SO_Sw 20H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1215" dclName="SO_Sw 21H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1382" dclName="SO_Sw 1V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1384" dclName="SO_Sw 2V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1386" dclName="SO_Sw 3V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1388" dclName="SO_Sw 4V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1390" dclName="SO_Sw 5V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1392" dclName="SO_Sw 6V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1394" dclName="SO_Sw 7V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1396" dclName="SO_Sw 8V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1398" dclName="SO_Sw 9V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1400" dclName="SO_Sw 15V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1402" dclName="SO_Sw 14V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1404" dclName="SO_Sw 13V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1406" dclName="SO_Sw 10V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1408" dclName="SO_Sw 11V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1410" dclName="SO_Sw 12V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1412" dclName="SO_Sw 18V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1414" dclName="SO_Sw 17V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1416" dclName="SO_Sw 16V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1418" dclName="SO_Sw 21V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1420" dclName="SO_Sw 20V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="1422" dclName="SO_Sw 19V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="2739" dclName="SO_Stolsbrytare 1=bakåt" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="2741" dclName="SO_Stolsberoende drift on/off" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="2743" dclName="SO_Pedal fram/back" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="2906" dclName="SO_Sw 25H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="2908" dclName="SO_Sw 26H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="2910" dclName="SO_Sw 27H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="2912" dclName="SO_Sw 28H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="2914" dclName="SO_Sw 29H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="2916" dclName="SO_Sw 22H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="2934" dclName="SO_Sw 25V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="2936" dclName="SO_Sw 26V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="2938" dclName="SO_Sw 27V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="2940" dclName="SO_Sw 28V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="2942" dclName="SO_Sw 29V" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3171" dclName="SO_H8_Transm_Vä Slirar" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3173" dclName="SO_H8_Transm_Hö Slirar" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3232" dclName="SO_Visa Service" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3234" dclName="SO_Servicelarm" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3240" dclName="SO_Ind US Mode" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3286" dclName="SO_1 Driver" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3288" dclName="SO_1 Service" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3290" dclName="SO_1 Ubermensch" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3300" dclName="SO_Stäng ej av huvudström" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3449" dclName="SO_1 Test" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3451" dclName="SO_1 Test2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3459" dclName="SO_1 Test3" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3465" dclName="SO_1 Byt sida" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3507" dclName="SO_Nollpuls" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <signalOut id="3518" dclName="SO_Cam On-Off" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+  </signalsOut>
+  <displayValues displayValueCount="64">
+    <displayValue id="113" dclName="DV_Js Kransväng mV" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="125" dclName="DV_Js Kransväng %" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="127" dclName="DV_Js Huvudbom mV" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="135" dclName="DV_Js Huvudbom %" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="137" dclName="DV_Js Vipparm mV" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="145" dclName="DV_Js Vipparm %" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="147" dclName="DV_Js Utskjut mV" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="155" dclName="DV_Js Utskjut %" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="157" dclName="DV_Js Rotator mV" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="165" dclName="DV_Js Rotator %" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="167" dclName="DV_Js Nedre Knivar mV" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="177" dclName="DV_Js Nedre knivar %" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="2767" dclName="DV_Dieselmotorvarv rpm" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="2918" dclName="DV_joystick Liten H" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="2948" dclName="DV_joystick Liten V X" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="2950" dclName="DV_joystick Liten V Y" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3142" dclName="DV_H8_Transm_Potentiometer" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3144" dclName="DV_H8_Transm_Hjul_1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3146" dclName="DV_H8_Transm_Hjul_2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3153" dclName="DV_H8_Transm_Ventil_Ut" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3161" dclName="DV_H8_Transm_Störsignal Vä" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3163" dclName="DV_H8_Transm_Störsignal Hö" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3165" dclName="DV_H8_Transm_Hjul12_Diff" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3167" dclName="DV_H8_Transm_Hjul21_Diff" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3181" dclName="DV_Imperial Gallon" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3183" dclName="DV_Imperial PSI" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3185" dclName="DV_Imperial Fahrenheit" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3198" dclName="DV_Imperial PSI 2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3212" dclName="DV_Motortid Timmar" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3226" dclName="DV_Kvar till Service" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3249" dclName="DV_Control Byte 1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3253" dclName="DV_Control Byte 2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3269" dclName="DV_Ecu Stationary Regen" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3282" dclName="DV_1 Access" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3284" dclName="DV_1 Operator" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3310" dclName="DV_1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3312" dclName="DV_2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3314" dclName="DV_3" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3318" dclName="DV_Test mätning" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3320" dclName="DV_Test mätning 2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3328" dclName="DV_1 VG Test" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3356" dclName="DV_CB Keypad Status 1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3358" dclName="DV_CB Keypad Status 2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3360" dclName="DV_CB Keypad Status 3" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3362" dclName="DV_CB Keypad Status 4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3364" dclName="DV_CB Keypad Status 5" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3366" dclName="DV_CB Keypad Status 6" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3416" dclName="DV_1 Test receive ok" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3430" dclName="DV_1_CB_Receive 1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3432" dclName="DV_1_CB_Receive 2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3434" dclName="DV_1_CB_Receive 3" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3436" dclName="DV_1_CB_Receive 4" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3438" dclName="DV_1_CB_Receive 5" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3463" dclName="DV_Broms nivå" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3471" dclName="DV_1 X Scaled" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3473" dclName="DV_1 Y Scaled" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3475" dclName="DV_1 X" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3477" dclName="DV_1 Y" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3498" dclName="DV_A-Puls" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3500" dclName="DV_B-Puls" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3502" dclName="DV_Nollpuls" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3504" dclName="DV_Pulståg" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3509" dclName="DV_A-Puls Counter" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+    <displayValue id="3511" dclName="DV_B-Puls Counter" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+  </displayValues>
+  <valuesIn valueInCount="0" />
+  <configurationVariables confVariableCount="63">
+    <simple id="117" dclName="CV_Js Kransväng Max mV" min="2500" max="5000" default="4250" />
+    <simple id="129" dclName="CV_Js Huvudbom Min mV" min="0" max="2500" default="470" />
+    <simple id="131" dclName="CV_Js Huvudbom Max mV" min="2500" max="5000" default="4250" />
+    <simple id="140" dclName="CV_Js Vipparm Min mV" min="0" max="2500" default="470" />
+    <simple id="142" dclName="CV_Js Vipparm Max mV" min="2500" max="5000" default="4250" />
+    <simple id="149" dclName="CV_Js Utskjut Min mV" min="0" max="2500" default="470" />
+    <simple id="151" dclName="CV_Js Utskjut Max mV" min="2500" max="5000" default="4250" />
+    <simple id="159" dclName="CV_Js Rotator Min mV" min="0" max="2500" default="470" />
+    <simple id="161" dclName="CV_Js Rotator Max mV" min="2500" max="5000" default="4250" />
+    <simple id="169" dclName="CV_Js Nedre knivar Min mV" min="0" max="2500" default="470" />
+    <simple id="171" dclName="CV_Js Nedre knivar Max mV" min="2500" max="5000" default="4250" />
+    <simple id="2565" dclName="CV_Tid Fo filter 1" min="0" max="5000000" default="0" />
+    <simple id="2615" dclName="CV_Pot Min (mV)" min="0" max="5000" default="460" />
+    <simple id="2617" dclName="CV_Pot Max (mV)" min="0" max="5000" default="4280" />
+    <simple id="2680" dclName="CV_Js Kransväng Startläge Min (mV)" min="1700" max="3000" default="2100" />
+    <simple id="2682" dclName="CV_Js Kransväng Startläge Max (mV)" min="2100" max="3200" default="2700" />
+    <simple id="2684" dclName="CV_Js Huvudbom Startläge Min (mV)" min="1700" max="3000" default="2100" />
+    <simple id="2686" dclName="CV_Js Huvudbom Startläge Max (mV)" min="2100" max="3200" default="2700" />
+    <simple id="2688" dclName="CV_Js Vipparm Startläge Min (mV)" min="1700" max="3000" default="2100" />
+    <simple id="2690" dclName="CV_Js Vipparm Startläge Max (mV)" min="2100" max="3200" default="2700" />
+    <simple id="2692" dclName="CV_Js Rotator Startläge Min (mV)" min="1700" max="3000" default="2100" />
+    <simple id="2694" dclName="CV_Js Rotator Startläge Max (mV)" min="2100" max="3200" default="2700" />
+    <simple id="2929" dclName="CV_Js2 Styrning 1 Min mV" min="0" max="2500" default="500" />
+    <simple id="2931" dclName="CV_Js2 Styrning 1 Max mV" min="2500" max="5000" default="4300" />
+    <simple id="2952" dclName="CV_Js2 Styrning_VY min mV" min="0" max="2500" default="500" />
+    <simple id="2954" dclName="CV_Js2 Styrning_VY max mV" min="2500" max="5000" default="4300" />
+    <simple id="2956" dclName="CV_Js2 Styrning_VX min mV" min="0" max="2500" default="500" />
+    <simple id="2958" dclName="CV_Js2 Styrning_VX max mV" min="2500" max="5000" default="4300" />
+    <simple id="2977" dclName="CV_Mintryck KV" min="0" max="3000" default="130" />
+    <simple id="2979" dclName="CV_Maxtryck KV" min="0" max="3000" default="485" />
+    <simple id="3056" dclName="CV_Js Midjestyrning Hastighet Orbitrol" min="60" max="100" default="100" />
+    <simple id="3090" dclName="CV_Red. Midjeposition Orbitrol Hö" min="0" max="100" default="90" />
+    <simple id="3092" dclName="CV_Red. Midjeposition Orbitrol Vä" min="-100" max="0" default="-90" />
+    <simple id="3103" dclName="CV_Start Red. Midjestyrning %" min="70" max="90" default="75" />
+    <simple id="3105" dclName="CV_Max Red. Midjestyrning %" min="70" max="100" default="90" />
+    <simple id="3107" dclName="CV_Max Red. Midjestyrning mA" min="0" max="500" default="360" />
+    <simple id="3109" dclName="CV_Pv Midjestyrning Hö Max" min="100" max="800" default="600" />
+    <simple id="3149" dclName="CV_H8_Transm_Ventil min" min="0" max="32000" default="0" />
+    <simple id="3151" dclName="CV_H8_Transm_Ventil max" min="0" max="32000" default="32000" />
+    <simple id="3156" dclName="CV_H8_Transm_Störsignal min" min="0" max="32000" default="0" />
+    <simple id="3158" dclName="CV_H8_Transm_Störsignal max" min="0" max="32000" default="32000" />
+    <simple id="3175" dclName="CV_Metric Bar Input" min="0" max="1000" default="0" />
+    <simple id="3177" dclName="CV_Metric Celsius Input" min="0" max="1000" default="0" />
+    <simple id="3179" dclName="CV_Metric Litre Input" min="0" max="1000" default="0" />
+    <simple id="3196" dclName="CV_Metric kPa Input" min="0" max="10000" default="0" />
+    <simple id="3200" dclName="CV_Set Dieselmotortid Timmar" min="0" max="30000" default="0" />
+    <singleSelect id="3203" dclName="CV_Tändning" default="0" itemCount="2">
+      <item id="3204" value="0" dclName="OFF" />
+      <item id="3205" value="1" dclName="ON" />
+    </singleSelect>
+    <singleSelect id="3236" dclName="CV_US Mode" default="0" itemCount="2">
+      <item id="3237" value="0" dclName="OFF" />
+      <item id="3238" value="1" dclName="ON" />
+    </singleSelect>
+    <simple id="3245" dclName="CV_Serviceintervall" min="100" max="500" default="100" />
+    <singleSelect id="3258" dclName="CV_Tillåt Avgasbehandling" default="0" itemCount="2">
+      <item id="3259" value="0" dclName="OFF" />
+      <item id="3260" value="1" dclName="ON" />
+    </singleSelect>
+    <singleSelect id="3292" dclName="CV_1 Tändning" default="0" itemCount="2">
+      <item id="3295" value="0" dclName="OFF" />
+      <item id="3296" value="1" dclName="ON" />
+    </singleSelect>
+    <singleSelect id="3294" dclName="CV_1 Power down" default="0" itemCount="2">
+      <item id="3297" value="0" dclName="OFF" />
+      <item id="3298" value="1" dclName="ON" />
+    </singleSelect>
+    <simple id="3303" dclName="CV_1" min="0" max="100" default="0" />
+    <simple id="3305" dclName="CV_2" min="-100" max="100" default="0" />
+    <simple id="3307" dclName="CV_3" min="0" max="100" default="0" />
+    <simple id="3410" dclName="CV_4" min="0" max="100" default="0" />
+    <simple id="3412" dclName="CV_5" min="0" max="250" default="150" />
+    <simple id="3414" dclName="CV_6" min="0" max="50" default="25" />
+    <simple id="3479" dclName="CV_1 Givare_Min" min="-100000" max="100000" default="0" />
+    <simple id="3481" dclName="CV_1 Givare_Max" min="-100000" max="100000" default="10000" />
+    <simple id="3483" dclName="CV_1 Givare_Min_Ut" min="-100000" max="100000" default="0" />
+    <simple id="3485" dclName="CV_1 Givare_Max_Ut" min="-100000" max="100000" default="0" />
+    <singleSelect id="3514" dclName="CV_Cam" default="0" itemCount="2">
+      <item id="3515" value="0" dclName="OFF" />
+      <item id="3516" value="1" dclName="ON" />
+    </singleSelect>
+  </configurationVariables>
+  <logVariables logVariableCount="0" />
+  <j1939>
+    <sources sourceCount="3">
+      <source id="3012" sourceAddress="225" cbSourceAddress="225" spnConversion="0" name="Test" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc">
+        <dtcs dtcCount="0" />
+        <messages messageCount="2">
+          <message name="Send" id="3332" direction="0" rate="100" variableCount="24" canId="211411425" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc">
+            <variable id="3334" name="CB_Btn_1_Led_1" offset="0" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3336" name="CB_Btn_1_Led_2" offset="2" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3338" name="CB_Btn_1_Led_3" offset="4" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3368" name="CB_Btn_2_Led_1" offset="8" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3370" name="CB_Btn_2_Led_2" offset="10" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3372" name="CB_Btn_2_Led_3" offset="12" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3374" name="CB_Btn_3_Led_1" offset="16" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3376" name="CB_Btn_3_Led_2" offset="18" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3378" name="CB_Btn_3_Led_3" offset="20" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3380" name="CB_Btn_4_Led_1" offset="24" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3382" name="CB_Btn_4_Led_2" offset="26" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3384" name="CB_Btn_4_Led_3" offset="28" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3386" name="CB_Btn_5_Led_1" offset="32" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3388" name="CB_Btn_5_Led_2" offset="34" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3390" name="CB_Btn_5_Led_3" offset="36" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3392" name="CB_Btn_6_Led_1" offset="40" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3394" name="CB_Btn_6_Led_2" offset="42" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3396" name="CB_Btn_6_Led_3" offset="44" size="3" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3398" name="CB_Btn_Backlight_1" offset="48" size="1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3400" name="CB_Btn_Backlight_2" offset="49" size="1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3402" name="CB_Btn_Backlight_3" offset="50" size="1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3404" name="CB_Btn_Backlight_4" offset="51" size="1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3406" name="CB_Btn_Backlight_5" offset="52" size="1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3408" name="CB_Btn_Backlight_6" offset="53" size="1" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+          </message>
+          <message name="Receive" id="3341" direction="1" rate="100" variableCount="11" canId="217962209" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc">
+            <variable id="3426" name="CB_1 Recieve 1" offset="0" size="8" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3424" name="CB_1 Recieve 2" offset="8" size="8" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3422" name="CB_1 Recieve 3" offset="16" size="8" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3420" name="CB_1 Recieve 4" offset="24" size="8" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3428" name="CB_1 Recieve 5" offset="32" size="8" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3343" name="CB_Keypad Button_1 Pressed Status" offset="40" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3345" name="CB_Keypad Button_2 Pressed Status" offset="42" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3347" name="CB_Keypad Button_3 Pressed Status" offset="44" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3349" name="CB_Keypad Button_4 Pressed Status" offset="46" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3351" name="CB_Keypad Button_5 Pressed Status" offset="52" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="3353" name="CB_Keypad Button_6 Pressed Status" offset="54" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+          </message>
+        </messages>
+      </source>
+      <source id="938" sourceAddress="21" cbSourceAddress="39" spnConversion="0" name="Höger Exidor pallett" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc">
+        <dtcs dtcCount="0" />
+        <messages messageCount="5">
+          <message name="18FE0015 (InA Js Höger)" id="1025" direction="1" rate="20" variableCount="4" canId="217972757" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc">
+            <variable id="1027" name="InA_CB Js Kran X 1H (K10-1)" offset="0" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1029" name="InA_CB Js Kran Y 2H (K10-2)" offset="16" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1031" name="InA_CB Js Kran Z 3H (K10-3)" offset="32" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1041" name="InA_CB Js2 X 4H (K9-1)" offset="48" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+          </message>
+          <message name="18FE0115 (InA Höger)" id="1042" direction="1" rate="20" variableCount="4" canId="217973013" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc">
+            <variable id="1045" name="InA_CB Js2 Y 5H (K9-2)" offset="0" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1047" name="InA_CB Pot 6H (K11-1)" offset="16" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1049" name="InA_CB AI 7H (K11-2)" offset="32" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1051" name="InA_CB Pot Access (K71-4)" offset="48" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+          </message>
+          <message name="18FE1500 (OutD Höger)" id="958" direction="0" rate="20" variableCount="21" canId="217978151" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc">
+            <variable id="960" name="OutD_CB Lysdiod 1H (K1-1)" offset="0" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="962" name="OutD_CB Lysdiod 4H (K1-2)" offset="2" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="964" name="OutD_CB Lysdiod 7H (K1-3)" offset="4" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="966" name="OutD_CB Lysdiod 3H (K1-4)" offset="6" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="968" name="OutD_CB Lysdiod 6H (K1-5)" offset="8" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="970" name="OutD_CB Lysdiod 9H (K1-6)" offset="10" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2297" name="OutD_CB Lysdiod 19H (K2-5)" offset="12" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2299" name="OutD_CB Lysdiod 20H (K2-6)" offset="14" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2301" name="OutD_CB Lysdiod 21H (K2-7)" offset="16" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2303" name="OutD_CB Lysdiod 16H (K3-5)" offset="18" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2305" name="OutD_CB Lysdiod 17H (K3-6)" offset="20" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2307" name="OutD_CB Lysdiod 18H (K3-7)" offset="22" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2309" name="OutD_CB Lysdiod 13H (K5-5)" offset="24" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2311" name="OutD_CB Lysdiod 14H (K5-6)" offset="26" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2313" name="OutD_CB Lysdiod 15H (K5-7)" offset="28" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2315" name="OutD_CB Lysdiod 12H (K6-5)" offset="30" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2317" name="OutD_CB Lysdiod 11H (K6-6)" offset="32" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2319" name="OutD_CB Lysdiod 10H (K6-7)" offset="34" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2321" name="OutD_CB Lysdiod Digital ut 19H (K7-5)" offset="36" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2323" name="OutD_CB Lysdiod Digital ut 20H (K7-6)" offset="38" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2325" name="OutD_CB Lysdiod Digital ut 21H (K7-7)" offset="40" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+          </message>
+          <message name="18FE0315 (InD Sw Höger)" id="971" direction="1" rate="20" variableCount="30" canId="217973525" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc">
+            <variable id="1016" name="InD_CB Sw 19 H (K2-1)" offset="0" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="976" name="InD_CB Sw 20 H (K2-2)" offset="2" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="978" name="InD_CB Sw 21 H (K2-3)" offset="4" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="980" name="InD_CB Sw 16 H (K3-1)" offset="6" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="982" name="InD_CB Sw 17 H (K3-2)" offset="8" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="984" name="InD_CB Sw 18 H (K3-3)" offset="10" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="986" name="InD_CB Sw 13 H (K5-1)" offset="12" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="988" name="InD_CB Sw 14 H (K5-2)" offset="14" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="990" name="InD_CB Sw 15 H (K5-3)" offset="16" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="992" name="InD_CB Sw 12 H (K6-1)" offset="18" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="994" name="InD_CB Sw 11 H (K6-2)" offset="20" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="996" name="InD_CB Sw 10 H (K6-3)" offset="22" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="998" name="InD_CB Sw 1 H (K4-1)" offset="24" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1000" name="InD_CB Sw 2 H (K4-2)" offset="26" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1002" name="InD_CB Sw 3 H (K4-3)" offset="28" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1004" name="InD_CB Sw 4 H (K4-4)" offset="30" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1006" name="InD_CB Sw 5 H (K4-5)" offset="32" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1008" name="InD_CB Sw 6 H (K4-6)" offset="34" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1010" name="InD_CB Sw 7 H (K4-7)" offset="36" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1012" name="InD_CB Sw 8 H (K4-8)" offset="38" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1014" name="InD_CB Sw 9 H (K4-9)" offset="40" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1035" name="InD_CB Sw 22H (K7-1)" offset="42" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1037" name="InD_CB Sw 23H (K7-2)" offset="44" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1039" name="InD_CB Sw 24H (K7-3)" offset="46" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1053" name="InD_CB Sw 25AH (K10-4)" offset="48" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1055" name="InD_CB Sw 26BH (K10-5)" offset="50" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1057" name="InD_CB Sw 27CH (K10-6)" offset="52" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1059" name="InD_CB Sw 28DH (K10-7)" offset="54" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1061" name="InD_CB Sw 29EH (K10-8)" offset="56" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1033" name="InD_CB Sw 30H (K10-9)" offset="58" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+          </message>
+          <message name="18FE1600 (OutD Höger Belysning)" id="1065" direction="0" rate="50" variableCount="2" canId="217978407" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc">
+            <variable id="1067" name="OutD_CB Disable background button" offset="0" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1069" name="OutD_CB Background light Rightpanel" offset="2" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+          </message>
+        </messages>
+      </source>
+      <source id="1216" sourceAddress="11" cbSourceAddress="39" spnConversion="0" name="Vänster Excidor pallett" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc">
+        <dtcs dtcCount="0" />
+        <messages messageCount="4">
+          <message name="18FE000B (InA Js Vänster)" id="1217" direction="1" rate="20" variableCount="4" canId="217972747" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc">
+            <variable id="1219" name="InA_CB Js Kran X 1V (K10-1)" offset="0" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1221" name="InA_CB Js Kran Y 2V (K10-2)" offset="16" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1223" name="InA_CB Js Kran Z 3V (K10-3)" offset="32" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1225" name="InA_CB Js2 X 4V (K9-1)" offset="48" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+          </message>
+          <message name="18FE010B (InA Vänster)" id="1226" direction="1" rate="20" variableCount="4" canId="217973003" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc">
+            <variable id="1228" name="InA_CB Js2 Y 5V (K9-2)" offset="0" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1230" name="InA_CB Pot 6V (K11-1)" offset="16" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1232" name="InA_CB AI 7V (K11-2)" offset="32" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1234" name="InA_CB AI 8V (K7-4)" offset="48" size="16" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+          </message>
+          <message name="18FE0B00 (OutD Vänster)" id="1299" direction="0" rate="20" variableCount="21" canId="217975591" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc">
+            <variable id="1301" name="OutD_CB Lysdiod 1V (K1-1)" offset="0" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1303" name="OutD_CB Lysdiod 4V (K1-2)" offset="2" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1305" name="OutD_CB Lysdiod 7V (K1-3)" offset="4" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1309" name="OutD_CB Lysdiod 3V (K1-4)" offset="6" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1311" name="OutD_CB Lysdiod 6V (K1-5)" offset="8" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1313" name="OutD_CB Lysdiod 9V (K1-6)" offset="10" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2327" name="OutD_CB Lysdiod 10V (K2-5)" offset="12" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2329" name="OutD_CB Lysdiod 11V (K2-6)" offset="14" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2331" name="OutD_CB Lysdiod 12V (K2-7)" offset="16" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2333" name="OutD_CB Lysdiod 15V (K3-5)" offset="18" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2335" name="OutD_CB Lysdiod 14V (K3-6)" offset="20" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2337" name="OutD_CB Lysdiod 13V (K3-7)" offset="22" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2339" name="OutD_CB Lysdiod 18V (K5-5)" offset="24" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2341" name="OutD_CB Lysdiod 17V (K5-6)" offset="26" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2343" name="OutD_CB Lysdiod 16V (K5-7)" offset="28" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2345" name="OutD_CB Lysdiod 21V (K6-5)" offset="30" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2347" name="OutD_CB Lysdiod 20V (K6-6)" offset="32" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2349" name="OutD_CB Lysdiod 19V (K6-7)" offset="34" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2351" name="OutD_CB Lysdiod Digital ut 19V (K7-5)" offset="36" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2353" name="OutD_CB Lysdiod Digital ut 20V (K7-6)" offset="38" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="2355" name="OutD_CB Lysdiod Digital ut 21V (K7-7)" offset="40" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+          </message>
+          <message name="18FE030B (InD Sw Vänster)" id="1314" direction="1" rate="20" variableCount="30" canId="217973515" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc">
+            <variable id="1316" name="InD_CB Sw 10V (K2-1)" offset="0" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1318" name="InD_CB Sw 11V (K2-2)" offset="2" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1320" name="InD_CB Sw 12V (K2-3)" offset="4" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1322" name="InD_CB Sw 15V (K3-1)" offset="6" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1324" name="InD_CB Sw 14V (K3-2)" offset="8" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1326" name="InD_CB Sw 13V (K3-3)" offset="10" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1328" name="InD_CB Sw 18V (K5-1)" offset="12" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1330" name="InD_CB Sw 17V (K5-2)" offset="14" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1332" name="InD_CB Sw 16V (K5-3)" offset="16" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1334" name="InD_CB Sw 21V (K6-1)" offset="18" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1336" name="InD_CB Sw 20V (K6-2)" offset="20" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1338" name="InD_CB Sw 19V (K6-3)" offset="22" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1340" name="InD_CB Sw 1 V (K4-1)" offset="24" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1342" name="InD_CB Sw 2 V (K4-2)" offset="26" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1344" name="InD_CB Sw 3 V (K4-3)" offset="28" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1346" name="InD_CB Sw 4 V (K4-4)" offset="30" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1348" name="InD_CB Sw 5 V (K4-5)" offset="32" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1350" name="InD_CB Sw 6 V (K4-6)" offset="34" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1352" name="InD_CB Sw 7 V (K4-7)" offset="36" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1354" name="InD_CB Sw 8 V (K4-8)" offset="38" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1356" name="InD_CB Sw 9 V (K4-9)" offset="40" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1358" name="InD_CB Sw Digital 22V (K7-1)" offset="42" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1360" name="InD_CB Sw Digital 23V (K7-2)" offset="44" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1362" name="InD_CB Sw Digital 24V (K7-3)" offset="46" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1364" name="InD_CB Sw 25 AV (K10-4)" offset="48" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1366" name="InD_CB Sw 26 BV (K10-5)" offset="50" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1368" name="InD_CB Sw 27 CV (K10-6)" offset="52" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1370" name="InD_CB Sw 28 DV (K10-7)" offset="54" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1372" name="InD_CB Sw 29 EV (K10-8)" offset="56" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+            <variable id="1374" name="InD_CB Sw 30 Digital V (K10-9)" offset="58" size="2" guid="43fab8b5-1e59-4f23-b247-3ad353ded7cc" />
+          </message>
+        </messages>
+      </source>
+    </sources>
+  </j1939>
+  <mapSettings>
+    <mapInVariables mapInVariableCount="1">
+      <inVariable id="3456" dclName="CB_Keypad Button_1 Pressed Status" />
+    </mapInVariables>
+    <mapOutVariables mapOutVariableCount="1">
+      <outVariable id="3455" dclName="Map_F4 Test" />
+    </mapOutVariables>
+    <mapObjects mapObjectCount="1">
+      <mapObject id="3457" dclName="MapObject0" outDefaultId="3455" outLocked="false" inDefaultId="3456" inLocked="false" shiftDefaultId="-1" shiftLocked="false" shiftVisible="true" doubleClickDefault="true" doubleClickLocked="false" doubleClickVisible="true" storage="0" />
+    </mapObjects>
+  </mapSettings>
+  <projectConfigurations projectConfigurationCount="0" />
+</mainDEF>

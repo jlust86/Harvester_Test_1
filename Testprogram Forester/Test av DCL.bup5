@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--d5Bundler project file-->
+<mainBundler fileVersion="1.1.0.3">
+    <bundlerInfo>
+        <description>d5Bundler project file</description>
+        <bundlerVersion>3.5.4.0</bundlerVersion>
+    </bundlerInfo>
+    <bundler version="0.0.0" versionAutoIncrement="false" author="Jonny Hansson" comment="" company="" identity="Test av DCL" connectOnRun="false" runLanguageId="-1" serverAddress="192.168.213.2" installFileName="Test_av_DCL_Forester.ins5" remoteDasa5Path="\CompactFlash\Dasa5\" enableReinstall="false" d5RunPath="Dasa5\" target="3" languageCount="1">
+        <language id="29" />
+    </bundler>
+    <system included="1" guiInterval="100" pollInterval="50" bitmapCacheSize="100" showBuckingDialogs="1" showMessageDialogs="1" showMouseCursor="1" inputMethod="0" defLanguageId="29" systemPath="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\System" />
+    <machine included="1" path="Test av DCL\Machine" dclGroupFile="" projectCount="1">
+        <project projectNumber="1" dclFile="Test av DCL.dcl" name="Test av DCL" tslFilesCount="1">
+            <tslFile path="Test av DCL\Machine\Test av DCL\Texts\Test av DCL.xlf" languageId="29" />
+        </project>
+    </machine>
+    <usb d5InstallerPath="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\Install\Installer" enableInstall="1" autorunInstall="0" enableDelete="0" />
+    <user included="0" masFilesCount="0" />
+    <control included="1" ctrlFile="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\d5Control\d5Control 3.5.5.bin" mcModel="0" />
+    <applicationData included="1" accessFile="..\Testprogram\Test av dcl\Access_Test.acc" splashImageFile="">
+        <files filesCount="0" />
+        <operatorImages operatorImageCount="0" />
+    </applicationData>
+    <externalApplicationData included="1">
+        <applications applicationCount="1">
+            <application path="R:\Avdelning\Gullebo\D5\Extrenal application\TouchKit" executable="" exitMessage="" startParameter="" />
+        </applications>
+    </externalApplicationData>
+    <rootFilesData included="1">
+        <rootFiles rootFilesCount="13">
+            <rootFile fileName="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\Root Applications\camapp.dll" windowName="" startParameter="" />
+            <rootFile fileName="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\Root Applications\Camappf.dll" windowName="" startParameter="" />
+            <rootFile fileName="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\Root Applications\DispCntl.exe" windowName="DispCntl" startParameter="-nosplash" />
+            <rootFile fileName="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\Root Applications\duadm.dll" windowName="" startParameter="" />
+            <rootFile fileName="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\Root Applications\Install.exe" windowName="" startParameter="" />
+            <rootFile fileName="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\Root Applications\start.exe" windowName="" startParameter="" />
+            <rootFile fileName="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\Root Applications\rt3.dll" windowName="" startParameter="" />
+            <rootFile fileName="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\Root Applications\ftd2xx.inf" windowName="" startParameter="" />
+            <rootFile fileName="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\Root Applications\ftdi_d2xx.dll" windowName="" startParameter="" />
+            <rootFile fileName="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\Root Applications\ftdi_d2xx_f.dll" windowName="" startParameter="" />
+            <rootFile fileName="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\Root Applications\Super.dll" windowName="" startParameter="" />
+            <rootFile fileName="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\Root Applications\TouchKit.exe" windowName="" startParameter="" />
+            <rootFile fileName="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\Root Applications\videowin.exe" windowName="" startParameter="" />
+        </rootFiles>
+    </rootFilesData>
+    <ioUnitUpdates included="1" automaticUpdate="1" binFiles="R:\Avdelning\Gullebo\D5\Download\Program\d5SDK 3.5.5\IO Unit BinFiles">
+        <ioUnits ioUnitsCount="0" />
+    </ioUnitUpdates>
+    <desktopPc syncVersionsWithServer="0">
+        <System included="0" guiInterval="100" pollInterval="50" bitmapCacheSize="30" showBuckingDialogs="1" showMessageDialogs="1" showMouseCursor="1" mcAddress="192.168.213.2" />
+        <Machine included="0" />
+    </desktopPc>
+    <dxPcInfo dxPcIp="192.168.213.3" dxPcDasaPath="C:\Dasa5" enableReinstall="1" updateD5InstallerCE="1" syncVersionsWithServer="0">
+        <System included="1" guiInterval="100" pollInterval="50" bitmapCacheSize="30" showBuckingDialogs="1" showMessageDialogs="1" showMouseCursor="1" mcAddress="192.168.213.2" />
+        <Machine included="1" />
+    </dxPcInfo>
+    <terminal1 terminalDasaPath="\CompactFlash\Dasa5" enableReinstall="1" syncVersionsWithServer="1" orientation="0" appDataIncluded="0" splashImageFile="">
+        <System included="0" guiInterval="100" pollInterval="50" bitmapCacheSize="30" showBuckingDialogs="1" showMessageDialogs="1" showMouseCursor="1" mcAddress="192.168.213.2" />
+        <Machine included="0" />
+    </terminal1>
+    <terminal2 terminalDasaPath="\CompactFlash\Dasa5" enableReinstall="1" syncVersionsWithServer="1" orientation="0" appDataIncluded="0" splashImageFile="">
+        <System included="0" guiInterval="100" pollInterval="50" bitmapCacheSize="30" showBuckingDialogs="1" showMessageDialogs="1" showMouseCursor="1" mcAddress="192.168.213.2" />
+        <Machine included="0" />
+    </terminal2>
+</mainBundler>

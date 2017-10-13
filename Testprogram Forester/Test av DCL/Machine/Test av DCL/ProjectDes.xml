@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<projectDes>
+    <canBuses busCount="4">
+        <can busNumber="0" boxCount="4" textId="IO.Can1">
+            <box type="20" boxNumber="0" id="2707" idTag="109" textId="IO.Can1.D109" portCount="6">
+                <port type="1000" portNumber="0" id="3453" textId="IO.Can1.D109.OutA_Test" />
+                <port type="0" portNumber="1" id="3316" textId="IO.Can1.D109.InA_Measurement A" />
+                <port type="40" portNumber="2" id="3467" textId="IO.Can1.D109.InPG_Pulståg" />
+                <port type="30" portNumber="4" id="3492" textId="IO.Can1.D109.InD_Nollpuls" />
+                <port type="30" portNumber="6" id="3494" textId="IO.Can1.D109.InD_A-Puls" />
+                <port type="30" portNumber="8" id="3496" textId="IO.Can1.D109.InD_B-Puls" />
+            </box>
+            <box type="50" boxNumber="1" id="936" idTag="115" textId="IO.Can1.D115" portCount="0" />
+            <box type="30" boxNumber="2" id="3323" idTag="101" textId="IO.Can1.D101" portCount="1">
+                <port type="20" portNumber="46" id="3461" textId="IO.Can1.D101.InA_Broms nivå" />
+            </box>
+            <box type="30" boxNumber="3" id="3488" idTag="102" textId="IO.Can1.D102" portCount="1">
+                <port type="11" portNumber="4" id="3490" textId="IO.Can1.D102.InA_MCC Temp" />
+            </box>
+        </can>
+        <can busNumber="1" boxCount="0" textId="IO.Can2" />
+        <can busNumber="2" boxCount="0" textId="IO.Can3" />
+        <can busNumber="3" boxCount="1" textId="IO.Can4">
+            <box type="50" boxNumber="4" id="3011" idTag="0" textId="IO.Can4.Intern CB" portCount="0" />
+        </can>
+    </canBuses>
+    <signalsIn signalCount="2">
+        <signalIn id="3209" />
+        <signalIn id="3242" />
+    </signalsIn>
+    <signalsOut signalCount="77">
+        <signalOut id="3465" />
+        <signalOut id="3286" />
+        <signalOut id="3288" />
+        <signalOut id="3449" />
+        <signalOut id="3451" />
+        <signalOut id="3459" />
+        <signalOut id="3290" />
+        <signalOut id="3518" />
+        <signalOut id="700" />
+        <signalOut id="709" />
+        <signalOut id="706" />
+        <signalOut id="3173" />
+        <signalOut id="3171" />
+        <signalOut id="652" />
+        <signalOut id="654" />
+        <signalOut id="656" />
+        <signalOut id="3240" />
+        <signalOut id="3507" />
+        <signalOut id="2743" />
+        <signalOut id="3234" />
+        <signalOut id="2741" />
+        <signalOut id="2739" />
+        <signalOut id="3300" />
+        <signalOut id="1195" />
+        <signalOut id="1406" />
+        <signalOut id="1193" />
+        <signalOut id="1408" />
+        <signalOut id="1197" />
+        <signalOut id="1410" />
+        <signalOut id="1404" />
+        <signalOut id="1402" />
+        <signalOut id="1400" />
+        <signalOut id="1205" />
+        <signalOut id="1416" />
+        <signalOut id="1207" />
+        <signalOut id="1414" />
+        <signalOut id="1209" />
+        <signalOut id="1412" />
+        <signalOut id="1211" />
+        <signalOut id="1422" />
+        <signalOut id="1175" />
+        <signalOut id="1382" />
+        <signalOut id="1213" />
+        <signalOut id="1420" />
+        <signalOut id="1215" />
+        <signalOut id="1418" />
+        <signalOut id="2916" />
+        <signalOut id="2906" />
+        <signalOut id="2934" />
+        <signalOut id="2908" />
+        <signalOut id="2936" />
+        <signalOut id="2910" />
+        <signalOut id="2938" />
+        <signalOut id="2912" />
+        <signalOut id="2940" />
+        <signalOut id="2914" />
+        <signalOut id="2942" />
+        <signalOut id="1177" />
+        <signalOut id="1384" />
+        <signalOut id="1179" />
+        <signalOut id="1386" />
+        <signalOut id="1181" />
+        <signalOut id="1388" />
+        <signalOut id="1183" />
+        <signalOut id="1390" />
+        <signalOut id="1185" />
+        <signalOut id="1392" />
+        <signalOut id="1187" />
+        <signalOut id="1394" />
+        <signalOut id="1189" />
+        <signalOut id="1396" />
+        <signalOut id="1191" />
+        <signalOut id="1398" />
+        <signalOut id="1199" />
+        <signalOut id="1203" />
+        <signalOut id="1201" />
+        <signalOut id="3232" />
+    </signalsOut>
+    <displayValues dispValueCount="64">
+        <displayValue id="3310" />
+        <displayValue id="3282" />
+        <displayValue id="3284" />
+        <displayValue id="3416" />
+        <displayValue id="3328" />
+        <displayValue id="3475" />
+        <displayValue id="3471" />
+        <displayValue id="3477" />
+        <displayValue id="3473" />
+        <displayValue id="3430" />
+        <displayValue id="3432" />
+        <displayValue id="3434" />
+        <displayValue id="3436" />
+        <displayValue id="3438" />
+        <displayValue id="3312" />
+        <displayValue id="3314" />
+        <displayValue id="3498" />
+        <displayValue id="3509" />
+        <displayValue id="3500" />
+        <displayValue id="3511" />
+        <displayValue id="3463" />
+        <displayValue id="3356" />
+        <displayValue id="3358" />
+        <displayValue id="3360" />
+        <displayValue id="3362" />
+        <displayValue id="3364" />
+        <displayValue id="3366" />
+        <displayValue id="3249" />
+        <displayValue id="3253" />
+        <displayValue id="2767" />
+        <displayValue id="3269" />
+        <displayValue id="3144" />
+        <displayValue id="3146" />
+        <displayValue id="3165" />
+        <displayValue id="3167" />
+        <displayValue id="3142" />
+        <displayValue id="3163" />
+        <displayValue id="3161" />
+        <displayValue id="3153" />
+        <displayValue id="3185" />
+        <displayValue id="3181" />
+        <displayValue id="3183" />
+        <displayValue id="3198" />
+        <displayValue id="2918" />
+        <displayValue id="2948" />
+        <displayValue id="2950" />
+        <displayValue id="135" />
+        <displayValue id="127" />
+        <displayValue id="125" />
+        <displayValue id="113" />
+        <displayValue id="177" />
+        <displayValue id="167" />
+        <displayValue id="165" />
+        <displayValue id="157" />
+        <displayValue id="155" />
+        <displayValue id="147" />
+        <displayValue id="145" />
+        <displayValue id="137" />
+        <displayValue id="3226" />
+        <displayValue id="3212" />
+        <displayValue id="3502" />
+        <displayValue id="3504" />
+        <displayValue id="3318" />
+        <displayValue id="3320" />
+    </displayValues>
+    <valuesIn valueInCount="0" />
+    <configurationVariables configVarCount="63">
+        <simple id="3303" max="100" min="0" default="0" />
+        <simple id="3481" max="100000" min="-100000" default="10000" />
+        <simple id="3485" max="100000" min="-100000" default="0" />
+        <simple id="3479" max="100000" min="-100000" default="0" />
+        <simple id="3483" max="100000" min="-100000" default="0" />
+        <simple id="3305" max="100" min="-100" default="0" />
+        <simple id="3307" max="100" min="0" default="0" />
+        <simple id="3410" max="100" min="0" default="0" />
+        <simple id="3412" max="250" min="0" default="150" />
+        <simple id="3414" max="50" min="0" default="25" />
+        <simple id="3158" max="32000" min="0" default="32000" />
+        <simple id="3156" max="32000" min="0" default="0" />
+        <simple id="3151" max="32000" min="0" default="32000" />
+        <simple id="3149" max="32000" min="0" default="0" />
+        <simple id="131" max="5000" min="2500" default="4250" />
+        <simple id="129" max="2500" min="0" default="470" />
+        <simple id="2686" max="3200" min="2100" default="2700" />
+        <simple id="2684" max="3000" min="1700" default="2100" />
+        <simple id="117" max="5000" min="2500" default="4250" />
+        <simple id="2682" max="3200" min="2100" default="2700" />
+        <simple id="2680" max="3000" min="1700" default="2100" />
+        <simple id="3056" max="100" min="60" default="100" />
+        <simple id="171" max="5000" min="2500" default="4250" />
+        <simple id="169" max="2500" min="0" default="470" />
+        <simple id="161" max="5000" min="2500" default="4250" />
+        <simple id="159" max="2500" min="0" default="470" />
+        <simple id="2694" max="3200" min="2100" default="2700" />
+        <simple id="2692" max="3000" min="1700" default="2100" />
+        <simple id="151" max="5000" min="2500" default="4250" />
+        <simple id="149" max="2500" min="0" default="470" />
+        <simple id="142" max="5000" min="2500" default="4250" />
+        <simple id="140" max="2500" min="0" default="470" />
+        <simple id="2690" max="3200" min="2100" default="2700" />
+        <simple id="2688" max="3000" min="1700" default="2100" />
+        <simple id="2931" max="5000" min="2500" default="4300" />
+        <simple id="2929" max="2500" min="0" default="500" />
+        <simple id="2958" max="5000" min="2500" default="4300" />
+        <simple id="2956" max="2500" min="0" default="500" />
+        <simple id="2954" max="5000" min="2500" default="4300" />
+        <simple id="2952" max="2500" min="0" default="500" />
+        <simple id="3105" max="100" min="70" default="90" />
+        <simple id="3107" max="500" min="0" default="360" />
+        <simple id="2979" max="3000" min="0" default="485" />
+        <simple id="3175" max="1000" min="0" default="0" />
+        <simple id="3177" max="1000" min="0" default="0" />
+        <simple id="3196" max="10000" min="0" default="0" />
+        <simple id="3179" max="1000" min="0" default="0" />
+        <simple id="2977" max="3000" min="0" default="130" />
+        <simple id="2617" max="5000" min="0" default="4280" />
+        <simple id="2615" max="5000" min="0" default="460" />
+        <simple id="3109" max="800" min="100" default="600" />
+        <simple id="3090" max="100" min="0" default="90" />
+        <simple id="3092" max="0" min="-100" default="-90" />
+        <simple id="3245" max="500" min="100" default="100" />
+        <simple id="3200" max="30000" min="0" default="0" />
+        <simple id="3103" max="90" min="70" default="75" />
+        <simple id="2565" max="5000000" min="0" default="0" />
+        <singleSelect id="3294" default="0" />
+        <singleSelect id="3292" default="0" />
+        <singleSelect id="3514" default="0" />
+        <singleSelect id="3258" default="0" />
+        <singleSelect id="3203" default="0" />
+        <singleSelect id="3236" default="0" />
+    </configurationVariables>
+    <graphs graphCount="0" />
+    <logVariables logVariableCount="0" />
+    <clockTimers clockTimerCount="0" />
+    <mapSettings>
+        <mapInVariables mapInVariableCount="1">
+            <inVariable id="3456" textId="MapInVariable.CB_Keypad Button_1 Pressed Status" />
+        </mapInVariables>
+        <mapOutVariables mapOutVariableCount="1">
+            <outVariable id="3455" textId="MapOutVariable.Map_F4 Test" />
+        </mapOutVariables>
+        <mapObjects mapObjectCount="1">
+            <mapObject id="3457" outDefaultId="3455" outLocked="false" inDefaultId="3456" inLocked="false" shiftDefaultId="-1" shiftLocked="false" shiftVisible="true" doubleClickDefault="true" doubleClickLocked="false" doubleClickVisible="true" />
+        </mapObjects>
+    </mapSettings>
+</projectDes>

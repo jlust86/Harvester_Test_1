@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page name="Page 3" objectCount="113" backColor="-1380104" foreColor="-16777216" dclPageActive="-1" imageFile="Forester Inställningar utan svart list.bmp">
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="10 Miscellaneous Larm Forester-D5.bmp" transparent="0" imagePosition="3" width="68" top="72" left="842" height="68" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox59.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="1 Motor Larm Forester-D5.bmp" transparent="0" imagePosition="3" width="68" top="72" left="14" height="68" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox69.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="2 Transmission Larm Forester-D5.bmp" transparent="0" imagePosition="3" width="68" top="72" left="106" height="68" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox68.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="3 Kylsystem Larm Forester-D5.bmp" transparent="0" imagePosition="3" width="68" top="72" left="198" height="68" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox67.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="4 Hydraulik Larm Forester-D5.bmp" transparent="0" imagePosition="3" width="68" top="72" left="290" height="68" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox66.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="5 D5 system Larm Forester-D5.bmp" transparent="0" imagePosition="3" width="68" top="72" left="382" height="68" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox65.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="6 Hytt Larm Forester-D5.bmp" transparent="0" imagePosition="3" width="68" top="72" left="474" height="68" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox64.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="7 Ram Larm Forester-D5.bmp" transparent="0" imagePosition="3" width="68" top="72" left="566" height="68" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox63.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="8 Kran Larm Forester-D5.bmp" transparent="0" imagePosition="3" width="68" top="72" left="658" height="68" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox62.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="9 Lyse Larm Forester-D5.bmp" transparent="0" imagePosition="3" width="68" top="72" left="750" height="68" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox61.HelpText" />
+    </image>
+    <staticLabel fontName="Segoe UI Semibold" fontSize="14" navigationParameter="" navigationCode="-1;-1" textAlign="17" textId="Display 2.Page 3.StaticLabel5" fontStyle="1" foreColor="-13447886" dclEnable="-1" width="50" height="50" left="1285" top="404" backColor="-2892310" dclDown="-1" dclClick="-1" dclVisible="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.StaticLabel5.HelpText" />
+    </staticLabel>
+    <symbol navigationCode="-1;-1" multipleSelect="0" dclEnable="-1" navigationParameter="" transparent="0" dispValueId="-1" selection="0" imagePosition="3" width="57" height="57" left="1285" top="496" backColor="-1380104" dclClick="-1" dclVisible="-1" dclDown="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Symbol12.HelpText" />
+        <items itemCount="4">
+            <item fontStyle="0" fontSize="12" textAlign="17" foreColor="-16777216" imageFile="Sym_TRC Mode.bmp" symbolValue="0" fontName="Tahoma" textId="Display 2.Page 3.Symbol12.Items.Item1" />
+            <item fontStyle="0" fontSize="12" textAlign="17" foreColor="-16777216" imageFile="Sym_TRC Hill.bmp" symbolValue="1" fontName="Tahoma" textId="Display 2.Page 3.Symbol12.Items.Item2" />
+            <item fontStyle="0" fontSize="12" textAlign="17" foreColor="-16777216" imageFile="Sym_TRC snow.bmp" symbolValue="2" fontName="Tahoma" textId="Display 2.Page 3.Symbol12.Items.Item3" />
+            <item fontStyle="0" fontSize="12" textAlign="17" foreColor="-16777216" imageFile="Sym_TRC wet.bmp" symbolValue="3" fontName="Tahoma" textId="Display 2.Page 3.Symbol12.Items.Item4" />
+        </items>
+    </symbol>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Rottnelogga driftskärm.bmp" transparent="0" imagePosition="3" width="568" top="521" left="13" height="72" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox18.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_Central_Lube_Larm.bmp" transparent="0" imagePosition="1" width="50" top="543" left="410" height="50" dclVisible="-1" dclDown="-1" backColor="-16776961">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox60.HelpText" />
+    </image>
+    <symbol navigationCode="-1;-1" multipleSelect="0" dclEnable="-1" navigationParameter="" transparent="0" dispValueId="-1" selection="1" imagePosition="1" width="50" height="50" left="26" top="607" backColor="-2892310" dclClick="-1" dclVisible="-1" dclDown="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Symbol11.HelpText" />
+        <items itemCount="2">
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Bränsletransfer aktiv Forester.bmp" symbolValue="1" fontName="Tahoma" textId="Display 2.Page 3.Symbol11.Items.Item1" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Bränsletransfer avstängd Forester.bmp" symbolValue="2" fontName="Tahoma" textId="Display 2.Page 3.Symbol11.Items.Item2" />
+        </items>
+    </symbol>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Larm_Manöverlucka Forester.bmp" transparent="0" imagePosition="1" width="35" top="505" left="1187" height="32" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox71.HelpText" />
+    </image>
+    <configVarSingleSelect valueTextAlign="18" valueHeight="-1" valueWidth="64" valueFontName="Segoe UI" valueFontSize="14" valueFontStyle="0" imageFile="Menyknapp On-Off.bmp" textId="Display 2.Page 3.ConfigureSingleSelectionControl2" configVarId="-1" quickToggle="0" dclVisible="-1" dclEnable="-1" dialogActive="-1" valueBorderColor="-16777216" height="70" fontName="Tahoma" fontSize="15" left="1082" top="221" width="150" fontStyle="0" textAlign="16" valueBackColor="-1" valueForeColor="-16777216" foreColor="-16777216" transparent="0" backColor="-2892310">
+        <dialogSetting>
+            <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ConfigureSingleSelectionControl2.DialogSetting.HelpText" />
+        </dialogSetting>
+        <items itemCount="0" />
+    </configVarSingleSelect>
+    <button foreColor="-16777216" textId="Display 2.Page 3.Button13" fontStyle="0" fontName="Arial" fontSize="8" textAlign="17" transparent="0" downImage="D5 drift_Aggregat_Down.bmp" imagePosition="2" downBackColor="-16711936" downForeColor="0" upImage="D5 drift_Aggregat.bmp" height="68" backColor="-8355712" width="68" left="1283" top="609" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Button13.HelpText" />
+    </button>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Larm_Höger Dörr Forester.bmp" transparent="0" imagePosition="1" width="43" top="463" left="1263" height="43" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox31.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Larm_Vänster Dörr Forester.bmp" transparent="0" imagePosition="1" width="43" top="463" left="1165" height="43" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox28.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="H8_toppvy_4W_UtanKran_size.bmp" transparent="1" imagePosition="1" width="90" top="390" left="1191" height="192" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox5.HelpText" />
+    </image>
+    <button fontStyle="0" foreColor="-16777216" fontSize="8" upImage="Menyknapp Operator utan.bmp" fontName="Arial" textId="Display 2.Page 3.Button4" imagePosition="1" transparent="0" downForeColor="0" textAlign="17" downBackColor="-16711936" height="68" backColor="-8355712" width="68" left="1196" top="7" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Button4.HelpText" />
+    </button>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="248" top="89" left="656" backColor="-2892310" dclVisible="-1" height="271">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox25.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Larm_Generator.bmp" transparent="0" imagePosition="1" width="50" top="607" left="362" height="50" dclVisible="-1" dclDown="-1" backColor="-16776961">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox3.HelpText" />
+    </image>
+    <symbol navigationCode="-1;-1" multipleSelect="0" dclEnable="-1" navigationParameter="" transparent="0" dispValueId="-1" selection="2" imagePosition="1" width="40" height="40" left="127" top="309" backColor="-2892310" dclClick="-1" dclVisible="-1" dclDown="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Symbol10.HelpText" />
+        <items itemCount="4">
+            <item fontStyle="0" fontSize="12" textAlign="17" foreColor="-16777216" imageFile="Sym_Bränslenivå_Forester.bmp" symbolValue="0" fontName="Tahoma" textId="Display 2.Page 3.Symbol10.Items.Item4" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Bränslenivå_Warning.bmp" symbolValue="2" fontName="Tahoma" textId="Display 2.Page 3.Symbol10.Items.Item1" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Bränslenivå_Danger.bmp" symbolValue="4" fontName="Tahoma" textId="Display 2.Page 3.Symbol10.Items.Item2" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Larm Givare Error.bmp" symbolValue="16" fontName="Tahoma" textId="Display 2.Page 3.Symbol10.Items.Item3" />
+        </items>
+    </symbol>
+    <symbol navigationCode="-1;-1" multipleSelect="0" dclEnable="-1" navigationParameter="" transparent="0" dispValueId="-1" selection="2" imagePosition="1" width="40" height="40" left="849" top="457" backColor="-2892310" dclClick="-1" dclVisible="-1" dclDown="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Symbol6.HelpText" />
+        <items itemCount="3">
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Hydraulik_Nivå_Warning.bmp" symbolValue="2" fontName="Tahoma" textId="Display 2.Page 3.Symbol6.Items.Item2" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Hydraulik_Nivå_Danger.bmp" symbolValue="4" fontName="Tahoma" textId="Display 2.Page 3.Symbol6.Items.Item3" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Larm_Hydraulik Nivå Error.bmp" symbolValue="16" fontName="Tahoma" textId="Display 2.Page 3.Symbol6.Items.Item4" />
+        </items>
+    </symbol>
+    <symbol navigationCode="-1;-1" multipleSelect="0" dclEnable="-1" navigationParameter="" transparent="0" dispValueId="-1" selection="4" imagePosition="1" width="40" height="40" left="982" top="458" backColor="-2892310" dclClick="-1" dclVisible="-1" dclDown="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Symbol2.HelpText" />
+        <items itemCount="4">
+            <item fontStyle="0" fontSize="12" textAlign="17" foreColor="-16777216" imageFile="Sym_Transm_Nivå_Neutral.bmp" symbolValue="0" fontName="Tahoma" textId="Display 2.Page 3.Symbol2.Items.Item1" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Transm_Nivå_Warning.bmp" symbolValue="4" fontName="Tahoma" textId="Display 2.Page 3.Symbol2.Items.Item2" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Transm_Nivå_Danger.bmp" symbolValue="6" fontName="Tahoma" textId="Display 2.Page 3.Symbol2.Items.Item3" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Larm_Transmissions Nivå Error.bmp" symbolValue="16" fontName="Tahoma" textId="Display 2.Page 3.Symbol2.Items.Item4" />
+        </items>
+    </symbol>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="78" top="528" left="1389" backColor="-1380104" dclVisible="-1" height="78">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox41.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_Belysning Helljus.bmp" transparent="0" imagePosition="1" width="43" top="368" left="1304" height="43" dclVisible="-1" dclDown="-1" backColor="-15132304">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox30.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_Belysning Halvljus.bmp" transparent="0" imagePosition="1" width="43" top="368" left="1304" height="43" dclVisible="-1" dclDown="-1" backColor="-15132304">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox36.HelpText" />
+    </image>
+    <staticLabel fontName="Segoe UI Semibold" fontSize="20" navigationParameter="" navigationCode="-1;-1" textAlign="17" textId="Display 2.Page 3.StaticLabel4" fontStyle="1" foreColor="-16777216" dclEnable="-1" width="32" height="32" left="1184" top="104" backColor="-2892310" dclDown="-1" dclClick="-1" dclVisible="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.StaticLabel4.HelpText" />
+    </staticLabel>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="20" navigationCode="-1;-1" fontName="Segoe UI Semibold" imperialConversion="0" dispValueId="-1" divisor="1" textAlign="17" formatString="0" height="32" backColor="-2892310" width="128" left="1217" top="104" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ValueLabel8.HelpText" />
+    </valueLabel>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="15" navigationCode="-1;-1" fontName="Segoe UI Semibold" imperialConversion="0" dispValueId="-1" divisor="1" textAlign="18" formatString="0 &quot;H&quot;" height="24" backColor="-2892310" width="112" left="400" top="392" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ValueLabel7.HelpText" />
+    </valueLabel>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="15" navigationCode="-1;-1" fontName="Segoe UI Semibold" imperialConversion="0" dispValueId="-1" divisor="1" textAlign="17" formatString="0&quot;%&quot;" height="18" backColor="-2892310" width="70" left="16" top="660" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ValueLabel6.HelpText" />
+    </valueLabel>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_Bränsle Forester.bmp" transparent="0" imagePosition="1" width="50" top="607" left="26" height="50" dclVisible="-1" dclDown="-1" backColor="-15132304">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox24.HelpText" />
+    </image>
+    <systemLabel fontName="Segoe UI Semibold" fontSize="12" navigationParameter="" navigationCode="-1;-1" fontStyle="1" systemTextId="2" formatString="" foreColor="-16777216" textAlign="16" height="32" backColor="-2892310" width="162" left="918" top="104" dclEnable="-1" dclClick="-1" dclVisible="-1" dclDown="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.SystemLabel2.HelpText" />
+    </systemLabel>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="15" navigationCode="-1;-1" fontName="Segoe UI Semibold" imperialConversion="0" dispValueId="-1" divisor="1" textAlign="18" formatString="#&quot;.&quot;##0 &quot;m&quot;" height="32" backColor="-2892310" width="120" left="939" top="242" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ValueLabel1.HelpText" />
+    </valueLabel>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="128" top="238" left="935" backColor="-1380104" dclVisible="-1" height="40">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox23.HelpText" />
+    </image>
+    <staticLabel fontName="Segoe UI Semibold" fontSize="14" navigationParameter="" navigationCode="-1;-1" textAlign="1" textId="Display 2.Page 3.StaticLabel3" fontStyle="1" foreColor="-16777216" dclEnable="-1" width="120" height="24" left="1229" top="192" backColor="-2892310" dclDown="-1" dclClick="-1" dclVisible="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.StaticLabel3.HelpText" />
+    </staticLabel>
+    <button foreColor="-16777216" textId="Display 2.Page 3.Button14" fontStyle="0" fontName="Microsoft Sans Serif" fontSize="8" textAlign="17" transparent="0" downImage="Menyknapp Reset Down.bmp" imagePosition="3" downBackColor="-16711936" downForeColor="0" upImage="Menyknapp Reset.bmp" height="68" backColor="-8355712" width="68" left="1257" top="222" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Button14.HelpText" />
+    </button>
+    <symbol navigationCode="-1;-1" multipleSelect="0" dclEnable="-1" navigationParameter="" transparent="0" dispValueId="-1" selection="2" imagePosition="1" width="50" height="50" left="952" top="618" backColor="-2892310" dclClick="-1" dclVisible="-1" dclDown="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Symbol9.HelpText" />
+        <items itemCount="3">
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Transm_Nivå_Warning.bmp" symbolValue="2" fontName="Tahoma" textId="Display 2.Page 3.Symbol9.Items.Item2" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Transm_Nivå_Danger.bmp" symbolValue="4" fontName="Tahoma" textId="Display 2.Page 3.Symbol9.Items.Item3" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Larm_Transmissions Nivå Error.bmp" symbolValue="16" fontName="Tahoma" textId="Display 2.Page 3.Symbol9.Items.Item4" />
+        </items>
+    </symbol>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_Transmission nivå Forester.bmp" transparent="0" imagePosition="1" width="40" top="458" left="982" height="40" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox22.HelpText" />
+    </image>
+    <symbol navigationCode="-1;-1" multipleSelect="0" dclEnable="-1" navigationParameter="" transparent="0" dispValueId="-1" selection="2" imagePosition="1" width="50" height="50" left="1040" top="618" backColor="-2892310" dclClick="-1" dclVisible="-1" dclDown="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Symbol5.HelpText" />
+        <items itemCount="3">
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Hydraulik_Nivå_Warning.bmp" symbolValue="2" fontName="Tahoma" textId="Display 2.Page 3.Symbol5.Items.Item2" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Hydraulik_Nivå_Danger.bmp" symbolValue="4" fontName="Tahoma" textId="Display 2.Page 3.Symbol5.Items.Item3" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Larm_Hydraulik Nivå Error.bmp" symbolValue="16" fontName="Tahoma" textId="Display 2.Page 3.Symbol5.Items.Item4" />
+        </items>
+    </symbol>
+    <circleMeter externalPointerRadius="65" reverseScale="1" internalPointerRadius="30" pointerSize="4" pointerColor="-16777216" labelsRadius="75" labelsCount="4" labelsVisible="1" minimum="0" maximum="100" pointerType="2" transparent="0" imagePosition="2" centerWidth="0" dispValueId="-1" centerHeight="0" ticksLength="12" ticksCount="4" ticksSubDivisionsCount="5" ticksRadius="50" ticksVisible="1" dclDown="-1" dclVisible="-1" dclClick="-1" navigationParameter="" dclEnable="-1" top="392" left="908" width="196" backColor="-2892310" height="176" navigationCode="-1;-1" circleColor="-2830136" startAngle="90" endAngle="270" circleRadius="5" foreColor="-16777216" fontName="Segoe UI Semibold" circleBorderColor="-2830136" fontStyle="1" fontSize="12">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.CircularMeter2.HelpText" />
+        <colorSections itemCount="3">
+            <colorSection color="-16777216" maximumPercent="1" />
+            <colorSection color="-65536" maximumPercent="70" />
+            <colorSection color="-16777216" maximumPercent="100" />
+        </colorSections>
+    </circleMeter>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_Hydraulik Nivå Forester.bmp" transparent="0" imagePosition="1" width="40" top="457" left="849" height="40" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox17.HelpText" />
+    </image>
+    <circleMeter externalPointerRadius="65" reverseScale="1" internalPointerRadius="30" pointerSize="4" pointerColor="-16777216" labelsRadius="75" labelsCount="4" labelsVisible="1" minimum="0" maximum="100" pointerType="2" transparent="0" imagePosition="2" centerWidth="0" dispValueId="-1" centerHeight="0" ticksLength="12" ticksCount="4" ticksSubDivisionsCount="5" ticksRadius="50" ticksVisible="1" dclDown="-1" dclVisible="-1" dclClick="-1" navigationParameter="" dclEnable="-1" top="392" left="775" width="196" backColor="-2892310" height="176" navigationCode="-1;-1" circleColor="-2830136" startAngle="90" endAngle="270" circleRadius="5" foreColor="-16777216" fontName="Segoe UI Semibold" circleBorderColor="-2830136" fontStyle="1" fontSize="12">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.CircularMeter6.HelpText" />
+        <colorSections itemCount="3">
+            <colorSection color="-16777216" maximumPercent="1" />
+            <colorSection color="-65536" maximumPercent="65" />
+            <colorSection color="-16777216" maximumPercent="100" />
+        </colorSections>
+    </circleMeter>
+    <button foreColor="-16777216" textId="Display 2.Page 3.Button12" fontStyle="0" fontName="Tahoma" fontSize="12" textAlign="17" transparent="0" downImage="Hjälp Blå Down .bmp" imagePosition="1" downBackColor="0" downForeColor="0" upImage="Hjälp Blå.bmp" height="68" backColor="-1380104" width="68" left="1288" top="7" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Button12.HelpText" />
+    </button>
+    <button foreColor="-16777216" textId="Display 2.Page 3.Button9" fontStyle="0" fontName="Arial" fontSize="8" textAlign="17" transparent="0" downImage="4 Hydraulik Down Forester-D5.bmp" imagePosition="1" downBackColor="-16711936" downForeColor="0" upImage="4 Hydraulik Forester-D5.bmp" height="68" backColor="-8355712" width="68" left="290" top="7" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Button9.HelpText" />
+    </button>
+    <button foreColor="-16777216" textId="Display 2.Page 3.Button15" fontStyle="0" fontName="Arial" fontSize="8" textAlign="17" transparent="0" downImage="3 Kylsystem Down Forester-D5.bmp" imagePosition="1" downBackColor="-16711936" downForeColor="0" upImage="3 Kylsystem Forester-D5.bmp" height="68" backColor="-8355712" width="68" left="198" top="7" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Button15.HelpText" />
+    </button>
+    <button foreColor="-16777216" textId="Display 2.Page 3.Button7" fontStyle="0" fontName="Arial" fontSize="8" textAlign="17" transparent="0" downImage="6 Hytt Down Forester-D5.bmp" imagePosition="1" downBackColor="-16711936" downForeColor="0" upImage="6 Hytt Forester-D5.bmp" height="68" backColor="-8355712" width="68" left="474" top="7" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Button7.HelpText" />
+    </button>
+    <button foreColor="-16777216" textId="Display 2.Page 3.Button10" fontStyle="0" fontName="Arial" fontSize="8" textAlign="17" transparent="0" downImage="2 Transmission Down Forester-D5.bmp" imagePosition="1" downBackColor="-16711936" downForeColor="0" upImage="2 Transmission Forester-D5.bmp" height="68" backColor="-4144960" width="68" left="106" top="7" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Button10.HelpText" />
+    </button>
+    <button foreColor="-16777216" textId="Display 2.Page 3.Button11" fontStyle="0" fontName="Arial" fontSize="8" textAlign="17" transparent="0" downImage="1 Motor Down Forester-D5.bmp" imagePosition="1" downBackColor="-16711936" downForeColor="0" upImage="1 Motor Forester-D5.bmp" height="68" backColor="-8355712" width="68" left="14" top="7" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Button11.HelpText" />
+    </button>
+    <button foreColor="-16777216" textId="Display 2.Page 3.Button21" fontStyle="0" fontName="Arial" fontSize="8" textAlign="17" transparent="0" downImage="9 Lyse Down Forester-D5.bmp" imagePosition="1" downBackColor="-16711936" downForeColor="0" upImage="9 Lyse Forester-D5.bmp" height="68" backColor="-8355712" width="68" left="750" top="7" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Button21.HelpText" />
+    </button>
+    <button foreColor="-16777216" textId="Display 2.Page 3.Button5" fontStyle="0" fontName="Arial" fontSize="8" textAlign="17" transparent="0" downImage="8 Kran Down Forester-D5.bmp" imagePosition="1" downBackColor="-16711936" downForeColor="0" upImage="8 Kran Forester-D5.bmp" height="68" backColor="-8355712" width="68" left="658" top="7" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Button5.HelpText" />
+    </button>
+    <button foreColor="-16777216" textId="Display 2.Page 3.Button6" fontStyle="0" fontName="Arial" fontSize="8" textAlign="17" transparent="0" downImage="7 Ram Down Forester-D5.bmp" imagePosition="1" downBackColor="-16711936" downForeColor="0" upImage="7 Ram Forester-D5.bmp" height="68" backColor="-8355712" width="68" left="566" top="7" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Button6.HelpText" />
+    </button>
+    <button foreColor="-16777216" textId="Display 2.Page 3.Button8" fontStyle="0" fontName="Arial" fontSize="8" textAlign="17" transparent="0" downImage="5 D5 system Down Forester-D5.bmp" imagePosition="1" downBackColor="-16711936" downForeColor="0" upImage="5 D5 system Forester-D5.bmp" height="68" backColor="-8355712" width="68" left="382" top="7" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Button8.HelpText" />
+    </button>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_Work Forester Ny.bmp" transparent="0" imagePosition="1" width="70" top="609" left="1199" height="70" dclVisible="-1" dclDown="-1" backColor="-15132304">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox9.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_Test Forester Ny.bmp" transparent="0" imagePosition="1" width="70" top="609" left="1199" height="70" dclVisible="-1" dclDown="-1" backColor="-15132304">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox13.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_Generator Forester.bmp" transparent="0" imagePosition="3" width="50" top="607" left="362" height="50" dclVisible="-1" dclDown="-1" backColor="-2039584">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox39.HelpText" />
+    </image>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="15" navigationCode="-1;-1" fontName="Segoe UI Semibold" imperialConversion="0" dispValueId="-1" divisor="1" textAlign="17" formatString="0&quot;V&quot;" height="18" backColor="-2892310" width="70" left="352" top="660" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ValueLabel4.HelpText" />
+    </valueLabel>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="15" navigationCode="-1;-1" fontName="Segoe UI Semibold" imperialConversion="0" dispValueId="-1" divisor="1" textAlign="17" formatString="0 &quot;°C&quot;" height="18" backColor="-2892310" width="70" left="268" top="660" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ValueLabel2.HelpText" />
+    </valueLabel>
+    <symbol navigationCode="-1;-1" multipleSelect="0" dclEnable="-1" navigationParameter="" transparent="0" dispValueId="-1" selection="2" imagePosition="3" width="50" height="50" left="278" top="607" backColor="-15132304" dclClick="-1" dclVisible="-1" dclDown="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Symbol7.HelpText" />
+        <items itemCount="4">
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Transmissions temp Forester.bmp" symbolValue="0" fontName="Tahoma" textId="Display 2.Page 3.Symbol7.Items.Item1" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Transmissions_temp_Warning.bmp" symbolValue="2" fontName="Tahoma" textId="Display 2.Page 3.Symbol7.Items.Item3" />
+            <item fontStyle="0" fontSize="12" textAlign="17" foreColor="-16777216" imageFile="Larm_Transmissions temp.bmp" symbolValue="4" fontName="Tahoma" textId="Display 2.Page 3.Symbol7.Items.Item5" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Larm_Transmissions temp Error.bmp" symbolValue="16" fontName="Tahoma" textId="Display 2.Page 3.Symbol7.Items.Item4" />
+        </items>
+    </symbol>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="15" navigationCode="-1;-1" fontName="Segoe UI Semibold" imperialConversion="0" dispValueId="-1" divisor="1" textAlign="17" formatString="0 &quot;°C&quot;" height="18" backColor="-2892310" width="70" left="183" top="660" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ValueLabel3.HelpText" />
+    </valueLabel>
+    <symbol navigationCode="-1;-1" multipleSelect="0" dclEnable="-1" navigationParameter="" transparent="0" dispValueId="-1" selection="2" imagePosition="3" width="50" height="50" left="193" top="607" backColor="-15132304" dclClick="-1" dclVisible="-1" dclDown="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Symbol1.HelpText" />
+        <items itemCount="5">
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Hydraulik Temp Forester.bmp" symbolValue="0" fontName="Tahoma" textId="Display 2.Page 3.Symbol1.Items.Item1" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Hydraulik Temp Forester.bmp" symbolValue="1" fontName="Tahoma" textId="Display 2.Page 3.Symbol1.Items.Item2" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym_Hydraulik_Temp_Warning.bmp" symbolValue="2" fontName="Tahoma" textId="Display 2.Page 3.Symbol1.Items.Item3" />
+            <item fontStyle="0" fontSize="12" textAlign="17" foreColor="-16777216" imageFile="Sym_Hydraulik_Temp_Danger.bmp" symbolValue="4" fontName="Tahoma" textId="Display 2.Page 3.Symbol1.Items.Item5" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Larm_Hydraulik Temp Error.bmp" symbolValue="16" fontName="Tahoma" textId="Display 2.Page 3.Symbol1.Items.Item4" />
+        </items>
+    </symbol>
+    <valueLabel fontStyle="1" foreColor="-16777216" fontSize="15" navigationCode="-1;-1" fontName="Segoe UI Semibold" imperialConversion="0" dispValueId="-1" divisor="1" textAlign="17" formatString="0 &quot;°C&quot;" height="18" backColor="-2892310" width="70" left="99" top="660" dclVisible="-1" dclEnable="-1" navigationParameter="" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ValueLabel5.HelpText" />
+    </valueLabel>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_Motorvatten temp Forester.bmp" transparent="0" imagePosition="3" width="50" top="607" left="109" height="50" dclVisible="-1" dclDown="-1" backColor="-15132304">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox32.HelpText" />
+    </image>
+    <symbol navigationCode="-1;-1" multipleSelect="0" dclEnable="-1" navigationParameter="" transparent="0" dispValueId="-1" selection="2" imagePosition="1" width="50" height="50" left="26" top="607" backColor="-2892310" dclClick="-1" dclVisible="-1" dclDown="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Symbol4.HelpText" />
+        <items itemCount="3">
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Larm_Bränslenivå.bmp" symbolValue="2" fontName="Tahoma" textId="Display 2.Page 3.Symbol4.Items.Item1" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Larm_Bränslenivå.bmp" symbolValue="4" fontName="Tahoma" textId="Display 2.Page 3.Symbol4.Items.Item2" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Larm Givare Error.bmp" symbolValue="16" fontName="Tahoma" textId="Display 2.Page 3.Symbol4.Items.Item3" />
+        </items>
+    </symbol>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_Bränsle Forester.bmp" transparent="0" imagePosition="1" width="40" top="309" left="127" height="40" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox21.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_Arbetsvarv aktiv Forester.bmp" transparent="0" imagePosition="1" width="35" top="317" left="440" height="35" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox6.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Larm_Service.bmp" transparent="0" imagePosition="1" width="50" top="618" left="620" height="50" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox2.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Larm_Kranspärr aktiv.bmp" transparent="0" imagePosition="1" width="50" top="543" left="75" height="50" dclVisible="-1" dclDown="-1" backColor="-16776961">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox57.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Larm_Hydraulik Vacuumpump.bmp" transparent="0" imagePosition="1" width="50" top="543" left="131" height="50" dclVisible="-1" dclDown="-1" backColor="-16776961">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox14.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Larm_BränsleFilter.bmp" transparent="0" imagePosition="1" width="50" top="543" left="187" height="50" dclVisible="-1" dclDown="-1" backColor="-16776961">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox8.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Larm_Dieselmotor Wait.bmp" transparent="0" imagePosition="1" width="50" top="543" left="19" height="50" dclVisible="-1" dclDown="-1" backColor="-16776961">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox4.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Larm_Motorvatten nivå.bmp" transparent="0" imagePosition="1" width="50" top="543" left="355" height="50" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox11.HelpText" />
+    </image>
+    <symbol navigationCode="-1;-1" multipleSelect="0" dclEnable="-1" navigationParameter="" transparent="0" dispValueId="-1" selection="4" imagePosition="1" width="50" height="50" left="299" top="543" backColor="-1380104" dclClick="-1" dclVisible="-1" dclDown="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Symbol8.HelpText" />
+        <items itemCount="3">
+            <item fontStyle="0" foreColor="-16777216" textAlign="0" fontSize="10" symbolValue="0" textId="Display 2.Page 3.Symbol8.Items.Item1" fontName="Tahoma" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Larm_Hydraulik Filter.bmp" symbolValue="4" fontName="Tahoma" textId="Display 2.Page 3.Symbol8.Items.Item2" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Larm_Hydraulik Filter Error.bmp" symbolValue="16" fontName="Tahoma" textId="Display 2.Page 3.Symbol8.Items.Item3" />
+        </items>
+    </symbol>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Larm_Bromsar.bmp" transparent="0" imagePosition="1" width="50" top="618" left="703" height="50" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox12.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Larm_Dieselmotor Warning.bmp" transparent="0" imagePosition="1" width="50" top="618" left="869" height="50" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox58.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Larm_Dieselmotor Stop.bmp" transparent="0" imagePosition="1" width="50" top="618" left="786" height="50" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox45.HelpText" />
+    </image>
+    <staticLabel fontName="Segoe UI Semibold" fontSize="14" navigationParameter="" navigationCode="-1;-1" textAlign="17" textId="Display 2.Page 3.StaticLabel1" fontStyle="1" foreColor="-16777216" dclEnable="-1" width="56" height="32" left="429" top="355" backColor="-2892310" dclDown="-1" dclClick="-1" dclVisible="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.StaticLabel1.HelpText" />
+    </staticLabel>
+    <circleMeter externalPointerRadius="110" reverseScale="1" internalPointerRadius="25" pointerSize="4" pointerColor="-16777216" labelsRadius="140" labelsCount="5" labelsVisible="1" minimum="0" maximum="2500" pointerType="2" transparent="0" imagePosition="1" centerWidth="0" dispValueId="-1" centerHeight="0" ticksLength="20" ticksCount="5" ticksSubDivisionsCount="5" ticksRadius="100" ticksVisible="1" dclDown="-1" dclVisible="-1" dclClick="-1" navigationParameter="" dclEnable="-1" top="184" left="272" width="372" backColor="-2892310" height="301" navigationCode="-1;-1" circleColor="-16777216" startAngle="25" endAngle="205" circleRadius="3" foreColor="-1" fontName="Segoe UI Semibold" circleBorderColor="-16777216" fontStyle="1" fontSize="14">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.CircularMeter1.HelpText" />
+        <colorSections itemCount="3">
+            <colorSection color="-16777216" maximumPercent="75" />
+            <colorSection color="-65536" maximumPercent="80" />
+            <colorSection color="-65536" maximumPercent="100" />
+        </colorSections>
+    </circleMeter>
+    <circleMeter externalPointerRadius="65" reverseScale="1" internalPointerRadius="30" pointerSize="4" pointerColor="-16777216" labelsRadius="90" labelsCount="4" labelsVisible="1" minimum="0" maximum="100" pointerType="2" transparent="0" imagePosition="2" centerWidth="0" dispValueId="-1" centerHeight="0" ticksLength="12" ticksCount="4" ticksSubDivisionsCount="5" ticksRadius="65" ticksVisible="1" dclDown="-1" dclVisible="-1" dclClick="-1" navigationParameter="" dclEnable="-1" top="208" left="16" width="256" backColor="-2892310" height="240" navigationCode="-1;-1" circleColor="-2830136" startAngle="90" endAngle="270" circleRadius="5" foreColor="-16777216" fontName="Segoe UI Semibold" circleBorderColor="-2830136" fontStyle="1" fontSize="14">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.CircularMeter3.HelpText" />
+        <colorSections itemCount="3">
+            <colorSection color="-16777216" maximumPercent="1" />
+            <colorSection color="-65536" maximumPercent="20" />
+            <colorSection color="-16777216" maximumPercent="100" />
+        </colorSections>
+    </circleMeter>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_Ind Terrängstyrning aktiv.bmp" transparent="0" imagePosition="1" width="78" top="618" left="522" height="50" dclVisible="-1" dclDown="-1" backColor="-16776961">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox7.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_AWD Ny.bmp" transparent="0" imagePosition="3" width="61" top="552" left="1283" height="43" dclVisible="706" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox19.HelpText" />
+    </image>
+    <symbol navigationCode="-1;-1" multipleSelect="0" dclEnable="-1" navigationParameter="" transparent="0" dispValueId="-1" selection="2" imagePosition="1" width="50" height="50" left="1118" top="529" backColor="-2892310" dclClick="-1" dclVisible="-1" dclDown="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Symbol3.HelpText" />
+        <items itemCount="4">
+            <item fontStyle="0" foreColor="-16777216" textAlign="0" fontSize="10" symbolValue="0" textId="Display 2.Page 3.Symbol3.Items.Item1" fontName="Tahoma" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym Lågväxel Forester.bmp" symbolValue="1" fontName="Tahoma" textId="Display 2.Page 3.Symbol3.Items.Item2" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym Lågväxel Forester.bmp" symbolValue="2" fontName="Tahoma" textId="Display 2.Page 3.Symbol3.Items.Item3" />
+            <item fontStyle="0" fontSize="10" textAlign="0" foreColor="-16777216" imageFile="Sym Högväxel Forester.bmp" symbolValue="3" fontName="Tahoma" textId="Display 2.Page 3.Symbol3.Items.Item4" />
+        </items>
+    </symbol>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym Bakåt Forester .bmp" transparent="0" imagePosition="2" width="50" top="478" left="1118" height="50" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox26.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym_P-Broms Aktiv Forest_2.bmp" transparent="0" imagePosition="1" width="50" top="426" left="1118" height="50" dclVisible="-1" dclDown="-1" backColor="-65536">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox10.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym Framåt Forester.bmp" transparent="0" imagePosition="2" width="50" top="376" left="1118" height="50" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox27.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym Blinkers höger Forester Svart.bmp" transparent="0" imagePosition="3" width="43" top="359" left="1243" height="43" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox15.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym Blinkers vänster Forester Svart.bmp" transparent="0" imagePosition="3" width="43" top="359" left="1190" height="43" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox16.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym Auto krantilt aktiv.bmp" transparent="0" imagePosition="1" width="50" top="618" left="1123" height="50" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox20.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="Sym Varningsblinkers Forester Ny.bmp" transparent="0" imagePosition="1" width="50" top="618" left="452" height="50" dclVisible="-1" dclDown="-1" backColor="-2892310">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox34.HelpText" />
+    </image>
+    <staticLabel fontName="Segoe UI Semibold" fontSize="14" navigationParameter="" navigationCode="-1;-1" textAlign="1" textId="Display 2.Page 3.StaticLabel2" fontStyle="1" foreColor="-16777216" dclEnable="-1" width="443" height="192" left="913" top="158" backColor="-2892310" dclDown="-1" dclClick="-1" dclVisible="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.StaticLabel2.HelpText" />
+    </staticLabel>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="650" top="89" left="10" backColor="-2892310" dclVisible="-1" height="506">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox29.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="443" top="89" left="913" backColor="-2892310" dclVisible="-1" height="65">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox33.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="1192" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox55.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="1108" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox54.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="1024" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox53.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="940" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox52.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="856" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox51.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="772" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox50.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="688" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox49.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="604" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox48.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="520" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox47.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="436" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox46.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="446" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox44.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="346" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox43.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="262" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox42.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="178" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox40.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="94" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox38.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" transparent="0" imagePosition="3" navigationCode="-1;-1" dclDown="-1" width="82" top="616" left="10" backColor="-2892310" dclVisible="-1" height="50">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox37.HelpText" />
+    </image>
+    <image navigationParameter="" dclEnable="-1" dclClick="-1" navigationCode="-1;-1" imageFile="D5 des i Forester.bmp" transparent="0" imagePosition="3" width="1367" top="349" left="0" height="336" dclVisible="-1" dclDown="-1" backColor="-1380104">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.ImageBox1.HelpText" />
+    </image>
+    <button foreColor="-16777216" textId="Display 2.Page 3.Button3" fontStyle="0" fontName="Arial" fontSize="8" textAlign="17" transparent="0" downImage="10 Miscellaneous Down Forester-D5.bmp" imagePosition="1" downBackColor="-16711936" downForeColor="0" upImage="10 Miscellaneous Forester-D5.bmp" height="68" backColor="-8355712" width="68" left="842" top="7" dclVisible="-1" navigationParameter="" navigationCode="-1;-1" dclEnable="-1" dclDown="-1" dclClick="-1">
+        <helpText helpTextAutoShow="0" textId="Display 2.Page 3.Button3.HelpText" />
+    </button>
+</page>

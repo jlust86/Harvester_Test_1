@@ -1,0 +1,2236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--d5DCL project file-->
+<mainDCL fileVersion="1.9.0.0">
+    <fileInfo>
+        <description>d5DCL project file</description>
+        <dclToolVersion>3.5.2.0</dclToolVersion>
+    </fileInfo>
+    <projectInfo>
+        <GUID>43fab8b5-1e59-4f23-b247-3ad353ded7cc</GUID>
+        <projectNumber>-1</projectNumber>
+        <projectType>MAIN</projectType>
+        <comment>Testprogram för diverse projekt.</comment>
+        <company>Rottne Industri AB</company>
+        <userName>Jonny Hansson</userName>
+        <identity>Test av DCL</identity>
+        <dclRate>10</dclRate>
+        <slotNumber>1</slotNumber>
+        <majorVersion>0</majorVersion>
+        <minorVersion>0</minorVersion>
+        <build>81</build>
+        <nextId>3519</nextId>
+    </projectInfo>
+    <variables varCount="519">
+        <variable id="3427" dclName="CB_1 Recieve 5" type="201" category="1" value="0" />
+        <variable id="3425" dclName="CB_1 Recieve 1" type="201" category="1" value="0" />
+        <variable id="3423" dclName="CB_1 Recieve 2" type="201" category="1" value="0" />
+        <variable id="3421" dclName="CB_1 Recieve 3" type="201" category="1" value="0" />
+        <variable id="3419" dclName="CB_1 Recieve 4" type="201" category="1" value="0" />
+        <variable id="2386" dclName="EV_Js 2 Höger Y-led -2H-" type="10" category="1" value="0" />
+        <variable id="2294" dclName="EV_Ind Krantilt Auto" type="10" category="1" value="0" />
+        <variable id="1844" dclName="EV_Pot Diff -6H-" type="10" category="1" value="0" />
+        <variable id="1746" dclName="EV_Pot Hastighet -6V-" type="10" category="1" value="0" />
+        <variable id="1842" dclName="EV_Js 2 Vänster X-led -1V-" type="10" category="1" value="0" />
+        <variable id="651" dclName="SO_Ind Direktström" type="101" category="1" value="0" />
+        <variable id="653" dclName="SO_Ind Huvudström" type="101" category="1" value="0" />
+        <variable id="1734" dclName="EV_Sw Stolsbroms -22H-" type="10" category="1" value="0" />
+        <variable id="1846" dclName="EV_Sw -16V-" type="10" category="1" value="0" />
+        <variable id="655" dclName="SO_Ind Tändning" type="101" category="1" value="0" />
+        <variable id="699" dclName="SO_Error Js Kransväng" type="101" category="1" value="0" />
+        <variable id="705" dclName="SO_Error Js Vipparm" type="101" category="1" value="0" />
+        <variable id="708" dclName="SO_Error Js Utskjut" type="101" category="1" value="0" />
+        <variable id="1433" dclName="EV_Sw Transm Drift Bakåt -15V-" type="10" category="1" value="0" />
+        <variable id="1435" dclName="EV_Sw Transm Neutral -14V-" type="10" category="1" value="0" />
+        <variable id="1437" dclName="EV_Sw Transm Drift Framåt -13V-" type="10" category="1" value="0" />
+        <variable id="1449" dclName="EV_Sw Backkamera -17H-" type="10" category="1" value="0" />
+        <variable id="1489" dclName="EV_Js 2 Vänster Y-led -2V-" type="10" category="1" value="0" />
+        <variable id="2288" dclName="EV_Sw Farthållare -19V-" type="10" category="1" value="0" />
+        <variable id="116" dclName="CV_Js Kransväng Max mV" type="103" category="1" value="0" />
+        <variable id="128" dclName="CV_Js Huvudbom Min mV" type="103" category="1" value="0" />
+        <variable id="130" dclName="CV_Js Huvudbom Max mV" type="103" category="1" value="0" />
+        <variable id="139" dclName="CV_Js Vipparm Min mV" type="103" category="1" value="0" />
+        <variable id="141" dclName="CV_Js Vipparm Max mV" type="103" category="1" value="0" />
+        <variable id="148" dclName="CV_Js Utskjut Min mV" type="103" category="1" value="0" />
+        <variable id="150" dclName="CV_Js Utskjut Max mV" type="103" category="1" value="0" />
+        <variable id="158" dclName="CV_Js Rotator Min mV" type="103" category="1" value="0" />
+        <variable id="160" dclName="CV_Js Rotator Max mV" type="103" category="1" value="0" />
+        <variable id="168" dclName="CV_Js Nedre knivar Min mV" type="103" category="1" value="0" />
+        <variable id="170" dclName="CV_Js Nedre knivar Max mV" type="103" category="1" value="0" />
+        <variable id="72" dclName="-1" type="0" category="0" value="-1" />
+        <variable id="78" dclName="2" type="0" category="0" value="2" />
+        <variable id="79" dclName="50" type="0" category="0" value="50" />
+        <variable id="112" dclName="DV_Js Kransväng mV" type="102" category="1" value="0" />
+        <variable id="118" dclName="-100" type="0" category="0" value="-100" />
+        <variable id="119" dclName="100" type="0" category="0" value="100" />
+        <variable id="121" dclName="-50" type="0" category="0" value="-50" />
+        <variable id="122" dclName="0" type="0" category="0" value="0" />
+        <variable id="124" dclName="DV_Js Kransväng %" type="102" category="1" value="0" />
+        <variable id="126" dclName="DV_Js Huvudbom mV" type="102" category="1" value="0" />
+        <variable id="134" dclName="DV_Js Huvudbom %" type="102" category="1" value="0" />
+        <variable id="136" dclName="DV_Js Vipparm mV" type="102" category="1" value="0" />
+        <variable id="144" dclName="DV_Js Vipparm %" type="102" category="1" value="0" />
+        <variable id="146" dclName="DV_Js Utskjut mV" type="102" category="1" value="0" />
+        <variable id="154" dclName="DV_Js Utskjut %" type="102" category="1" value="0" />
+        <variable id="156" dclName="DV_Js Rotator mV" type="102" category="1" value="0" />
+        <variable id="164" dclName="DV_Js Rotator %" type="102" category="1" value="0" />
+        <variable id="166" dclName="DV_Js Nedre Knivar mV" type="102" category="1" value="0" />
+        <variable id="176" dclName="DV_Js Nedre knivar %" type="102" category="1" value="0" />
+        <variable id="378" dclName="1" type="0" category="0" value="1" />
+        <variable id="461" dclName="10" type="0" category="0" value="10" />
+        <variable id="524" dclName="75" type="0" category="0" value="75" />
+        <variable id="657" dclName="10000" type="0" category="0" value="10000" />
+        <variable id="697" dclName="450" type="0" category="0" value="450" />
+        <variable id="722" dclName="3" type="0" category="0" value="3" />
+        <variable id="729" dclName="90" type="0" category="0" value="90" />
+        <variable id="928" dclName="1000" type="0" category="0" value="1000" />
+        <variable id="929" dclName="-1000" type="0" category="0" value="-1000" />
+        <variable id="959" dclName="OutD_CB Lysdiod 1H (K1-1)" type="201" category="1" value="0" />
+        <variable id="961" dclName="OutD_CB Lysdiod 4H (K1-2)" type="201" category="1" value="0" />
+        <variable id="963" dclName="OutD_CB Lysdiod 7H (K1-3)" type="201" category="1" value="0" />
+        <variable id="965" dclName="OutD_CB Lysdiod 3H (K1-4)" type="201" category="1" value="0" />
+        <variable id="967" dclName="OutD_CB Lysdiod 6H (K1-5)" type="201" category="1" value="0" />
+        <variable id="969" dclName="OutD_CB Lysdiod 9H (K1-6)" type="201" category="1" value="0" />
+        <variable id="975" dclName="InD_CB Sw 20 H (K2-2)" type="201" category="1" value="0" />
+        <variable id="977" dclName="InD_CB Sw 21 H (K2-3)" type="201" category="1" value="0" />
+        <variable id="979" dclName="InD_CB Sw 16 H (K3-1)" type="201" category="1" value="0" />
+        <variable id="981" dclName="InD_CB Sw 17 H (K3-2)" type="201" category="1" value="0" />
+        <variable id="983" dclName="InD_CB Sw 18 H (K3-3)" type="201" category="1" value="0" />
+        <variable id="985" dclName="InD_CB Sw 13 H (K5-1)" type="201" category="1" value="0" />
+        <variable id="987" dclName="InD_CB Sw 14 H (K5-2)" type="201" category="1" value="0" />
+        <variable id="989" dclName="InD_CB Sw 15 H (K5-3)" type="201" category="1" value="0" />
+        <variable id="991" dclName="InD_CB Sw 12 H (K6-1)" type="201" category="1" value="0" />
+        <variable id="993" dclName="InD_CB Sw 11 H (K6-2)" type="201" category="1" value="0" />
+        <variable id="995" dclName="InD_CB Sw 10 H (K6-3)" type="201" category="1" value="0" />
+        <variable id="997" dclName="InD_CB Sw 1 H (K4-1)" type="201" category="1" value="0" />
+        <variable id="999" dclName="InD_CB Sw 2 H (K4-2)" type="201" category="1" value="0" />
+        <variable id="1001" dclName="InD_CB Sw 3 H (K4-3)" type="201" category="1" value="0" />
+        <variable id="1003" dclName="InD_CB Sw 4 H (K4-4)" type="201" category="1" value="0" />
+        <variable id="1005" dclName="InD_CB Sw 5 H (K4-5)" type="201" category="1" value="0" />
+        <variable id="1007" dclName="InD_CB Sw 6 H (K4-6)" type="201" category="1" value="0" />
+        <variable id="1009" dclName="InD_CB Sw 7 H (K4-7)" type="201" category="1" value="0" />
+        <variable id="1011" dclName="InD_CB Sw 8 H (K4-8)" type="201" category="1" value="0" />
+        <variable id="1013" dclName="InD_CB Sw 9 H (K4-9)" type="201" category="1" value="0" />
+        <variable id="1015" dclName="InD_CB Sw 19 H (K2-1)" type="201" category="1" value="0" />
+        <variable id="1026" dclName="InA_CB Js Kran X 1H (K10-1)" type="201" category="1" value="0" />
+        <variable id="1028" dclName="InA_CB Js Kran Y 2H (K10-2)" type="201" category="1" value="0" />
+        <variable id="1030" dclName="InA_CB Js Kran Z 3H (K10-3)" type="201" category="1" value="0" />
+        <variable id="1032" dclName="InD_CB Sw 30H (K10-9)" type="201" category="1" value="0" />
+        <variable id="1034" dclName="InD_CB Sw 22H (K7-1)" type="201" category="1" value="0" />
+        <variable id="1036" dclName="InD_CB Sw 23H (K7-2)" type="201" category="1" value="0" />
+        <variable id="1038" dclName="InD_CB Sw 24H (K7-3)" type="201" category="1" value="0" />
+        <variable id="1040" dclName="InA_CB Js2 X 4H (K9-1)" type="201" category="1" value="0" />
+        <variable id="1044" dclName="InA_CB Js2 Y 5H (K9-2)" type="201" category="1" value="0" />
+        <variable id="1046" dclName="InA_CB Pot 6H (K11-1)" type="201" category="1" value="0" />
+        <variable id="1048" dclName="InA_CB AI 7H (K11-2)" type="201" category="1" value="0" />
+        <variable id="1050" dclName="InA_CB Pot Access (K71-4)" type="201" category="1" value="0" />
+        <variable id="1052" dclName="InD_CB Sw 25AH (K10-4)" type="201" category="1" value="0" />
+        <variable id="1054" dclName="InD_CB Sw 26BH (K10-5)" type="201" category="1" value="0" />
+        <variable id="1056" dclName="InD_CB Sw 27CH (K10-6)" type="201" category="1" value="0" />
+        <variable id="1058" dclName="InD_CB Sw 28DH (K10-7)" type="201" category="1" value="0" />
+        <variable id="1060" dclName="InD_CB Sw 29EH (K10-8)" type="201" category="1" value="0" />
+        <variable id="1066" dclName="OutD_CB Disable background button" type="201" category="1" value="0" />
+        <variable id="1068" dclName="OutD_CB Background light Rightpanel" type="201" category="1" value="0" />
+        <variable id="1174" dclName="SO_Sw 1H" type="101" category="1" value="0" />
+        <variable id="1176" dclName="SO_Sw 2H" type="101" category="1" value="0" />
+        <variable id="1178" dclName="SO_Sw 3H" type="101" category="1" value="0" />
+        <variable id="1180" dclName="SO_Sw 4H" type="101" category="1" value="0" />
+        <variable id="1182" dclName="SO_Sw 5H" type="101" category="1" value="0" />
+        <variable id="1184" dclName="SO_Sw 6H" type="101" category="1" value="0" />
+        <variable id="1186" dclName="SO_Sw 7H" type="101" category="1" value="0" />
+        <variable id="1188" dclName="SO_Sw 8H" type="101" category="1" value="0" />
+        <variable id="1190" dclName="SO_Sw 9H" type="101" category="1" value="0" />
+        <variable id="1192" dclName="SO_Sw 11H" type="101" category="1" value="0" />
+        <variable id="1194" dclName="SO_Sw 10H" type="101" category="1" value="0" />
+        <variable id="1196" dclName="SO_Sw 12H" type="101" category="1" value="0" />
+        <variable id="1198" dclName="SO_Sw Gyro Krantilt -13H-" type="101" category="1" value="0" />
+        <variable id="1200" dclName="SO_Sw Krantilt Ut -14H-" type="101" category="1" value="0" />
+        <variable id="1202" dclName="SO_Sw Krantilt In -15H-" type="101" category="1" value="0" />
+        <variable id="1204" dclName="SO_Sw 16H" type="101" category="1" value="0" />
+        <variable id="1206" dclName="SO_Sw 17H" type="101" category="1" value="0" />
+        <variable id="1208" dclName="SO_Sw 18H" type="101" category="1" value="0" />
+        <variable id="1210" dclName="SO_Sw 19H" type="101" category="1" value="0" />
+        <variable id="1212" dclName="SO_Sw 20H" type="101" category="1" value="0" />
+        <variable id="1214" dclName="SO_Sw 21H" type="101" category="1" value="0" />
+        <variable id="1218" dclName="InA_CB Js Kran X 1V (K10-1)" type="201" category="1" value="0" />
+        <variable id="1220" dclName="InA_CB Js Kran Y 2V (K10-2)" type="201" category="1" value="0" />
+        <variable id="1222" dclName="InA_CB Js Kran Z 3V (K10-3)" type="201" category="1" value="0" />
+        <variable id="1224" dclName="InA_CB Js2 X 4V (K9-1)" type="201" category="1" value="0" />
+        <variable id="1227" dclName="InA_CB Js2 Y 5V (K9-2)" type="201" category="1" value="0" />
+        <variable id="1229" dclName="InA_CB Pot 6V (K11-1)" type="201" category="1" value="0" />
+        <variable id="1231" dclName="InA_CB AI 7V (K11-2)" type="201" category="1" value="0" />
+        <variable id="1233" dclName="InA_CB AI 8V (K7-4)" type="201" category="1" value="0" />
+        <variable id="1300" dclName="OutD_CB Lysdiod 1V (K1-1)" type="201" category="1" value="0" />
+        <variable id="1302" dclName="OutD_CB Lysdiod 4V (K1-2)" type="201" category="1" value="0" />
+        <variable id="1304" dclName="OutD_CB Lysdiod 7V (K1-3)" type="201" category="1" value="0" />
+        <variable id="1308" dclName="OutD_CB Lysdiod 3V (K1-4)" type="201" category="1" value="0" />
+        <variable id="1310" dclName="OutD_CB Lysdiod 6V (K1-5)" type="201" category="1" value="0" />
+        <variable id="1312" dclName="OutD_CB Lysdiod 9V (K1-6)" type="201" category="1" value="0" />
+        <variable id="1315" dclName="InD_CB Sw 10V (K2-1)" type="201" category="1" value="0" />
+        <variable id="1317" dclName="InD_CB Sw 11V (K2-2)" type="201" category="1" value="0" />
+        <variable id="1319" dclName="InD_CB Sw 12V (K2-3)" type="201" category="1" value="0" />
+        <variable id="1321" dclName="InD_CB Sw 15V (K3-1)" type="201" category="1" value="0" />
+        <variable id="1323" dclName="InD_CB Sw 14V (K3-2)" type="201" category="1" value="0" />
+        <variable id="1325" dclName="InD_CB Sw 13V (K3-3)" type="201" category="1" value="0" />
+        <variable id="1327" dclName="InD_CB Sw 18V (K5-1)" type="201" category="1" value="0" />
+        <variable id="1329" dclName="InD_CB Sw 17V (K5-2)" type="201" category="1" value="0" />
+        <variable id="1331" dclName="InD_CB Sw 16V (K5-3)" type="201" category="1" value="0" />
+        <variable id="1333" dclName="InD_CB Sw 21V (K6-1)" type="201" category="1" value="0" />
+        <variable id="1335" dclName="InD_CB Sw 20V (K6-2)" type="201" category="1" value="0" />
+        <variable id="1337" dclName="InD_CB Sw 19V (K6-3)" type="201" category="1" value="0" />
+        <variable id="1339" dclName="InD_CB Sw 1 V (K4-1)" type="201" category="1" value="0" />
+        <variable id="1341" dclName="InD_CB Sw 2 V (K4-2)" type="201" category="1" value="0" />
+        <variable id="1343" dclName="InD_CB Sw 3 V (K4-3)" type="201" category="1" value="0" />
+        <variable id="1345" dclName="InD_CB Sw 4 V (K4-4)" type="201" category="1" value="0" />
+        <variable id="1347" dclName="InD_CB Sw 5 V (K4-5)" type="201" category="1" value="0" />
+        <variable id="1349" dclName="InD_CB Sw 6 V (K4-6)" type="201" category="1" value="0" />
+        <variable id="1351" dclName="InD_CB Sw 7 V (K4-7)" type="201" category="1" value="0" />
+        <variable id="1353" dclName="InD_CB Sw 8 V (K4-8)" type="201" category="1" value="0" />
+        <variable id="1355" dclName="InD_CB Sw 9 V (K4-9)" type="201" category="1" value="0" />
+        <variable id="1357" dclName="InD_CB Sw Digital 22V (K7-1)" type="201" category="1" value="0" />
+        <variable id="1359" dclName="InD_CB Sw Digital 23V (K7-2)" type="201" category="1" value="0" />
+        <variable id="1361" dclName="InD_CB Sw Digital 24V (K7-3)" type="201" category="1" value="0" />
+        <variable id="1363" dclName="InD_CB Sw 25 AV (K10-4)" type="201" category="1" value="0" />
+        <variable id="1365" dclName="InD_CB Sw 26 BV (K10-5)" type="201" category="1" value="0" />
+        <variable id="1367" dclName="InD_CB Sw 27 CV (K10-6)" type="201" category="1" value="0" />
+        <variable id="1369" dclName="InD_CB Sw 28 DV (K10-7)" type="201" category="1" value="0" />
+        <variable id="1371" dclName="InD_CB Sw 29 EV (K10-8)" type="201" category="1" value="0" />
+        <variable id="1373" dclName="InD_CB Sw 30 Digital V (K10-9)" type="201" category="1" value="0" />
+        <variable id="1381" dclName="SO_Sw 1V" type="101" category="1" value="0" />
+        <variable id="1383" dclName="SO_Sw 2V" type="101" category="1" value="0" />
+        <variable id="1385" dclName="SO_Sw 3V" type="101" category="1" value="0" />
+        <variable id="1387" dclName="SO_Sw 4V" type="101" category="1" value="0" />
+        <variable id="1389" dclName="SO_Sw 5V" type="101" category="1" value="0" />
+        <variable id="1391" dclName="SO_Sw 6V" type="101" category="1" value="0" />
+        <variable id="1393" dclName="SO_Sw 7V" type="101" category="1" value="0" />
+        <variable id="1395" dclName="SO_Sw 8V" type="101" category="1" value="0" />
+        <variable id="1397" dclName="SO_Sw 9V" type="101" category="1" value="0" />
+        <variable id="1399" dclName="SO_Sw 15V" type="101" category="1" value="0" />
+        <variable id="1401" dclName="SO_Sw 14V" type="101" category="1" value="0" />
+        <variable id="1403" dclName="SO_Sw 13V" type="101" category="1" value="0" />
+        <variable id="1405" dclName="SO_Sw 10V" type="101" category="1" value="0" />
+        <variable id="1407" dclName="SO_Sw 11V" type="101" category="1" value="0" />
+        <variable id="1409" dclName="SO_Sw 12V" type="101" category="1" value="0" />
+        <variable id="1411" dclName="SO_Sw 18V" type="101" category="1" value="0" />
+        <variable id="1413" dclName="SO_Sw 17V" type="101" category="1" value="0" />
+        <variable id="1415" dclName="SO_Sw 16V" type="101" category="1" value="0" />
+        <variable id="1417" dclName="SO_Sw 21V" type="101" category="1" value="0" />
+        <variable id="1419" dclName="SO_Sw 20V" type="101" category="1" value="0" />
+        <variable id="1421" dclName="SO_Sw 19V" type="101" category="1" value="0" />
+        <variable id="1427" dclName="EV_Sw Arbetsvarv -21H-" type="10" category="1" value="0" />
+        <variable id="1429" dclName="EV_Sw Diff Fram-19H-" type="10" category="1" value="0" />
+        <variable id="1431" dclName="EV_Sw Diff Bak -20H-" type="10" category="1" value="0" />
+        <variable id="1439" dclName="EV_Sw Momentan Torkare -18H-" type="10" category="1" value="0" />
+        <variable id="1441" dclName="EV_Js 2 Höger X-led -1H-" type="10" category="1" value="0" />
+        <variable id="1481" dclName="EV_Sw -17V-" type="10" category="1" value="0" />
+        <variable id="1483" dclName="EV_Sw -18V-" type="10" category="1" value="0" />
+        <variable id="1485" dclName="EV_Sw Js Nivellering ON-OFF -21V-" type="10" category="1" value="0" />
+        <variable id="1487" dclName="EV_Sw Tillåt Styrning -20V-" type="10" category="1" value="0" />
+        <variable id="1754" dclName="-80" type="0" category="0" value="-80" />
+        <variable id="1756" dclName="400" type="0" category="0" value="400" />
+        <variable id="1763" dclName="350" type="0" category="0" value="350" />
+        <variable id="1765" dclName="4" type="0" category="0" value="4" />
+        <variable id="1766" dclName="5" type="0" category="0" value="5" />
+        <variable id="1767" dclName="6" type="0" category="0" value="6" />
+        <variable id="1821" dclName="150" type="0" category="0" value="150" />
+        <variable id="1825" dclName="666" type="0" category="0" value="666" />
+        <variable id="1826" dclName="285" type="0" category="0" value="285" />
+        <variable id="1829" dclName="600" type="0" category="0" value="600" />
+        <variable id="1830" dclName="1300" type="0" category="0" value="1300" />
+        <variable id="1833" dclName="700" type="0" category="0" value="700" />
+        <variable id="1834" dclName="990" type="0" category="0" value="990" />
+        <variable id="2214" dclName="EV_Sw 1H" type="10" category="1" value="0" />
+        <variable id="2216" dclName="EV_Sw 2H" type="10" category="1" value="0" />
+        <variable id="2218" dclName="EV_Sw 3H" type="10" category="1" value="0" />
+        <variable id="2220" dclName="EV_Sw 4H" type="10" category="1" value="0" />
+        <variable id="2222" dclName="EV_Sw 5H" type="10" category="1" value="0" />
+        <variable id="2224" dclName="EV_Sw 6H" type="10" category="1" value="0" />
+        <variable id="2226" dclName="EV_Sw 7H" type="10" category="1" value="0" />
+        <variable id="2228" dclName="EV_Sw 8H" type="10" category="1" value="0" />
+        <variable id="2230" dclName="EV_Sw 9H" type="10" category="1" value="0" />
+        <variable id="2232" dclName="EV_Sw 12H" type="10" category="1" value="0" />
+        <variable id="2234" dclName="EV_Sw 11H" type="10" category="1" value="0" />
+        <variable id="2236" dclName="EV_Sw 10H" type="10" category="1" value="0" />
+        <variable id="2238" dclName="EV_Sw 16H" type="10" category="1" value="0" />
+        <variable id="2240" dclName="EV_Sw 25 AH" type="10" category="1" value="0" />
+        <variable id="2242" dclName="EV_Sw 26 BH" type="10" category="1" value="0" />
+        <variable id="2244" dclName="EV_Sw 27 CH" type="10" category="1" value="0" />
+        <variable id="2246" dclName="EV_Sw 28 DH" type="10" category="1" value="0" />
+        <variable id="2248" dclName="EV_Sw 29 EH" type="10" category="1" value="0" />
+        <variable id="2250" dclName="EV_Sw 1V" type="10" category="1" value="0" />
+        <variable id="2252" dclName="EV_Sw 2V" type="10" category="1" value="0" />
+        <variable id="2254" dclName="EV_Sw 3V" type="10" category="1" value="0" />
+        <variable id="2256" dclName="EV_Sw 4V" type="10" category="1" value="0" />
+        <variable id="2258" dclName="EV_Sw 5V" type="10" category="1" value="0" />
+        <variable id="2260" dclName="EV_Sw 6V" type="10" category="1" value="0" />
+        <variable id="2262" dclName="EV_Sw 7V" type="10" category="1" value="0" />
+        <variable id="2264" dclName="EV_Sw 8V" type="10" category="1" value="0" />
+        <variable id="2266" dclName="EV_Sw 9V" type="10" category="1" value="0" />
+        <variable id="2268" dclName="EV_Sw 10V" type="10" category="1" value="0" />
+        <variable id="2270" dclName="EV_Sw 11V" type="10" category="1" value="0" />
+        <variable id="2272" dclName="EV_Sw STOP -12V-" type="10" category="1" value="0" />
+        <variable id="2274" dclName="EV_Sw 25 AV" type="10" category="1" value="0" />
+        <variable id="2276" dclName="EV_Sw 26 BV" type="10" category="1" value="0" />
+        <variable id="2278" dclName="EV_Sw 27 CV" type="10" category="1" value="0" />
+        <variable id="2280" dclName="EV_Sw 28 DV" type="10" category="1" value="0" />
+        <variable id="2282" dclName="EV_Sw 29 EV" type="10" category="1" value="0" />
+        <variable id="2296" dclName="OutD_CB Lysdiod 19H (K2-5)" type="201" category="1" value="0" />
+        <variable id="2298" dclName="OutD_CB Lysdiod 20H (K2-6)" type="201" category="1" value="0" />
+        <variable id="2300" dclName="OutD_CB Lysdiod 21H (K2-7)" type="201" category="1" value="0" />
+        <variable id="2302" dclName="OutD_CB Lysdiod 16H (K3-5)" type="201" category="1" value="0" />
+        <variable id="2304" dclName="OutD_CB Lysdiod 17H (K3-6)" type="201" category="1" value="0" />
+        <variable id="2306" dclName="OutD_CB Lysdiod 18H (K3-7)" type="201" category="1" value="0" />
+        <variable id="2308" dclName="OutD_CB Lysdiod 13H (K5-5)" type="201" category="1" value="0" />
+        <variable id="2310" dclName="OutD_CB Lysdiod 14H (K5-6)" type="201" category="1" value="0" />
+        <variable id="2312" dclName="OutD_CB Lysdiod 15H (K5-7)" type="201" category="1" value="0" />
+        <variable id="2314" dclName="OutD_CB Lysdiod 12H (K6-5)" type="201" category="1" value="0" />
+        <variable id="2316" dclName="OutD_CB Lysdiod 11H (K6-6)" type="201" category="1" value="0" />
+        <variable id="2318" dclName="OutD_CB Lysdiod 10H (K6-7)" type="201" category="1" value="0" />
+        <variable id="2320" dclName="OutD_CB Lysdiod Digital ut 19H (K7-5)" type="201" category="1" value="0" />
+        <variable id="2322" dclName="OutD_CB Lysdiod Digital ut 20H (K7-6)" type="201" category="1" value="0" />
+        <variable id="2324" dclName="OutD_CB Lysdiod Digital ut 21H (K7-7)" type="201" category="1" value="0" />
+        <variable id="2326" dclName="OutD_CB Lysdiod 10V (K2-5)" type="201" category="1" value="0" />
+        <variable id="2328" dclName="OutD_CB Lysdiod 11V (K2-6)" type="201" category="1" value="0" />
+        <variable id="2330" dclName="OutD_CB Lysdiod 12V (K2-7)" type="201" category="1" value="0" />
+        <variable id="2332" dclName="OutD_CB Lysdiod 15V (K3-5)" type="201" category="1" value="0" />
+        <variable id="2334" dclName="OutD_CB Lysdiod 14V (K3-6)" type="201" category="1" value="0" />
+        <variable id="2336" dclName="OutD_CB Lysdiod 13V (K3-7)" type="201" category="1" value="0" />
+        <variable id="2338" dclName="OutD_CB Lysdiod 18V (K5-5)" type="201" category="1" value="0" />
+        <variable id="2340" dclName="OutD_CB Lysdiod 17V (K5-6)" type="201" category="1" value="0" />
+        <variable id="2342" dclName="OutD_CB Lysdiod 16V (K5-7)" type="201" category="1" value="0" />
+        <variable id="2344" dclName="OutD_CB Lysdiod 21V (K6-5)" type="201" category="1" value="0" />
+        <variable id="2346" dclName="OutD_CB Lysdiod 20V (K6-6)" type="201" category="1" value="0" />
+        <variable id="2348" dclName="OutD_CB Lysdiod 19V (K6-7)" type="201" category="1" value="0" />
+        <variable id="2350" dclName="OutD_CB Lysdiod Digital ut 19V (K7-5)" type="201" category="1" value="0" />
+        <variable id="2352" dclName="OutD_CB Lysdiod Digital ut 20V (K7-6)" type="201" category="1" value="0" />
+        <variable id="2354" dclName="OutD_CB Lysdiod Digital ut 21V (K7-7)" type="201" category="1" value="0" />
+        <variable id="2480" dclName="800" type="0" category="0" value="800" />
+        <variable id="2483" dclName="200" type="0" category="0" value="200" />
+        <variable id="2485" dclName="60" type="0" category="0" value="60" />
+        <variable id="2564" dclName="CV_Tid Fo filter 1" type="103" category="1" value="0" />
+        <variable id="2614" dclName="CV_Pot Min (mV)" type="103" category="1" value="0" />
+        <variable id="2616" dclName="CV_Pot Max (mV)" type="103" category="1" value="0" />
+        <variable id="2675" dclName="EV_Tillåt Arbetsvarv" type="10" category="1" value="0" />
+        <variable id="2679" dclName="CV_Js Kransväng Startläge Min (mV)" type="103" category="1" value="0" />
+        <variable id="2681" dclName="CV_Js Kransväng Startläge Max (mV)" type="103" category="1" value="0" />
+        <variable id="2683" dclName="CV_Js Huvudbom Startläge Min (mV)" type="103" category="1" value="0" />
+        <variable id="2685" dclName="CV_Js Huvudbom Startläge Max (mV)" type="103" category="1" value="0" />
+        <variable id="2687" dclName="CV_Js Vipparm Startläge Min (mV)" type="103" category="1" value="0" />
+        <variable id="2689" dclName="CV_Js Vipparm Startläge Max (mV)" type="103" category="1" value="0" />
+        <variable id="2691" dclName="CV_Js Rotator Startläge Min (mV)" type="103" category="1" value="0" />
+        <variable id="2693" dclName="CV_Js Rotator Startläge Max (mV)" type="103" category="1" value="0" />
+        <variable id="2738" dclName="SO_Stolsbrytare 1=bakåt" type="101" category="1" value="0" />
+        <variable id="2740" dclName="SO_Stolsberoende drift on/off" type="101" category="1" value="0" />
+        <variable id="2742" dclName="SO_Pedal fram/back" type="101" category="1" value="0" />
+        <variable id="2754" dclName="20" type="0" category="0" value="20" />
+        <variable id="2762" dclName="175" type="0" category="0" value="175" />
+        <variable id="2764" dclName="2000" type="0" category="0" value="2000" />
+        <variable id="2765" dclName="DclA_Dieselmotorvarv rpm" type="0" category="1" value="0" />
+        <variable id="2766" dclName="DV_Dieselmotorvarv rpm" type="102" category="1" value="0" />
+        <variable id="2772" dclName="314" type="0" category="0" value="314" />
+        <variable id="2780" dclName="166" type="0" category="0" value="166" />
+        <variable id="2784" dclName="100000" type="0" category="0" value="100000" />
+        <variable id="2797" dclName="1400" type="0" category="0" value="1400" />
+        <variable id="2801" dclName="-200" type="0" category="0" value="-200" />
+        <variable id="2820" dclName="60000" type="0" category="0" value="60000" />
+        <variable id="2825" dclName="36000" type="0" category="0" value="36000" />
+        <variable id="2826" dclName="3600" type="0" category="0" value="3600" />
+        <variable id="2829" dclName="360" type="0" category="0" value="360" />
+        <variable id="2834" dclName="6000" type="0" category="0" value="6000" />
+        <variable id="2837" dclName="59" type="0" category="0" value="59" />
+        <variable id="2847" dclName="500" type="0" category="0" value="500" />
+        <variable id="2901" dclName="-500" type="0" category="0" value="-500" />
+        <variable id="2905" dclName="SO_Sw 25H" type="101" category="1" value="0" />
+        <variable id="2907" dclName="SO_Sw 26H" type="101" category="1" value="0" />
+        <variable id="2909" dclName="SO_Sw 27H" type="101" category="1" value="0" />
+        <variable id="2911" dclName="SO_Sw 28H" type="101" category="1" value="0" />
+        <variable id="2913" dclName="SO_Sw 29H" type="101" category="1" value="0" />
+        <variable id="2915" dclName="SO_Sw 22H" type="101" category="1" value="0" />
+        <variable id="2917" dclName="DV_joystick Liten H" type="102" category="1" value="0" />
+        <variable id="2928" dclName="CV_Js2 Styrning 1 Min mV" type="103" category="1" value="0" />
+        <variable id="2930" dclName="CV_Js2 Styrning 1 Max mV" type="103" category="1" value="0" />
+        <variable id="2933" dclName="SO_Sw 25V" type="101" category="1" value="0" />
+        <variable id="2935" dclName="SO_Sw 26V" type="101" category="1" value="0" />
+        <variable id="2937" dclName="SO_Sw 27V" type="101" category="1" value="0" />
+        <variable id="2939" dclName="SO_Sw 28V" type="101" category="1" value="0" />
+        <variable id="2941" dclName="SO_Sw 29V" type="101" category="1" value="0" />
+        <variable id="2947" dclName="DV_joystick Liten V X" type="102" category="1" value="0" />
+        <variable id="2949" dclName="DV_joystick Liten V Y" type="102" category="1" value="0" />
+        <variable id="2951" dclName="CV_Js2 Styrning_VY min mV" type="103" category="1" value="0" />
+        <variable id="2953" dclName="CV_Js2 Styrning_VY max mV" type="103" category="1" value="0" />
+        <variable id="2955" dclName="CV_Js2 Styrning_VX min mV" type="103" category="1" value="0" />
+        <variable id="2957" dclName="CV_Js2 Styrning_VX max mV" type="103" category="1" value="0" />
+        <variable id="2976" dclName="CV_Mintryck KV" type="103" category="1" value="0" />
+        <variable id="2978" dclName="CV_Maxtryck KV" type="103" category="1" value="0" />
+        <variable id="2983" dclName="3937" type="0" category="0" value="3937" />
+        <variable id="2994" dclName="254" type="0" category="0" value="254" />
+        <variable id="3055" dclName="CV_Js Midjestyrning Hastighet Orbitrol" type="103" category="1" value="0" />
+        <variable id="3071" dclName="2047" type="0" category="0" value="2047" />
+        <variable id="3074" dclName="4095" type="0" category="0" value="4095" />
+        <variable id="3080" dclName="9" type="0" category="0" value="9" />
+        <variable id="3081" dclName="25" type="0" category="0" value="25" />
+        <variable id="3089" dclName="CV_Red. Midjeposition Orbitrol Hö" type="103" category="1" value="0" />
+        <variable id="3091" dclName="CV_Red. Midjeposition Orbitrol Vä" type="103" category="1" value="0" />
+        <variable id="3102" dclName="CV_Start Red. Midjestyrning %" type="103" category="1" value="0" />
+        <variable id="3104" dclName="CV_Max Red. Midjestyrning %" type="103" category="1" value="0" />
+        <variable id="3106" dclName="CV_Max Red. Midjestyrning mA" type="103" category="1" value="0" />
+        <variable id="3108" dclName="CV_Pv Midjestyrning Hö Max" type="103" category="1" value="0" />
+        <variable id="3141" dclName="DV_H8_Transm_Potentiometer" type="102" category="1" value="0" />
+        <variable id="3143" dclName="DV_H8_Transm_Hjul_1" type="102" category="1" value="0" />
+        <variable id="3145" dclName="DV_H8_Transm_Hjul_2" type="102" category="1" value="0" />
+        <variable id="3148" dclName="CV_H8_Transm_Ventil min" type="103" category="1" value="0" />
+        <variable id="3150" dclName="CV_H8_Transm_Ventil max" type="103" category="1" value="0" />
+        <variable id="3152" dclName="DV_H8_Transm_Ventil_Ut" type="102" category="1" value="0" />
+        <variable id="3155" dclName="CV_H8_Transm_Störsignal min" type="103" category="1" value="0" />
+        <variable id="3157" dclName="CV_H8_Transm_Störsignal max" type="103" category="1" value="0" />
+        <variable id="3160" dclName="DV_H8_Transm_Störsignal Vä" type="102" category="1" value="0" />
+        <variable id="3162" dclName="DV_H8_Transm_Störsignal Hö" type="102" category="1" value="0" />
+        <variable id="3164" dclName="DV_H8_Transm_Hjul12_Diff" type="102" category="1" value="0" />
+        <variable id="3166" dclName="DV_H8_Transm_Hjul21_Diff" type="102" category="1" value="0" />
+        <variable id="3168" dclName="DclD_H8_transm_Hjul12_Slirar" type="0" category="1" value="0" />
+        <variable id="3169" dclName="DclD_H8_transm_Hjul21_Slirar" type="0" category="1" value="0" />
+        <variable id="3170" dclName="SO_H8_Transm_Vä Slirar" type="101" category="1" value="0" />
+        <variable id="3172" dclName="SO_H8_Transm_Hö Slirar" type="101" category="1" value="0" />
+        <variable id="3174" dclName="CV_Metric Bar Input" type="103" category="1" value="0" />
+        <variable id="3176" dclName="CV_Metric Celsius Input" type="103" category="1" value="0" />
+        <variable id="3178" dclName="CV_Metric Litre Input" type="103" category="1" value="0" />
+        <variable id="3180" dclName="DV_Imperial Gallon" type="102" category="1" value="0" />
+        <variable id="3182" dclName="DV_Imperial PSI" type="102" category="1" value="0" />
+        <variable id="3184" dclName="DV_Imperial Fahrenheit" type="102" category="1" value="0" />
+        <variable id="3186" dclName="145038" type="0" category="0" value="145038" />
+        <variable id="3187" dclName="2642" type="0" category="0" value="2642" />
+        <variable id="3188" dclName="18" type="0" category="0" value="18" />
+        <variable id="3189" dclName="32" type="0" category="0" value="32" />
+        <variable id="3195" dclName="CV_Metric kPa Input" type="103" category="1" value="0" />
+        <variable id="3197" dclName="DV_Imperial PSI 2" type="102" category="1" value="0" />
+        <variable id="3199" dclName="CV_Set Dieselmotortid Timmar" type="103" category="1" value="0" />
+        <variable id="3201" dclName="DclA_Kvar till 100" type="0" category="1" value="0" />
+        <variable id="3202" dclName="CV_Tändning" type="103" category="1" value="0" />
+        <variable id="3208" dclName="SI_Reset Motortid" type="100" category="1" value="0" />
+        <variable id="3211" dclName="DV_Motortid Timmar" type="102" category="1" value="0" />
+        <variable id="3213" dclName="DclD_Service counter 100" type="0" category="1" value="0" />
+        <variable id="3215" dclName="DclA_Kvar till 100 Tim Service" type="0" category="1" value="0" />
+        <variable id="3216" dclName="250" type="0" category="0" value="250" />
+        <variable id="3219" dclName="DclD_Visa 500 tim service" type="0" category="1" value="0" />
+        <variable id="3220" dclName="DclA_Kvar till 500 tim service" type="0" category="1" value="0" />
+        <variable id="3223" dclName="DclA_Kvar till 500" type="0" category="1" value="0" />
+        <variable id="3224" dclName="DclD_Service counter 500" type="0" category="1" value="0" />
+        <variable id="3225" dclName="DV_Kvar till Service" type="102" category="1" value="0" />
+        <variable id="3230" dclName="DclD_Visa 100 tim service" type="0" category="1" value="0" />
+        <variable id="3231" dclName="SO_Visa Service" type="101" category="1" value="0" />
+        <variable id="3233" dclName="SO_Servicelarm" type="101" category="1" value="0" />
+        <variable id="3235" dclName="CV_US Mode" type="103" category="1" value="0" />
+        <variable id="3239" dclName="SO_Ind US Mode" type="101" category="1" value="0" />
+        <variable id="3241" dclName="SI_Reset Servicetid" type="100" category="1" value="0" />
+        <variable id="3244" dclName="CV_Serviceintervall" type="103" category="1" value="0" />
+        <variable id="3246" dclName="242" type="0" category="0" value="242" />
+        <variable id="3248" dclName="DV_Control Byte 1" type="102" category="1" value="0" />
+        <variable id="3252" dclName="DV_Control Byte 2" type="102" category="1" value="0" />
+        <variable id="3256" dclName="36" type="0" category="0" value="36" />
+        <variable id="3257" dclName="CV_Tillåt Avgasbehandling" type="103" category="1" value="0" />
+        <variable id="3263" dclName="49" type="0" category="0" value="49" />
+        <variable id="3264" dclName="223" type="0" category="0" value="223" />
+        <variable id="3267" dclName="207" type="0" category="0" value="207" />
+        <variable id="3268" dclName="DV_Ecu Stationary Regen" type="102" category="1" value="0" />
+        <variable id="3274" dclName="3000" type="0" category="0" value="3000" />
+        <variable id="3281" dclName="DV_1 Access" type="102" category="1" value="0" />
+        <variable id="3283" dclName="DV_1 Operator" type="102" category="1" value="0" />
+        <variable id="3285" dclName="SO_1 Driver" type="101" category="1" value="0" />
+        <variable id="3287" dclName="SO_1 Service" type="101" category="1" value="0" />
+        <variable id="3289" dclName="SO_1 Ubermensch" type="101" category="1" value="0" />
+        <variable id="3291" dclName="CV_1 Tändning" type="103" category="1" value="0" />
+        <variable id="3293" dclName="CV_1 Power down" type="103" category="1" value="0" />
+        <variable id="3299" dclName="SO_Stäng ej av huvudström" type="101" category="1" value="0" />
+        <variable id="3301" dclName="Temp" type="0" category="1" value="0" />
+        <variable id="3302" dclName="CV_1" type="103" category="1" value="0" />
+        <variable id="3304" dclName="CV_2" type="103" category="1" value="0" />
+        <variable id="3306" dclName="CV_3" type="103" category="1" value="0" />
+        <variable id="3308" dclName="Temp_1" type="0" category="1" value="0" />
+        <variable id="3309" dclName="DV_1" type="102" category="1" value="0" />
+        <variable id="3311" dclName="DV_2" type="102" category="1" value="0" />
+        <variable id="3313" dclName="DV_3" type="102" category="1" value="0" />
+        <variable id="3315" dclName="InA_Measurement A" type="1" category="1" value="0" />
+        <variable id="3317" dclName="DV_Test mätning" type="102" category="1" value="0" />
+        <variable id="3319" dclName="DV_Test mätning 2" type="102" category="1" value="0" />
+        <variable id="3321" dclName="8" type="0" category="0" value="8" />
+        <variable id="3325" dclName="120" type="0" category="0" value="120" />
+        <variable id="3327" dclName="DV_1 VG Test" type="102" category="1" value="0" />
+        <variable id="3329" dclName="Temp_8" type="0" category="1" value="0" />
+        <variable id="3330" dclName="99" type="0" category="0" value="99" />
+        <variable id="3331" dclName="1200" type="0" category="0" value="1200" />
+        <variable id="3333" dclName="CB_Btn_1_Led_1" type="201" category="1" value="0" />
+        <variable id="3335" dclName="CB_Btn_1_Led_2" type="201" category="1" value="0" />
+        <variable id="3337" dclName="CB_Btn_1_Led_3" type="201" category="1" value="0" />
+        <variable id="3342" dclName="CB_Keypad Button_1 Pressed Status" type="201" category="1" value="0" />
+        <variable id="3344" dclName="CB_Keypad Button_2 Pressed Status" type="201" category="1" value="0" />
+        <variable id="3346" dclName="CB_Keypad Button_3 Pressed Status" type="201" category="1" value="0" />
+        <variable id="3348" dclName="CB_Keypad Button_4 Pressed Status" type="201" category="1" value="0" />
+        <variable id="3350" dclName="CB_Keypad Button_5 Pressed Status" type="201" category="1" value="0" />
+        <variable id="3352" dclName="CB_Keypad Button_6 Pressed Status" type="201" category="1" value="0" />
+        <variable id="3355" dclName="DV_CB Keypad Status 1" type="102" category="1" value="0" />
+        <variable id="3357" dclName="DV_CB Keypad Status 2" type="102" category="1" value="0" />
+        <variable id="3359" dclName="DV_CB Keypad Status 3" type="102" category="1" value="0" />
+        <variable id="3361" dclName="DV_CB Keypad Status 4" type="102" category="1" value="0" />
+        <variable id="3363" dclName="DV_CB Keypad Status 5" type="102" category="1" value="0" />
+        <variable id="3365" dclName="DV_CB Keypad Status 6" type="102" category="1" value="0" />
+        <variable id="3367" dclName="CB_Btn_2_Led_1" type="201" category="1" value="0" />
+        <variable id="3369" dclName="CB_Btn_2_Led_2" type="201" category="1" value="0" />
+        <variable id="3371" dclName="CB_Btn_2_Led_3" type="201" category="1" value="0" />
+        <variable id="3373" dclName="CB_Btn_3_Led_1" type="201" category="1" value="0" />
+        <variable id="3375" dclName="CB_Btn_3_Led_2" type="201" category="1" value="0" />
+        <variable id="3377" dclName="CB_Btn_3_Led_3" type="201" category="1" value="0" />
+        <variable id="3379" dclName="CB_Btn_4_Led_1" type="201" category="1" value="0" />
+        <variable id="3381" dclName="CB_Btn_4_Led_2" type="201" category="1" value="0" />
+        <variable id="3383" dclName="CB_Btn_4_Led_3" type="201" category="1" value="0" />
+        <variable id="3385" dclName="CB_Btn_5_Led_1" type="201" category="1" value="0" />
+        <variable id="3387" dclName="CB_Btn_5_Led_2" type="201" category="1" value="0" />
+        <variable id="3389" dclName="CB_Btn_5_Led_3" type="201" category="1" value="0" />
+        <variable id="3391" dclName="CB_Btn_6_Led_1" type="201" category="1" value="0" />
+        <variable id="3393" dclName="CB_Btn_6_Led_2" type="201" category="1" value="0" />
+        <variable id="3395" dclName="CB_Btn_6_Led_3" type="201" category="1" value="0" />
+        <variable id="3397" dclName="CB_Btn_Backlight_1" type="201" category="1" value="0" />
+        <variable id="3399" dclName="CB_Btn_Backlight_2" type="201" category="1" value="0" />
+        <variable id="3401" dclName="CB_Btn_Backlight_3" type="201" category="1" value="0" />
+        <variable id="3403" dclName="CB_Btn_Backlight_4" type="201" category="1" value="0" />
+        <variable id="3405" dclName="CB_Btn_Backlight_5" type="201" category="1" value="0" />
+        <variable id="3407" dclName="CB_Btn_Backlight_6" type="201" category="1" value="0" />
+        <variable id="3409" dclName="CV_4" type="103" category="1" value="0" />
+        <variable id="3411" dclName="CV_5" type="103" category="1" value="0" />
+        <variable id="3413" dclName="CV_6" type="103" category="1" value="0" />
+        <variable id="3415" dclName="DV_1 Test receive ok" type="102" category="1" value="0" />
+        <variable id="3429" dclName="DV_1_CB_Receive 1" type="102" category="1" value="0" />
+        <variable id="3431" dclName="DV_1_CB_Receive 2" type="102" category="1" value="0" />
+        <variable id="3433" dclName="DV_1_CB_Receive 3" type="102" category="1" value="0" />
+        <variable id="3435" dclName="DV_1_CB_Receive 4" type="102" category="1" value="0" />
+        <variable id="3437" dclName="DV_1_CB_Receive 5" type="102" category="1" value="0" />
+        <variable id="3439" dclName="DclD_Reset Counter 1" type="0" category="1" value="0" />
+        <variable id="3440" dclName="1500" type="0" category="0" value="1500" />
+        <variable id="3443" dclName="DclD_Reset Counter 2" type="0" category="1" value="0" />
+        <variable id="3444" dclName="DclD_Reset Counter 3" type="0" category="1" value="0" />
+        <variable id="3445" dclName="DclD_Reset Counter 4" type="0" category="1" value="0" />
+        <variable id="3446" dclName="DclD_Reset Counter 5" type="0" category="1" value="0" />
+        <variable id="3447" dclName="DclD_Reset Counter 6" type="0" category="1" value="0" />
+        <variable id="3448" dclName="SO_1 Test" type="101" category="1" value="0" />
+        <variable id="3450" dclName="SO_1 Test2" type="101" category="1" value="0" />
+        <variable id="3452" dclName="OutA_Test" type="2" category="1" value="0" />
+        <variable id="3454" dclName="Map_F4 Test" type="301" category="1" value="0" />
+        <variable id="3458" dclName="SO_1 Test3" type="101" category="1" value="0" />
+        <variable id="3460" dclName="InA_Broms nivå" type="1" category="1" value="0" />
+        <variable id="3462" dclName="DV_Broms nivå" type="102" category="1" value="0" />
+        <variable id="3464" dclName="SO_1 Byt sida" type="101" category="1" value="0" />
+        <variable id="3466" dclName="InPG_Pulståg" type="1" category="1" value="0" />
+        <variable id="3470" dclName="DV_1 X Scaled" type="102" category="1" value="0" />
+        <variable id="3472" dclName="DV_1 Y Scaled" type="102" category="1" value="0" />
+        <variable id="3474" dclName="DV_1 X" type="102" category="1" value="0" />
+        <variable id="3476" dclName="DV_1 Y" type="102" category="1" value="0" />
+        <variable id="3478" dclName="CV_1 Givare_Min" type="103" category="1" value="0" />
+        <variable id="3480" dclName="CV_1 Givare_Max" type="103" category="1" value="0" />
+        <variable id="3482" dclName="CV_1 Givare_Min_Ut" type="103" category="1" value="0" />
+        <variable id="3484" dclName="CV_1 Givare_Max_Ut" type="103" category="1" value="0" />
+        <variable id="3489" dclName="InA_MCC Temp" type="1" category="1" value="0" />
+        <variable id="3491" dclName="InD_Nollpuls" type="1" category="1" value="0" />
+        <variable id="3493" dclName="InD_A-Puls" type="1" category="1" value="0" />
+        <variable id="3495" dclName="InD_B-Puls" type="1" category="1" value="0" />
+        <variable id="3497" dclName="DV_A-Puls" type="102" category="1" value="0" />
+        <variable id="3499" dclName="DV_B-Puls" type="102" category="1" value="0" />
+        <variable id="3501" dclName="DV_Nollpuls" type="102" category="1" value="0" />
+        <variable id="3503" dclName="DV_Pulståg" type="102" category="1" value="0" />
+        <variable id="3505" dclName="DclD_Nollpuls Aktiv" type="0" category="1" value="0" />
+        <variable id="3506" dclName="SO_Nollpuls" type="101" category="1" value="0" />
+        <variable id="3508" dclName="DV_A-Puls Counter" type="102" category="1" value="0" />
+        <variable id="3510" dclName="DV_B-Puls Counter" type="102" category="1" value="0" />
+        <variable id="3513" dclName="CV_Cam" type="103" category="1" value="0" />
+        <variable id="3517" dclName="SO_Cam On-Off" type="101" category="1" value="0" />
+    </variables>
+    <sysVariables varCount="26">
+        <sysVariable id="623" sysVarID="10000" dclName="SyI_Power 1" value="0" />
+        <sysVariable id="624" sysVarID="10001" dclName="SyI_Power 2" value="0" />
+        <sysVariable id="625" sysVarID="10002" dclName="SyI_Power 3" value="0" />
+        <sysVariable id="626" sysVarID="10003" dclName="SyI_Power 4" value="0" />
+        <sysVariable id="627" sysVarID="10004" dclName="SyI_Power 5" value="0" />
+        <sysVariable id="628" sysVarID="10005" dclName="SyI_Power 6" value="0" />
+        <sysVariable id="629" sysVarID="10006" dclName="SyI_Power 7" value="0" />
+        <sysVariable id="630" sysVarID="10007" dclName="SyI_Power 8" value="0" />
+        <sysVariable id="2804" sysVarID="12001" dclName="SyIO_1" value="0" />
+        <sysVariable id="2805" sysVarID="12002" dclName="SyIO_2" value="0" />
+        <sysVariable id="3210" sysVarID="10100" dclName="SyI_Timer 0 Time" value="0" />
+        <sysVariable id="2806" sysVarID="10101" dclName="SyI_Timer 1 Time" value="0" />
+        <sysVariable id="2807" sysVarID="10102" dclName="SyI_Timer 2 Time" value="0" />
+        <sysVariable id="3206" sysVarID="10200" dclName="SyO_Timer 0 Enable" value="0" />
+        <sysVariable id="2808" sysVarID="10201" dclName="SyO_Timer 1 Enable" value="0" />
+        <sysVariable id="2809" sysVarID="10202" dclName="SyO_Timer 2 Enable" value="0" />
+        <sysVariable id="3207" sysVarID="10300" dclName="SyO_Timer 0 Clear" value="0" />
+        <sysVariable id="2810" sysVarID="10301" dclName="SyO_Timer 1 Clear" value="0" />
+        <sysVariable id="2811" sysVarID="10302" dclName="SyO_Timer 2 Clear" value="0" />
+        <sysVariable id="3227" sysVarID="10500" dclName="SyI_Counter 0 Value" value="0" />
+        <sysVariable id="3228" sysVarID="10600" dclName="SyO_Counter 0 Input" value="0" />
+        <sysVariable id="3229" sysVarID="10700" dclName="SyO_Counter 0 Clear" value="0" />
+        <sysVariable id="3279" sysVarID="11000" dclName="SyI_Access Level" value="0" />
+        <sysVariable id="3280" sysVarID="11003" dclName="SyI_Operator" value="0" />
+        <sysVariable id="3512" sysVarID="26012" dclName="SyO_MC-F Camera Source" value="0" />
+        <sysVariable id="2720" sysVarID="25300" dclName="SyO_TST Access Level" value="0" />
+    </sysVariables>
+    <graphs graphCount="0" />
+    <variableGraphs graphCount="7">
+        <variableGraphData id="2708" dclName="JS_Vipparm-%" rowCount="4" colCount="1" outRngMin="1" outRngMax="1">
+            <row nr="1" inputVarId="139" output1VarId="118" />
+            <row nr="2" inputVarId="2687" output1VarId="122" />
+            <row nr="3" inputVarId="2689" output1VarId="122" />
+            <row nr="4" inputVarId="141" output1VarId="119" />
+        </variableGraphData>
+        <variableGraphData id="2710" dclName="JS_Vikarm-%" rowCount="4" colCount="1" outRngMin="1" outRngMax="1">
+            <row nr="1" inputVarId="139" output1VarId="929" />
+            <row nr="2" inputVarId="2687" output1VarId="122" />
+            <row nr="3" inputVarId="2689" output1VarId="122" />
+            <row nr="4" inputVarId="141" output1VarId="928" />
+        </variableGraphData>
+        <variableGraphData id="2711" dclName="JS_Utskjut-%" rowCount="4" colCount="1" outRngMin="1" outRngMax="1">
+            <row nr="1" inputVarId="148" output1VarId="118" />
+            <row nr="2" inputVarId="2679" output1VarId="122" />
+            <row nr="3" inputVarId="2681" output1VarId="122" />
+            <row nr="4" inputVarId="150" output1VarId="119" />
+        </variableGraphData>
+        <variableGraphData id="2712" dclName="JS_Grip-%" rowCount="4" colCount="1" outRngMin="1" outRngMax="1">
+            <row nr="1" inputVarId="168" output1VarId="118" />
+            <row nr="2" inputVarId="2679" output1VarId="122" />
+            <row nr="3" inputVarId="2681" output1VarId="122" />
+            <row nr="4" inputVarId="170" output1VarId="119" />
+        </variableGraphData>
+        <variableGraphData id="2713" dclName="JS_Huvudbom-%" rowCount="4" colCount="1" outRngMin="1" outRngMax="1">
+            <row nr="1" inputVarId="128" output1VarId="118" />
+            <row nr="2" inputVarId="2683" output1VarId="122" />
+            <row nr="3" inputVarId="2685" output1VarId="122" />
+            <row nr="4" inputVarId="130" output1VarId="119" />
+        </variableGraphData>
+        <variableGraphData id="2715" dclName="JS_Rotator-%" rowCount="4" colCount="1" outRngMin="1" outRngMax="1">
+            <row nr="1" inputVarId="158" output1VarId="118" />
+            <row nr="2" inputVarId="2691" output1VarId="122" />
+            <row nr="3" inputVarId="2693" output1VarId="122" />
+            <row nr="4" inputVarId="160" output1VarId="119" />
+        </variableGraphData>
+        <variableGraphData id="3326" dclName="VG_Test" rowCount="4" colCount="1" outRngMin="0" outRngMax="1">
+            <row nr="1" inputVarId="122" output1VarId="122" />
+            <row nr="2" inputVarId="378" output1VarId="3325" />
+            <row nr="3" inputVarId="3330" output1VarId="3331" />
+            <row nr="4" inputVarId="119" output1VarId="3274" />
+        </variableGraphData>
+    </variableGraphs>
+    <slopes slopeCount="0" />
+    <rangeChecks rangeCheckCount="0" />
+    <rangeDefaults rangeDefaultCount="0" />
+    <lpFilters lpFilterCount="0" />
+    <scales scaleCount="11">
+        <scaleData id="2753" dclName="Potentiometer 0-100" inMinVariableID="2614" inMaxVariableID="2616" outMinVariableID="122" outMaxVariableID="119" outRngMin="1" outRngMax="1" />
+        <scaleData id="2763" dclName="Rotator -&gt; Dieselmotorvarv" inMinVariableID="122" inMaxVariableID="119" outMinVariableID="2480" outMaxVariableID="2764" outRngMin="0" outRngMax="1" />
+        <scaleData id="2932" dclName="Js2 Styrning H" inMinVariableID="2928" inMaxVariableID="2930" outMinVariableID="118" outMaxVariableID="119" outRngMin="1" outRngMax="1" />
+        <scaleData id="2959" dclName="Js2 Styrning VY" inMinVariableID="2951" inMaxVariableID="2953" outMinVariableID="118" outMaxVariableID="119" outRngMin="1" outRngMax="1" />
+        <scaleData id="2960" dclName="Js2 Styrning VX" inMinVariableID="2955" inMaxVariableID="2957" outMinVariableID="118" outMaxVariableID="119" outRngMin="1" outRngMax="1" />
+        <scaleData id="3147" dclName="Potentiometer -&gt; Ventil" inMinVariableID="122" inMaxVariableID="119" outMinVariableID="3148" outMaxVariableID="3150" outRngMin="1" outRngMax="1" />
+        <scaleData id="3154" dclName="H8 Js Vä Störsignal" inMinVariableID="122" inMaxVariableID="119" outMinVariableID="3155" outMaxVariableID="3157" outRngMin="1" outRngMax="1" />
+        <scaleData id="3159" dclName="H8 Js Hö Störsignal" inMinVariableID="122" inMaxVariableID="119" outMinVariableID="3155" outMaxVariableID="3157" outRngMin="1" outRngMax="1" />
+        <scaleData id="3322" dclName="Test_Mätning" inMinVariableID="122" inMaxVariableID="657" outMinVariableID="122" outMaxVariableID="3321" outRngMin="0" outRngMax="1" />
+        <scaleData id="3486" dclName="Givare_scala_X" inMinVariableID="3478" inMaxVariableID="3480" outMinVariableID="3482" outMaxVariableID="3484" outRngMin="0" outRngMax="1" />
+        <scaleData id="3487" dclName="Givare_scala_Y" inMinVariableID="3478" inMaxVariableID="3480" outMinVariableID="3482" outMaxVariableID="3484" outRngMin="2" outRngMax="2" />
+    </scales>
+    <pids pidCount="0" />
+    <aveFilters aveFilterCount="0" />
+    <canBuses busCount="4">
+        <canBus nr="1" boxCount="4">
+            <box id="2707" rtId="0" dclName="D109" boxType="20" idTag="109" powerConn="0" errorSenseVariableID="-1" disableErrorVariableID="-1" supplyVoltageVariableID="-1" versionVariableID="-1" />
+            <box id="936" rtId="6" dclName="D115" boxType="50" cbProtocol="0" cbBaudrate="0" idTag="115" powerConn="0" errorSenseVariableID="-1" disableErrorVariableID="-1" supplyVoltageVariableID="-1" versionVariableID="-1" />
+            <box id="3323" rtId="2" dclName="D101" boxType="30" idTag="101" powerConn="7" errorSenseVariableID="-1" disableErrorVariableID="-1" supplyVoltageVariableID="-1" versionVariableID="-1" />
+            <box id="3488" rtId="3" dclName="D102" boxType="30" idTag="102" powerConn="7" errorSenseVariableID="-1" disableErrorVariableID="-1" supplyVoltageVariableID="-1" versionVariableID="-1" />
+        </canBus>
+        <canBus nr="2" boxCount="0" />
+        <canBus nr="3" boxCount="0" />
+        <canBus nr="4" boxCount="1">
+            <box id="3011" rtId="1" dclName="Intern CB" boxType="50" cbProtocol="0" cbBaudrate="0" idTag="0" powerConn="0" errorSenseVariableID="-1" disableErrorVariableID="-1" supplyVoltageVariableID="-1" versionVariableID="-1" />
+        </canBus>
+    </canBuses>
+    <physicalInputs inputCount="7">
+        <input id="3316" rtId="0" variableId="3315" mainType="20" subType="0" rate="50" edgeDelay="-1" resetVariableId="-1" errorSenseVariableId="-1" disableErrorVariableId="-1" ioUnit="2707" inputNumber="2" secondInputNumber="-1" />
+        <input id="3461" rtId="1" variableId="3460" mainType="30" subType="20" rate="50" edgeDelay="2" resetVariableId="-1" errorSenseVariableId="-1" disableErrorVariableId="-1" ioUnit="3323" inputNumber="47" secondInputNumber="-1" />
+        <input id="3467" rtId="2" variableId="3466" mainType="20" subType="40" rate="100" edgeDelay="-1" resetVariableId="-1" errorSenseVariableId="-1" disableErrorVariableId="-1" ioUnit="2707" inputNumber="3" secondInputNumber="4" />
+        <input id="3490" rtId="4" variableId="3489" mainType="30" subType="11" rate="50" edgeDelay="-1" resetVariableId="-1" errorSenseVariableId="-1" disableErrorVariableId="-1" ioUnit="3488" inputNumber="5" secondInputNumber="-1" />
+        <input id="3492" rtId="5" variableId="3491" mainType="20" subType="30" rate="100" edgeDelay="-1" resetVariableId="-1" errorSenseVariableId="-1" disableErrorVariableId="-1" ioUnit="2707" inputNumber="5" secondInputNumber="-1" />
+        <input id="3494" rtId="6" variableId="3493" mainType="20" subType="30" rate="100" edgeDelay="-1" resetVariableId="-1" errorSenseVariableId="-1" disableErrorVariableId="-1" ioUnit="2707" inputNumber="7" secondInputNumber="-1" />
+        <input id="3496" rtId="7" variableId="3495" mainType="20" subType="30" rate="100" edgeDelay="-1" resetVariableId="-1" errorSenseVariableId="-1" disableErrorVariableId="-1" ioUnit="2707" inputNumber="9" secondInputNumber="-1" />
+    </physicalInputs>
+    <physicalOutputs outputCount="1">
+        <output id="3453" rtId="0" variableId="3452" type="20" subType="0" rippleFreq="100" rippleAmpl="10" currentSenseVarId="-1" errorSenseVarId="-1" disableErrorVarId="-1" ioUnit="2707" outputNumber="1" />
+    </physicalOutputs>
+    <signalsIn signalInCount="2">
+        <signalIn id="3209" variableId="3208" />
+        <signalIn id="3242" variableId="3241" />
+    </signalsIn>
+    <signalsOut signalOutCount="77">
+        <signalOut id="652" variableId="651" />
+        <signalOut id="654" variableId="653" />
+        <signalOut id="656" variableId="655" />
+        <signalOut id="700" variableId="699" />
+        <signalOut id="706" variableId="705" />
+        <signalOut id="709" variableId="708" />
+        <signalOut id="1175" variableId="1174" />
+        <signalOut id="1177" variableId="1176" />
+        <signalOut id="1179" variableId="1178" />
+        <signalOut id="1181" variableId="1180" />
+        <signalOut id="1183" variableId="1182" />
+        <signalOut id="1185" variableId="1184" />
+        <signalOut id="1187" variableId="1186" />
+        <signalOut id="1189" variableId="1188" />
+        <signalOut id="1191" variableId="1190" />
+        <signalOut id="1197" variableId="1196" />
+        <signalOut id="1193" variableId="1192" />
+        <signalOut id="1195" variableId="1194" />
+        <signalOut id="1199" variableId="1198" />
+        <signalOut id="1201" variableId="1200" />
+        <signalOut id="1203" variableId="1202" />
+        <signalOut id="1205" variableId="1204" />
+        <signalOut id="1207" variableId="1206" />
+        <signalOut id="1209" variableId="1208" />
+        <signalOut id="1211" variableId="1210" />
+        <signalOut id="1213" variableId="1212" />
+        <signalOut id="1215" variableId="1214" />
+        <signalOut id="1382" variableId="1381" />
+        <signalOut id="1384" variableId="1383" />
+        <signalOut id="1386" variableId="1385" />
+        <signalOut id="1388" variableId="1387" />
+        <signalOut id="1390" variableId="1389" />
+        <signalOut id="1392" variableId="1391" />
+        <signalOut id="1394" variableId="1393" />
+        <signalOut id="1396" variableId="1395" />
+        <signalOut id="1398" variableId="1397" />
+        <signalOut id="1400" variableId="1399" />
+        <signalOut id="1402" variableId="1401" />
+        <signalOut id="1404" variableId="1403" />
+        <signalOut id="1406" variableId="1405" />
+        <signalOut id="1408" variableId="1407" />
+        <signalOut id="1410" variableId="1409" />
+        <signalOut id="1412" variableId="1411" />
+        <signalOut id="1414" variableId="1413" />
+        <signalOut id="1416" variableId="1415" />
+        <signalOut id="1418" variableId="1417" />
+        <signalOut id="1420" variableId="1419" />
+        <signalOut id="1422" variableId="1421" />
+        <signalOut id="2739" variableId="2738" />
+        <signalOut id="2741" variableId="2740" />
+        <signalOut id="2743" variableId="2742" />
+        <signalOut id="2906" variableId="2905" />
+        <signalOut id="2908" variableId="2907" />
+        <signalOut id="2910" variableId="2909" />
+        <signalOut id="2912" variableId="2911" />
+        <signalOut id="2914" variableId="2913" />
+        <signalOut id="2916" variableId="2915" />
+        <signalOut id="2934" variableId="2933" />
+        <signalOut id="2936" variableId="2935" />
+        <signalOut id="2938" variableId="2937" />
+        <signalOut id="2940" variableId="2939" />
+        <signalOut id="2942" variableId="2941" />
+        <signalOut id="3171" variableId="3170" />
+        <signalOut id="3173" variableId="3172" />
+        <signalOut id="3232" variableId="3231" />
+        <signalOut id="3234" variableId="3233" />
+        <signalOut id="3240" variableId="3239" />
+        <signalOut id="3286" variableId="3285" />
+        <signalOut id="3288" variableId="3287" />
+        <signalOut id="3290" variableId="3289" />
+        <signalOut id="3300" variableId="3299" />
+        <signalOut id="3449" variableId="3448" />
+        <signalOut id="3451" variableId="3450" />
+        <signalOut id="3459" variableId="3458" />
+        <signalOut id="3465" variableId="3464" />
+        <signalOut id="3507" variableId="3506" />
+        <signalOut id="3518" variableId="3517" />
+    </signalsOut>
+    <displayValues displayValueCount="64">
+        <displayValue id="113" variableId="112" />
+        <displayValue id="125" variableId="124" />
+        <displayValue id="127" variableId="126" />
+        <displayValue id="135" variableId="134" />
+        <displayValue id="137" variableId="136" />
+        <displayValue id="145" variableId="144" />
+        <displayValue id="147" variableId="146" />
+        <displayValue id="155" variableId="154" />
+        <displayValue id="157" variableId="156" />
+        <displayValue id="165" variableId="164" />
+        <displayValue id="167" variableId="166" />
+        <displayValue id="177" variableId="176" />
+        <displayValue id="2767" variableId="2766" />
+        <displayValue id="2918" variableId="2917" />
+        <displayValue id="2948" variableId="2947" />
+        <displayValue id="2950" variableId="2949" />
+        <displayValue id="3142" variableId="3141" />
+        <displayValue id="3144" variableId="3143" />
+        <displayValue id="3146" variableId="3145" />
+        <displayValue id="3153" variableId="3152" />
+        <displayValue id="3161" variableId="3160" />
+        <displayValue id="3163" variableId="3162" />
+        <displayValue id="3165" variableId="3164" />
+        <displayValue id="3167" variableId="3166" />
+        <displayValue id="3181" variableId="3180" />
+        <displayValue id="3183" variableId="3182" />
+        <displayValue id="3185" variableId="3184" />
+        <displayValue id="3198" variableId="3197" />
+        <displayValue id="3212" variableId="3211" />
+        <displayValue id="3226" variableId="3225" />
+        <displayValue id="3249" variableId="3248" />
+        <displayValue id="3253" variableId="3252" />
+        <displayValue id="3269" variableId="3268" />
+        <displayValue id="3282" variableId="3281" />
+        <displayValue id="3284" variableId="3283" />
+        <displayValue id="3310" variableId="3309" />
+        <displayValue id="3312" variableId="3311" />
+        <displayValue id="3314" variableId="3313" />
+        <displayValue id="3318" variableId="3317" />
+        <displayValue id="3320" variableId="3319" />
+        <displayValue id="3328" variableId="3327" />
+        <displayValue id="3356" variableId="3355" />
+        <displayValue id="3358" variableId="3357" />
+        <displayValue id="3360" variableId="3359" />
+        <displayValue id="3362" variableId="3361" />
+        <displayValue id="3364" variableId="3363" />
+        <displayValue id="3366" variableId="3365" />
+        <displayValue id="3416" variableId="3415" />
+        <displayValue id="3430" variableId="3429" />
+        <displayValue id="3432" variableId="3431" />
+        <displayValue id="3434" variableId="3433" />
+        <displayValue id="3436" variableId="3435" />
+        <displayValue id="3438" variableId="3437" />
+        <displayValue id="3463" variableId="3462" />
+        <displayValue id="3471" variableId="3470" />
+        <displayValue id="3473" variableId="3472" />
+        <displayValue id="3475" variableId="3474" />
+        <displayValue id="3477" variableId="3476" />
+        <displayValue id="3498" variableId="3497" />
+        <displayValue id="3500" variableId="3499" />
+        <displayValue id="3502" variableId="3501" />
+        <displayValue id="3504" variableId="3503" />
+        <displayValue id="3509" variableId="3508" />
+        <displayValue id="3511" variableId="3510" />
+    </displayValues>
+    <valuesIn valueInCount="0" />
+    <configurationVariables confVariableCount="63">
+        <configurationVariable id="117" variableId="116" type="0" storage="0" min="2500" max="5000" defValue="4250" selectionCount="0" />
+        <configurationVariable id="129" variableId="128" type="0" storage="0" min="0" max="2500" defValue="470" selectionCount="0" />
+        <configurationVariable id="131" variableId="130" type="0" storage="0" min="2500" max="5000" defValue="4250" selectionCount="0" />
+        <configurationVariable id="140" variableId="139" type="0" storage="0" min="0" max="2500" defValue="470" selectionCount="0" />
+        <configurationVariable id="142" variableId="141" type="0" storage="0" min="2500" max="5000" defValue="4250" selectionCount="0" />
+        <configurationVariable id="149" variableId="148" type="0" storage="0" min="0" max="2500" defValue="470" selectionCount="0" />
+        <configurationVariable id="151" variableId="150" type="0" storage="0" min="2500" max="5000" defValue="4250" selectionCount="0" />
+        <configurationVariable id="159" variableId="158" type="0" storage="0" min="0" max="2500" defValue="470" selectionCount="0" />
+        <configurationVariable id="161" variableId="160" type="0" storage="0" min="2500" max="5000" defValue="4250" selectionCount="0" />
+        <configurationVariable id="169" variableId="168" type="0" storage="0" min="0" max="2500" defValue="470" selectionCount="0" />
+        <configurationVariable id="171" variableId="170" type="0" storage="0" min="2500" max="5000" defValue="4250" selectionCount="0" />
+        <configurationVariable id="2565" variableId="2564" type="0" storage="0" min="0" max="5000000" defValue="0" selectionCount="0" />
+        <configurationVariable id="2615" variableId="2614" type="0" storage="0" min="0" max="5000" defValue="460" selectionCount="0" />
+        <configurationVariable id="2617" variableId="2616" type="0" storage="0" min="0" max="5000" defValue="4280" selectionCount="0" />
+        <configurationVariable id="2680" variableId="2679" type="0" storage="0" min="1700" max="3000" defValue="2100" selectionCount="0" />
+        <configurationVariable id="2682" variableId="2681" type="0" storage="0" min="2100" max="3200" defValue="2700" selectionCount="0" />
+        <configurationVariable id="2684" variableId="2683" type="0" storage="0" min="1700" max="3000" defValue="2100" selectionCount="0" />
+        <configurationVariable id="2686" variableId="2685" type="0" storage="0" min="2100" max="3200" defValue="2700" selectionCount="0" />
+        <configurationVariable id="2688" variableId="2687" type="0" storage="0" min="1700" max="3000" defValue="2100" selectionCount="0" />
+        <configurationVariable id="2690" variableId="2689" type="0" storage="0" min="2100" max="3200" defValue="2700" selectionCount="0" />
+        <configurationVariable id="2692" variableId="2691" type="0" storage="0" min="1700" max="3000" defValue="2100" selectionCount="0" />
+        <configurationVariable id="2694" variableId="2693" type="0" storage="0" min="2100" max="3200" defValue="2700" selectionCount="0" />
+        <configurationVariable id="2929" variableId="2928" type="0" storage="0" min="0" max="2500" defValue="500" selectionCount="0" />
+        <configurationVariable id="2931" variableId="2930" type="0" storage="0" min="2500" max="5000" defValue="4300" selectionCount="0" />
+        <configurationVariable id="2952" variableId="2951" type="0" storage="0" min="0" max="2500" defValue="500" selectionCount="0" />
+        <configurationVariable id="2954" variableId="2953" type="0" storage="0" min="2500" max="5000" defValue="4300" selectionCount="0" />
+        <configurationVariable id="2956" variableId="2955" type="0" storage="0" min="0" max="2500" defValue="500" selectionCount="0" />
+        <configurationVariable id="2958" variableId="2957" type="0" storage="0" min="2500" max="5000" defValue="4300" selectionCount="0" />
+        <configurationVariable id="2977" variableId="2976" type="0" storage="0" min="0" max="3000" defValue="130" selectionCount="0" />
+        <configurationVariable id="2979" variableId="2978" type="0" storage="0" min="0" max="3000" defValue="485" selectionCount="0" />
+        <configurationVariable id="3056" variableId="3055" type="0" storage="0" min="60" max="100" defValue="100" selectionCount="0" />
+        <configurationVariable id="3090" variableId="3089" type="0" storage="0" min="0" max="100" defValue="90" selectionCount="0" />
+        <configurationVariable id="3092" variableId="3091" type="0" storage="0" min="-100" max="0" defValue="-90" selectionCount="0" />
+        <configurationVariable id="3103" variableId="3102" type="0" storage="0" min="70" max="90" defValue="75" selectionCount="0" />
+        <configurationVariable id="3105" variableId="3104" type="0" storage="0" min="70" max="100" defValue="90" selectionCount="0" />
+        <configurationVariable id="3107" variableId="3106" type="0" storage="0" min="0" max="500" defValue="360" selectionCount="0" />
+        <configurationVariable id="3109" variableId="3108" type="0" storage="0" min="100" max="800" defValue="600" selectionCount="0" />
+        <configurationVariable id="3149" variableId="3148" type="0" storage="0" min="0" max="32000" defValue="0" selectionCount="0" />
+        <configurationVariable id="3151" variableId="3150" type="0" storage="0" min="0" max="32000" defValue="32000" selectionCount="0" />
+        <configurationVariable id="3156" variableId="3155" type="0" storage="0" min="0" max="32000" defValue="0" selectionCount="0" />
+        <configurationVariable id="3158" variableId="3157" type="0" storage="0" min="0" max="32000" defValue="32000" selectionCount="0" />
+        <configurationVariable id="3175" variableId="3174" type="0" storage="0" min="0" max="1000" defValue="0" selectionCount="0" />
+        <configurationVariable id="3177" variableId="3176" type="0" storage="0" min="0" max="1000" defValue="0" selectionCount="0" />
+        <configurationVariable id="3179" variableId="3178" type="0" storage="0" min="0" max="1000" defValue="0" selectionCount="0" />
+        <configurationVariable id="3196" variableId="3195" type="0" storage="0" min="0" max="10000" defValue="0" selectionCount="0" />
+        <configurationVariable id="3200" variableId="3199" type="0" storage="0" min="0" max="30000" defValue="0" selectionCount="0" />
+        <configurationVariable id="3203" variableId="3202" type="1" storage="0" min="0" max="100" defValue="0" selectionCount="2">
+            <selection id="3204" value="0" text="OFF" />
+            <selection id="3205" value="1" text="ON" />
+        </configurationVariable>
+        <configurationVariable id="3236" variableId="3235" type="1" storage="0" min="0" max="100" defValue="0" selectionCount="2">
+            <selection id="3237" value="0" text="OFF" />
+            <selection id="3238" value="1" text="ON" />
+        </configurationVariable>
+        <configurationVariable id="3245" variableId="3244" type="0" storage="0" min="100" max="500" defValue="100" selectionCount="0" />
+        <configurationVariable id="3258" variableId="3257" type="1" storage="0" min="0" max="100" defValue="0" selectionCount="2">
+            <selection id="3259" value="0" text="OFF" />
+            <selection id="3260" value="1" text="ON" />
+        </configurationVariable>
+        <configurationVariable id="3292" variableId="3291" type="1" storage="0" min="0" max="100" defValue="0" selectionCount="2">
+            <selection id="3295" value="0" text="OFF" />
+            <selection id="3296" value="1" text="ON" />
+        </configurationVariable>
+        <configurationVariable id="3294" variableId="3293" type="1" storage="0" min="0" max="100" defValue="0" selectionCount="2">
+            <selection id="3297" value="0" text="OFF" />
+            <selection id="3298" value="1" text="ON" />
+        </configurationVariable>
+        <configurationVariable id="3303" variableId="3302" type="0" storage="0" min="0" max="100" defValue="0" selectionCount="0" />
+        <configurationVariable id="3305" variableId="3304" type="0" storage="0" min="-100" max="100" defValue="0" selectionCount="0" />
+        <configurationVariable id="3307" variableId="3306" type="0" storage="0" min="0" max="100" defValue="0" selectionCount="0" />
+        <configurationVariable id="3410" variableId="3409" type="0" storage="0" min="0" max="100" defValue="0" selectionCount="0" />
+        <configurationVariable id="3412" variableId="3411" type="0" storage="0" min="0" max="250" defValue="150" selectionCount="0" />
+        <configurationVariable id="3414" variableId="3413" type="0" storage="0" min="0" max="50" defValue="25" selectionCount="0" />
+        <configurationVariable id="3479" variableId="3478" type="0" storage="0" min="-100000" max="100000" defValue="0" selectionCount="0" />
+        <configurationVariable id="3481" variableId="3480" type="0" storage="0" min="-100000" max="100000" defValue="10000" selectionCount="0" />
+        <configurationVariable id="3483" variableId="3482" type="0" storage="0" min="-100000" max="100000" defValue="0" selectionCount="0" />
+        <configurationVariable id="3485" variableId="3484" type="0" storage="0" min="-100000" max="100000" defValue="0" selectionCount="0" />
+        <configurationVariable id="3514" variableId="3513" type="1" storage="0" min="0" max="100" defValue="0" selectionCount="2">
+            <selection id="3515" value="0" text="OFF" />
+            <selection id="3516" value="1" text="ON" />
+        </configurationVariable>
+    </configurationVariables>
+    <exportVariables exportVariableCount="58">
+        <exportVariable id="1747" variableId="1746" direction="1" />
+        <exportVariable id="1845" variableId="1844" direction="1" />
+        <exportVariable id="1450" variableId="1449" direction="1" />
+        <exportVariable id="1440" variableId="1439" direction="1" />
+        <exportVariable id="1430" variableId="1429" direction="1" />
+        <exportVariable id="1432" variableId="1431" direction="1" />
+        <exportVariable id="1428" variableId="1427" direction="1" />
+        <exportVariable id="1735" variableId="1734" direction="1" />
+        <exportVariable id="1442" variableId="1441" direction="1" />
+        <exportVariable id="2387" variableId="2386" direction="1" />
+        <exportVariable id="1843" variableId="1842" direction="1" />
+        <exportVariable id="1490" variableId="1489" direction="1" />
+        <exportVariable id="2295" variableId="2294" direction="1" />
+        <exportVariable id="1434" variableId="1433" direction="1" />
+        <exportVariable id="1436" variableId="1435" direction="1" />
+        <exportVariable id="1438" variableId="1437" direction="1" />
+        <exportVariable id="1484" variableId="1483" direction="1" />
+        <exportVariable id="1482" variableId="1481" direction="1" />
+        <exportVariable id="1847" variableId="1846" direction="1" />
+        <exportVariable id="1486" variableId="1485" direction="1" />
+        <exportVariable id="1488" variableId="1487" direction="1" />
+        <exportVariable id="2215" variableId="2214" direction="1" />
+        <exportVariable id="2217" variableId="2216" direction="1" />
+        <exportVariable id="2219" variableId="2218" direction="1" />
+        <exportVariable id="2221" variableId="2220" direction="1" />
+        <exportVariable id="2223" variableId="2222" direction="1" />
+        <exportVariable id="2225" variableId="2224" direction="1" />
+        <exportVariable id="2227" variableId="2226" direction="1" />
+        <exportVariable id="2229" variableId="2228" direction="1" />
+        <exportVariable id="2231" variableId="2230" direction="1" />
+        <exportVariable id="2233" variableId="2232" direction="1" />
+        <exportVariable id="2235" variableId="2234" direction="1" />
+        <exportVariable id="2237" variableId="2236" direction="1" />
+        <exportVariable id="2239" variableId="2238" direction="1" />
+        <exportVariable id="2241" variableId="2240" direction="1" />
+        <exportVariable id="2243" variableId="2242" direction="1" />
+        <exportVariable id="2245" variableId="2244" direction="1" />
+        <exportVariable id="2247" variableId="2246" direction="1" />
+        <exportVariable id="2249" variableId="2248" direction="1" />
+        <exportVariable id="2251" variableId="2250" direction="1" />
+        <exportVariable id="2253" variableId="2252" direction="1" />
+        <exportVariable id="2255" variableId="2254" direction="1" />
+        <exportVariable id="2257" variableId="2256" direction="1" />
+        <exportVariable id="2259" variableId="2258" direction="1" />
+        <exportVariable id="2261" variableId="2260" direction="1" />
+        <exportVariable id="2263" variableId="2262" direction="1" />
+        <exportVariable id="2265" variableId="2264" direction="1" />
+        <exportVariable id="2267" variableId="2266" direction="1" />
+        <exportVariable id="2269" variableId="2268" direction="1" />
+        <exportVariable id="2271" variableId="2270" direction="1" />
+        <exportVariable id="2273" variableId="2272" direction="1" />
+        <exportVariable id="2289" variableId="2288" direction="1" />
+        <exportVariable id="2275" variableId="2274" direction="1" />
+        <exportVariable id="2277" variableId="2276" direction="1" />
+        <exportVariable id="2279" variableId="2278" direction="1" />
+        <exportVariable id="2281" variableId="2280" direction="1" />
+        <exportVariable id="2283" variableId="2282" direction="1" />
+        <exportVariable id="2676" variableId="2675" direction="1" />
+    </exportVariables>
+    <importedVariables importedVariableCount="0" />
+    <blocks blockCount="17">
+        <block dclName="System ctrl" numCols="3" numRows="9">
+            <row nr="1" instructionCount="0" />
+            <row nr="2" instructionCount="3">
+                <instruction type="0" variableId="630" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="657" operatorId="23" configurationId="-1" comment="" />
+                <instruction type="0" variableId="651" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="3" instructionCount="0" />
+            <row nr="4" instructionCount="3">
+                <instruction type="0" variableId="623" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="657" operatorId="23" configurationId="-1" comment="" />
+                <instruction type="0" variableId="653" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="5" instructionCount="0" />
+            <row nr="6" instructionCount="3">
+                <instruction type="0" variableId="624" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="657" operatorId="23" configurationId="-1" comment="" />
+                <instruction type="0" variableId="655" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="7" instructionCount="2">
+                <instruction type="0" variableId="378" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2720" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="8" instructionCount="0" />
+            <row nr="9" instructionCount="2">
+                <instruction type="0" variableId="3460" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3462" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="Sw Höger Excidor" numCols="3" numRows="31">
+            <row nr="1" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="Analoga spakar/potar." />
+            </row>
+            <row nr="2" instructionCount="2">
+                <instruction type="0" variableId="1040" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1441" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="3" instructionCount="2">
+                <instruction type="0" variableId="1044" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2386" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="4" instructionCount="2">
+                <instruction type="0" variableId="1046" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1844" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="5" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="Signaler från digital knappar." />
+            </row>
+            <row nr="6" instructionCount="3">
+                <instruction type="0" variableId="1001" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1178" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2218" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="7" instructionCount="3">
+                <instruction type="0" variableId="1003" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1180" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2220" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="8" instructionCount="3">
+                <instruction type="0" variableId="1005" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1182" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2222" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="9" instructionCount="3">
+                <instruction type="0" variableId="1007" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1184" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2224" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="10" instructionCount="3">
+                <instruction type="0" variableId="1009" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1186" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2226" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="11" instructionCount="3">
+                <instruction type="0" variableId="1011" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1188" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2228" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="12" instructionCount="3">
+                <instruction type="0" variableId="1013" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1190" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2230" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="13" instructionCount="3">
+                <instruction type="0" variableId="991" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1196" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2232" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="14" instructionCount="3">
+                <instruction type="0" variableId="993" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1192" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2234" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="15" instructionCount="3">
+                <instruction type="0" variableId="995" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1194" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2236" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="16" instructionCount="2">
+                <instruction type="0" variableId="985" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1198" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="17" instructionCount="2">
+                <instruction type="0" variableId="987" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1200" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="18" instructionCount="2">
+                <instruction type="0" variableId="989" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1202" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="19" instructionCount="3">
+                <instruction type="0" variableId="979" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1204" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2238" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="20" instructionCount="3">
+                <instruction type="0" variableId="981" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1206" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1449" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="21" instructionCount="3">
+                <instruction type="0" variableId="983" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1208" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1439" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="22" instructionCount="3">
+                <instruction type="0" variableId="1015" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1210" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1429" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="23" instructionCount="3">
+                <instruction type="0" variableId="975" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1212" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1431" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="24" instructionCount="3">
+                <instruction type="0" variableId="977" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1214" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1427" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="25" instructionCount="3">
+                <instruction type="0" variableId="1040" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="1" variableId="-1" operatorId="82" configurationId="2932" comment="" />
+                <instruction type="0" variableId="2917" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="26" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="Joystick-knappar" />
+            </row>
+            <row nr="27" instructionCount="2">
+                <instruction type="0" variableId="1052" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2905" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="28" instructionCount="2">
+                <instruction type="0" variableId="1054" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2907" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="29" instructionCount="2">
+                <instruction type="0" variableId="1056" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2909" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="30" instructionCount="2">
+                <instruction type="0" variableId="1058" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2911" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="31" instructionCount="2">
+                <instruction type="0" variableId="1060" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2913" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="Ind LED Höger Excidor" numCols="2" numRows="23">
+            <row nr="1" instructionCount="0" />
+            <row nr="2" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="Indikeringar till Lysdioder." />
+            </row>
+            <row nr="3" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="959" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="4" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="961" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="5" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="963" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="6" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="965" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="7" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="967" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="8" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="969" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="9" instructionCount="0" />
+            <row nr="10" instructionCount="0" />
+            <row nr="11" instructionCount="0" />
+            <row nr="12" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2308" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="13" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2310" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="14" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2312" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="15" instructionCount="0" />
+            <row nr="16" instructionCount="0" />
+            <row nr="17" instructionCount="0" />
+            <row nr="18" instructionCount="0" />
+            <row nr="19" instructionCount="0" />
+            <row nr="20" instructionCount="0" />
+            <row nr="21" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2320" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="22" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2322" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="23" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2324" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="Sw Vänster Excidor" numCols="4" numRows="34">
+            <row nr="1" instructionCount="0" />
+            <row nr="2" instructionCount="3">
+                <instruction type="0" variableId="1224" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="1" variableId="-1" operatorId="82" configurationId="2959" comment="" />
+                <instruction type="0" variableId="2947" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="3" instructionCount="3">
+                <instruction type="0" variableId="1227" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="1" variableId="-1" operatorId="82" configurationId="2960" comment="" />
+                <instruction type="0" variableId="2949" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="4" instructionCount="0" />
+            <row nr="5" instructionCount="2">
+                <instruction type="0" variableId="1229" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1746" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="6" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="Digitala knappar Excidor." />
+            </row>
+            <row nr="7" instructionCount="4">
+                <instruction type="0" variableId="1339" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="-1" operatorId="18" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1381" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2740" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="8" instructionCount="4">
+                <instruction type="0" variableId="1341" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="-1" operatorId="18" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1383" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2738" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="9" instructionCount="3">
+                <instruction type="0" variableId="1343" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1385" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2742" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="10" instructionCount="3">
+                <instruction type="0" variableId="1345" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1387" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2256" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="11" instructionCount="3">
+                <instruction type="0" variableId="1347" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1389" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2258" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="12" instructionCount="3">
+                <instruction type="0" variableId="1349" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1391" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2260" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="13" instructionCount="3">
+                <instruction type="0" variableId="1351" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1393" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2262" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="14" instructionCount="3">
+                <instruction type="0" variableId="1353" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1395" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2264" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="15" instructionCount="3">
+                <instruction type="0" variableId="1355" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1397" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2266" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="16" instructionCount="3">
+                <instruction type="0" variableId="1321" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1399" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1433" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="17" instructionCount="3">
+                <instruction type="0" variableId="1323" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1401" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1435" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="18" instructionCount="3">
+                <instruction type="0" variableId="1325" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1403" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1437" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="19" instructionCount="3">
+                <instruction type="0" variableId="1315" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1405" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2268" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="20" instructionCount="3">
+                <instruction type="0" variableId="1317" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1407" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2270" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="21" instructionCount="3">
+                <instruction type="0" variableId="1319" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1409" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2272" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="22" instructionCount="3">
+                <instruction type="0" variableId="1327" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1411" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1483" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="23" instructionCount="3">
+                <instruction type="0" variableId="1329" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1413" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1481" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="24" instructionCount="3">
+                <instruction type="0" variableId="1331" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1415" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1846" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="25" instructionCount="3">
+                <instruction type="0" variableId="1333" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1417" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1485" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="26" instructionCount="3">
+                <instruction type="0" variableId="1335" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1419" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1487" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="27" instructionCount="3">
+                <instruction type="0" variableId="1337" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1421" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2288" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="28" instructionCount="0" />
+            <row nr="29" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="Joystick-knappar" />
+            </row>
+            <row nr="30" instructionCount="2">
+                <instruction type="0" variableId="1363" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2933" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="31" instructionCount="2">
+                <instruction type="0" variableId="1365" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2935" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="32" instructionCount="2">
+                <instruction type="0" variableId="1367" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2937" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="33" instructionCount="2">
+                <instruction type="0" variableId="1369" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2939" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="34" instructionCount="2">
+                <instruction type="0" variableId="1371" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2941" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="Ind LED Vänster Excidor" numCols="2" numRows="16">
+            <row nr="1" instructionCount="0" />
+            <row nr="2" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1300" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="3" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1302" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="4" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1304" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="5" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1308" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="6" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1310" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="7" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="1312" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="8" instructionCount="0" />
+            <row nr="9" instructionCount="0" />
+            <row nr="10" instructionCount="0" />
+            <row nr="11" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2336" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="12" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2334" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="13" instructionCount="2">
+                <instruction type="0" variableId="122" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2332" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="14" instructionCount="0" />
+            <row nr="15" instructionCount="2">
+                <instruction type="0" variableId="1413" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2340" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="16" instructionCount="2">
+                <instruction type="0" variableId="1411" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2338" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="JS Vänster" numCols="5" numRows="12">
+            <row nr="1" instructionCount="0" />
+            <row nr="2" instructionCount="5">
+                <instruction type="0" variableId="1218" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="112" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="1" variableId="122" operatorId="150" configurationId="2708" comment="" />
+                <instruction type="0" variableId="-1" operatorId="51" configurationId="-1" comment="" />
+                <instruction type="0" variableId="124" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="3" instructionCount="0" />
+            <row nr="4" instructionCount="4">
+                <instruction type="0" variableId="124" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="-1" operatorId="51" configurationId="-1" comment="" />
+                <instruction type="0" variableId="79" operatorId="23" configurationId="-1" comment="" />
+                <instruction type="0" variableId="699" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="5" instructionCount="0" />
+            <row nr="6" instructionCount="5">
+                <instruction type="0" variableId="1220" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="136" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="1" variableId="122" operatorId="150" configurationId="2710" comment="" />
+                <instruction type="0" variableId="-1" operatorId="51" configurationId="-1" comment="" />
+                <instruction type="0" variableId="144" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="7" instructionCount="0" />
+            <row nr="8" instructionCount="4">
+                <instruction type="0" variableId="144" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="-1" operatorId="51" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2847" operatorId="23" configurationId="-1" comment="" />
+                <instruction type="0" variableId="705" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="9" instructionCount="0" />
+            <row nr="10" instructionCount="5">
+                <instruction type="0" variableId="1222" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="146" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="1" variableId="122" operatorId="150" configurationId="2711" comment="" />
+                <instruction type="0" variableId="-1" operatorId="51" configurationId="-1" comment="" />
+                <instruction type="0" variableId="154" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="11" instructionCount="0" />
+            <row nr="12" instructionCount="4">
+                <instruction type="0" variableId="154" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="-1" operatorId="51" configurationId="-1" comment="" />
+                <instruction type="0" variableId="79" operatorId="23" configurationId="-1" comment="" />
+                <instruction type="0" variableId="708" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="JS Höger" numCols="8" numRows="6">
+            <row nr="1" instructionCount="0" />
+            <row nr="2" instructionCount="8">
+                <instruction type="0" variableId="1026" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="156" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="1" variableId="122" operatorId="150" configurationId="2715" comment="" />
+                <instruction type="0" variableId="164" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="1" variableId="-1" operatorId="82" configurationId="2763" comment="" />
+                <instruction type="0" variableId="2765" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="-1" operatorId="51" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2766" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="3" instructionCount="0" />
+            <row nr="4" instructionCount="5">
+                <instruction type="0" variableId="1028" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="126" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="1" variableId="122" operatorId="150" configurationId="2713" comment="" />
+                <instruction type="0" variableId="-1" operatorId="51" configurationId="-1" comment="" />
+                <instruction type="0" variableId="134" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="5" instructionCount="0" />
+            <row nr="6" instructionCount="5">
+                <instruction type="0" variableId="1030" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="166" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="1" variableId="122" operatorId="150" configurationId="2712" comment="" />
+                <instruction type="0" variableId="-1" operatorId="51" configurationId="-1" comment="" />
+                <instruction type="0" variableId="176" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="H8 Testblock" numCols="5" numRows="16">
+            <row nr="1" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="Test av ny H8 transmission." />
+            </row>
+            <row nr="2" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="Hastighet styrs med potentiometer och scaleas om till 0-100 och i sin tur till 0-32000." />
+            </row>
+            <row nr="3" instructionCount="5">
+                <instruction type="0" variableId="1229" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="1" variableId="-1" operatorId="82" configurationId="2753" comment="" />
+                <instruction type="0" variableId="3141" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="1" variableId="-1" operatorId="82" configurationId="3147" comment="" />
+                <instruction type="0" variableId="3152" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="4" instructionCount="4">
+                <instruction type="0" variableId="3152" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3160" operatorId="3" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3170" operatorId="38" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3143" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="5" instructionCount="4">
+                <instruction type="0" variableId="3152" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3162" operatorId="3" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3172" operatorId="38" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3145" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="6" instructionCount="0" />
+            <row nr="7" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="Kolla diff mellan hjul1 och 2" />
+            </row>
+            <row nr="8" instructionCount="3">
+                <instruction type="0" variableId="3143" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3145" operatorId="4" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3164" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="9" instructionCount="3">
+                <instruction type="0" variableId="3145" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3143" operatorId="4" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3166" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="10" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="Kolla vilken sida som &quot;slirar&quot;" />
+            </row>
+            <row nr="11" instructionCount="4">
+                <instruction type="0" variableId="3164" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3166" operatorId="23" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3168" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3170" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="12" instructionCount="4">
+                <instruction type="0" variableId="3166" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3164" operatorId="23" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3169" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3172" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="13" instructionCount="0" />
+            <row nr="14" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="Störsignal" />
+            </row>
+            <row nr="15" instructionCount="3">
+                <instruction type="0" variableId="134" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="1" variableId="-1" operatorId="82" configurationId="3154" comment="" />
+                <instruction type="0" variableId="3162" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="16" instructionCount="3">
+                <instruction type="0" variableId="144" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="1" variableId="-1" operatorId="82" configurationId="3159" comment="" />
+                <instruction type="0" variableId="3160" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="Imperial Conversion" numCols="5" numRows="4">
+            <row nr="1" instructionCount="3">
+                <instruction type="0" variableId="3174" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3186" operatorId="1" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3182" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="2" instructionCount="3">
+                <instruction type="0" variableId="3195" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3186" operatorId="1" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3197" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="3" instructionCount="3">
+                <instruction type="0" variableId="3178" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3187" operatorId="1" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3180" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="4" instructionCount="5">
+                <instruction type="0" variableId="3176" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3188" operatorId="1" configurationId="-1" comment="" />
+                <instruction type="0" variableId="461" operatorId="2" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3189" operatorId="3" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3184" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="Service intervall" numCols="7" numRows="20">
+            <row nr="1" instructionCount="2">
+                <instruction type="0" variableId="3235" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3239" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="2" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="Timräknare" />
+            </row>
+            <row nr="3" instructionCount="2">
+                <instruction type="0" variableId="655" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3206" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="4" instructionCount="2">
+                <instruction type="0" variableId="3208" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3207" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="5" instructionCount="4">
+                <instruction type="0" variableId="3210" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2826" operatorId="2" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3199" operatorId="3" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3211" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="6" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="100 Timmars service" />
+            </row>
+            <row nr="7" instructionCount="7">
+                <instruction type="0" variableId="119" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3211" operatorId="4" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3201" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="122" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3211" operatorId="37" configurationId="-1" comment="" />
+                <instruction type="0" variableId="-1" operatorId="400" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3213" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="8" instructionCount="3">
+                <instruction type="0" variableId="3201" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3230" operatorId="37" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3215" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="9" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="500 Timmars service" />
+            </row>
+            <row nr="10" instructionCount="7">
+                <instruction type="0" variableId="3211" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3244" operatorId="500" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3223" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="122" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3211" operatorId="37" configurationId="-1" comment="" />
+                <instruction type="0" variableId="-1" operatorId="400" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3224" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="11" instructionCount="4">
+                <instruction type="0" variableId="3244" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3223" operatorId="4" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3219" operatorId="37" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3220" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="12" instructionCount="3">
+                <instruction type="0" variableId="3215" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3220" operatorId="19" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3225" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="13" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="Kvar till service. Spärrar bort kvar till service visning när larmet är utlöst." />
+            </row>
+            <row nr="14" instructionCount="4">
+                <instruction type="0" variableId="3211" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="119" operatorId="21" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3227" operatorId="35" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3230" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="15" instructionCount="4">
+                <instruction type="0" variableId="3211" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="119" operatorId="24" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3227" operatorId="35" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3219" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="16" instructionCount="3">
+                <instruction type="0" variableId="3230" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3219" operatorId="16" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3231" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="17" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="Servicecounter. Utlöser servicelarm om räknaren är &gt;1." />
+            </row>
+            <row nr="18" instructionCount="3">
+                <instruction type="0" variableId="3213" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3224" operatorId="16" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3228" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="19" instructionCount="3">
+                <instruction type="0" variableId="3227" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="378" operatorId="24" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3233" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="20" instructionCount="2">
+                <instruction type="0" variableId="3241" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3229" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="Access" numCols="3" numRows="7">
+            <row nr="1" instructionCount="0" />
+            <row nr="2" instructionCount="2">
+                <instruction type="0" variableId="3279" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3281" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="3" instructionCount="2">
+                <instruction type="0" variableId="3280" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3283" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="4" instructionCount="0" />
+            <row nr="5" instructionCount="3">
+                <instruction type="0" variableId="3279" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="378" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3285" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="6" instructionCount="3">
+                <instruction type="0" variableId="3279" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="78" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3287" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="7" instructionCount="3">
+                <instruction type="0" variableId="3279" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="722" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3289" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="Power Down" numCols="6" numRows="4">
+            <row nr="1" instructionCount="0" />
+            <row nr="2" instructionCount="6">
+                <instruction type="0" variableId="3293" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="122" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2483" operatorId="1" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2764" operatorId="48" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3291" operatorId="38" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3299" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="3" instructionCount="0" />
+            <row nr="4" instructionCount="6">
+                <instruction type="0" variableId="3291" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="-1" operatorId="401" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3293" operatorId="35" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2483" operatorId="1" configurationId="-1" comment="" />
+                <instruction type="0" variableId="2764" operatorId="48" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3301" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="Larm" numCols="8" numRows="4">
+            <row nr="1" instructionCount="0" />
+            <row nr="2" instructionCount="8">
+                <instruction type="0" variableId="3302" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3308" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="378" operatorId="24" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3308" operatorId="1" configurationId="-1" comment="" />
+                <instruction type="0" variableId="119" operatorId="22" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3308" operatorId="1" configurationId="-1" comment="" />
+                <instruction type="0" variableId="378" operatorId="24" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3309" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="3" instructionCount="8">
+                <instruction type="0" variableId="3304" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3308" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="378" operatorId="24" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3308" operatorId="1" configurationId="-1" comment="" />
+                <instruction type="0" variableId="119" operatorId="22" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3308" operatorId="1" configurationId="-1" comment="" />
+                <instruction type="0" variableId="378" operatorId="24" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3311" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="4" instructionCount="8">
+                <instruction type="0" variableId="3306" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3308" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="378" operatorId="24" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3308" operatorId="1" configurationId="-1" comment="" />
+                <instruction type="0" variableId="119" operatorId="22" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3308" operatorId="1" configurationId="-1" comment="" />
+                <instruction type="0" variableId="378" operatorId="24" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3313" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="Test_measurement" numCols="3" numRows="5">
+            <row nr="1" instructionCount="0" />
+            <row nr="2" instructionCount="2">
+                <instruction type="0" variableId="3315" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3317" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="3" instructionCount="3">
+                <instruction type="0" variableId="3315" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="1" variableId="-1" operatorId="82" configurationId="3322" comment="" />
+                <instruction type="0" variableId="3319" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="4" instructionCount="3">
+                <instruction type="0" variableId="3302" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="461" operatorId="21" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3329" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="5" instructionCount="3">
+                <instruction type="0" variableId="3302" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="1" variableId="3304" operatorId="150" configurationId="3326" comment="" />
+                <instruction type="0" variableId="3327" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="Knappsats" numCols="7" numRows="43">
+            <row nr="1" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="F1" />
+            </row>
+            <row nr="2" instructionCount="3">
+                <instruction type="0" variableId="3361" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="722" operatorId="23" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3439" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="3" instructionCount="3">
+                <instruction type="0" variableId="3348" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3439" operatorId="8" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3361" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="4" instructionCount="3">
+                <instruction type="0" variableId="3361" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="378" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3333" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="5" instructionCount="3">
+                <instruction type="0" variableId="3361" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="78" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3335" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="6" instructionCount="3">
+                <instruction type="0" variableId="3361" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="722" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3337" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="7" instructionCount="0" />
+            <row nr="8" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="F2" />
+            </row>
+            <row nr="9" instructionCount="4">
+                <instruction type="0" variableId="3346" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3440" operatorId="27" configurationId="-1" comment="" />
+                <instruction type="0" variableId="-1" operatorId="18" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3448" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="10" instructionCount="0" />
+            <row nr="11" instructionCount="4">
+                <instruction type="0" variableId="3359" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="722" operatorId="23" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3448" operatorId="42" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3443" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="12" instructionCount="4">
+                <instruction type="0" variableId="3346" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3448" operatorId="38" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3443" operatorId="8" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3359" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="13" instructionCount="4">
+                <instruction type="0" variableId="3359" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="378" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3448" operatorId="42" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3367" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="14" instructionCount="4">
+                <instruction type="0" variableId="3359" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="78" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3448" operatorId="42" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3369" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="15" instructionCount="4">
+                <instruction type="0" variableId="3359" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="722" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3448" operatorId="42" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3371" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="16" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="F3" />
+            </row>
+            <row nr="17" instructionCount="4">
+                <instruction type="0" variableId="3344" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3440" operatorId="27" configurationId="-1" comment="" />
+                <instruction type="0" variableId="-1" operatorId="18" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3450" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="18" instructionCount="7">
+                <instruction type="0" variableId="3450" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3397" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3399" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3401" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3403" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3405" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3407" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="19" instructionCount="0" />
+            <row nr="20" instructionCount="4">
+                <instruction type="0" variableId="3357" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="722" operatorId="23" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3450" operatorId="42" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3444" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="21" instructionCount="4">
+                <instruction type="0" variableId="3344" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3450" operatorId="38" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3444" operatorId="8" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3357" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="22" instructionCount="3">
+                <instruction type="0" variableId="3357" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="378" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3373" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="23" instructionCount="3">
+                <instruction type="0" variableId="3357" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="78" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3375" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="24" instructionCount="3">
+                <instruction type="0" variableId="3357" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="722" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3377" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="25" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="F4&#xD;&#xA;" />
+            </row>
+            <row nr="26" instructionCount="3">
+                <instruction type="0" variableId="3355" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="722" operatorId="23" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3445" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="27" instructionCount="3">
+                <instruction type="0" variableId="3342" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3445" operatorId="8" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3355" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="28" instructionCount="3">
+                <instruction type="0" variableId="3355" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="378" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3379" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="29" instructionCount="3">
+                <instruction type="0" variableId="3355" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="78" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3381" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="30" instructionCount="3">
+                <instruction type="0" variableId="3355" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="722" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3383" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="31" instructionCount="3">
+                <instruction type="0" variableId="3454" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="-1" operatorId="18" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3458" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="32" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="F5" />
+            </row>
+            <row nr="33" instructionCount="3">
+                <instruction type="0" variableId="3363" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="722" operatorId="23" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3446" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="34" instructionCount="3">
+                <instruction type="0" variableId="3350" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3446" operatorId="8" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3363" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="35" instructionCount="3">
+                <instruction type="0" variableId="3363" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="378" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3385" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="36" instructionCount="3">
+                <instruction type="0" variableId="3363" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="78" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3387" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="37" instructionCount="3">
+                <instruction type="0" variableId="3363" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="722" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3389" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="38" instructionCount="1">
+                <instruction type="2" variableId="-1" operatorId="-1" configurationId="-1" comment="F6" />
+            </row>
+            <row nr="39" instructionCount="3">
+                <instruction type="0" variableId="3365" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="722" operatorId="23" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3447" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="40" instructionCount="3">
+                <instruction type="0" variableId="3352" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3447" operatorId="8" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3365" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="41" instructionCount="3">
+                <instruction type="0" variableId="3365" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="378" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3391" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="42" instructionCount="3">
+                <instruction type="0" variableId="3365" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="78" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3393" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="43" instructionCount="3">
+                <instruction type="0" variableId="3365" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="722" operatorId="11" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3395" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="New Block 0" numCols="4" numRows="5">
+            <row nr="1" instructionCount="4">
+                <instruction type="0" variableId="3489" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3476" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="1" variableId="-1" operatorId="82" configurationId="3487" comment="" />
+                <instruction type="0" variableId="3472" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="2" instructionCount="2">
+                <instruction type="0" variableId="1323" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3464" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="3" instructionCount="0" />
+            <row nr="4" instructionCount="2">
+                <instruction type="0" variableId="3409" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3512" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="5" instructionCount="2">
+                <instruction type="0" variableId="3513" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3517" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+        <block dclName="Midjegivare" numCols="4" numRows="8">
+            <row nr="1" instructionCount="2">
+                <instruction type="0" variableId="3466" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3503" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="2" instructionCount="3">
+                <instruction type="0" variableId="3501" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3491" operatorId="25" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3506" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="3" instructionCount="4">
+                <instruction type="0" variableId="3491" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3501" operatorId="39" configurationId="-1" comment="" />
+                <instruction type="0" variableId="-1" operatorId="400" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3505" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="4" instructionCount="2">
+                <instruction type="0" variableId="3493" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3497" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="5" instructionCount="2">
+                <instruction type="0" variableId="3495" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3499" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="6" instructionCount="0" />
+            <row nr="7" instructionCount="3">
+                <instruction type="0" variableId="3493" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3505" operatorId="8" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3508" operatorId="10" configurationId="-1" comment="" />
+            </row>
+            <row nr="8" instructionCount="3">
+                <instruction type="0" variableId="3495" operatorId="9" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3505" operatorId="8" configurationId="-1" comment="" />
+                <instruction type="0" variableId="3510" operatorId="10" configurationId="-1" comment="" />
+            </row>
+        </block>
+    </blocks>
+    <cbSettings protocolCount="2">
+        <cbProtocol protocol="0" sourceCount="3">
+            <cbJ1939Source dclName="Test" id="3012" cbSourceAddress="225" sourceAddress="225" spnConversion="0" cbUnitId="3011">
+                <cbJ1939Messages messageCount="2">
+                    <cbJ1939Message dclName="Send" id="3332" direction="0" pgn="39393" priority="3" rate="100" requestMessage="false" messageReceiveOKId="-1" messageSendTriggId="-1" pgnVariablesCount="24">
+                        <cbJ1939Variable id="3334" variableId="3333" bitNumber="1" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3336" variableId="3335" bitNumber="3" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3338" variableId="3337" bitNumber="5" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3368" variableId="3367" bitNumber="1" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3370" variableId="3369" bitNumber="3" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3372" variableId="3371" bitNumber="5" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3374" variableId="3373" bitNumber="1" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3376" variableId="3375" bitNumber="3" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3378" variableId="3377" bitNumber="5" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3380" variableId="3379" bitNumber="1" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3382" variableId="3381" bitNumber="3" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3384" variableId="3383" bitNumber="5" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3386" variableId="3385" bitNumber="1" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3388" variableId="3387" bitNumber="3" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3390" variableId="3389" bitNumber="5" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3392" variableId="3391" bitNumber="1" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3394" variableId="3393" bitNumber="3" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3396" variableId="3395" bitNumber="5" byteNumber="6" ffMeansNotAvailable="false" size="3" />
+                        <cbJ1939Variable id="3398" variableId="3397" bitNumber="1" byteNumber="7" ffMeansNotAvailable="false" size="1" />
+                        <cbJ1939Variable id="3400" variableId="3399" bitNumber="2" byteNumber="7" ffMeansNotAvailable="false" size="1" />
+                        <cbJ1939Variable id="3402" variableId="3401" bitNumber="3" byteNumber="7" ffMeansNotAvailable="false" size="1" />
+                        <cbJ1939Variable id="3404" variableId="3403" bitNumber="4" byteNumber="7" ffMeansNotAvailable="false" size="1" />
+                        <cbJ1939Variable id="3406" variableId="3405" bitNumber="5" byteNumber="7" ffMeansNotAvailable="false" size="1" />
+                        <cbJ1939Variable id="3408" variableId="3407" bitNumber="6" byteNumber="7" ffMeansNotAvailable="false" size="1" />
+                    </cbJ1939Message>
+                    <cbJ1939Message dclName="Receive" id="3341" direction="1" pgn="64982" priority="3" rate="100" requestMessage="false" messageReceiveOKId="3415" messageSendTriggId="-1" pgnVariablesCount="11">
+                        <cbJ1939Variable id="3426" variableId="3425" bitNumber="1" byteNumber="1" ffMeansNotAvailable="false" size="8" />
+                        <cbJ1939Variable id="3424" variableId="3423" bitNumber="1" byteNumber="2" ffMeansNotAvailable="false" size="8" />
+                        <cbJ1939Variable id="3422" variableId="3421" bitNumber="1" byteNumber="3" ffMeansNotAvailable="false" size="8" />
+                        <cbJ1939Variable id="3420" variableId="3419" bitNumber="1" byteNumber="4" ffMeansNotAvailable="false" size="8" />
+                        <cbJ1939Variable id="3428" variableId="3427" bitNumber="1" byteNumber="5" ffMeansNotAvailable="false" size="8" />
+                        <cbJ1939Variable id="3343" variableId="3342" bitNumber="1" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3345" variableId="3344" bitNumber="3" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3347" variableId="3346" bitNumber="5" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3349" variableId="3348" bitNumber="7" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3351" variableId="3350" bitNumber="5" byteNumber="7" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="3353" variableId="3352" bitNumber="7" byteNumber="7" ffMeansNotAvailable="false" size="2" />
+                    </cbJ1939Message>
+                </cbJ1939Messages>
+                <cbJ1939DTCVariables dtcVariableCount="0" />
+            </cbJ1939Source>
+            <cbJ1939Source dclName="Höger Exidor pallett" id="938" cbSourceAddress="39" sourceAddress="21" spnConversion="0" cbUnitId="3011">
+                <cbJ1939Messages messageCount="5">
+                    <cbJ1939Message dclName="18FE0015 (InA Js Höger)" id="1025" direction="1" pgn="65024" priority="3" rate="20" requestMessage="false" messageReceiveOKId="-1" messageSendTriggId="-1" pgnVariablesCount="4">
+                        <cbJ1939Variable id="1027" variableId="1026" bitNumber="1" byteNumber="1" ffMeansNotAvailable="true" size="16" />
+                        <cbJ1939Variable id="1029" variableId="1028" bitNumber="1" byteNumber="3" ffMeansNotAvailable="true" size="16" />
+                        <cbJ1939Variable id="1031" variableId="1030" bitNumber="1" byteNumber="5" ffMeansNotAvailable="true" size="16" />
+                        <cbJ1939Variable id="1041" variableId="1040" bitNumber="1" byteNumber="7" ffMeansNotAvailable="true" size="16" />
+                    </cbJ1939Message>
+                    <cbJ1939Message dclName="18FE0115 (InA Höger)" id="1042" direction="1" pgn="65025" priority="3" rate="20" requestMessage="false" messageReceiveOKId="-1" messageSendTriggId="-1" pgnVariablesCount="4">
+                        <cbJ1939Variable id="1045" variableId="1044" bitNumber="1" byteNumber="1" ffMeansNotAvailable="true" size="16" />
+                        <cbJ1939Variable id="1047" variableId="1046" bitNumber="1" byteNumber="3" ffMeansNotAvailable="true" size="16" />
+                        <cbJ1939Variable id="1049" variableId="1048" bitNumber="1" byteNumber="5" ffMeansNotAvailable="true" size="16" />
+                        <cbJ1939Variable id="1051" variableId="1050" bitNumber="1" byteNumber="7" ffMeansNotAvailable="false" size="16" />
+                    </cbJ1939Message>
+                    <cbJ1939Message dclName="18FE1500 (OutD Höger)" id="958" direction="0" pgn="65045" priority="3" rate="20" requestMessage="false" messageReceiveOKId="-1" messageSendTriggId="-1" pgnVariablesCount="21">
+                        <cbJ1939Variable id="960" variableId="959" bitNumber="1" byteNumber="1" ffMeansNotAvailable="true" size="2" />
+                        <cbJ1939Variable id="962" variableId="961" bitNumber="3" byteNumber="1" ffMeansNotAvailable="true" size="2" />
+                        <cbJ1939Variable id="964" variableId="963" bitNumber="5" byteNumber="1" ffMeansNotAvailable="true" size="2" />
+                        <cbJ1939Variable id="966" variableId="965" bitNumber="7" byteNumber="1" ffMeansNotAvailable="true" size="2" />
+                        <cbJ1939Variable id="968" variableId="967" bitNumber="1" byteNumber="2" ffMeansNotAvailable="true" size="2" />
+                        <cbJ1939Variable id="970" variableId="969" bitNumber="3" byteNumber="2" ffMeansNotAvailable="true" size="2" />
+                        <cbJ1939Variable id="2297" variableId="2296" bitNumber="5" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2299" variableId="2298" bitNumber="7" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2301" variableId="2300" bitNumber="1" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2303" variableId="2302" bitNumber="3" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2305" variableId="2304" bitNumber="5" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2307" variableId="2306" bitNumber="7" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2309" variableId="2308" bitNumber="1" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2311" variableId="2310" bitNumber="3" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2313" variableId="2312" bitNumber="5" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2315" variableId="2314" bitNumber="7" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2317" variableId="2316" bitNumber="1" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2319" variableId="2318" bitNumber="3" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2321" variableId="2320" bitNumber="5" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2323" variableId="2322" bitNumber="7" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2325" variableId="2324" bitNumber="1" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                    </cbJ1939Message>
+                    <cbJ1939Message dclName="18FE0315 (InD Sw Höger)" id="971" direction="1" pgn="65027" priority="3" rate="20" requestMessage="false" messageReceiveOKId="-1" messageSendTriggId="-1" pgnVariablesCount="30">
+                        <cbJ1939Variable id="1016" variableId="1015" bitNumber="1" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="976" variableId="975" bitNumber="3" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="978" variableId="977" bitNumber="5" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="980" variableId="979" bitNumber="7" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="982" variableId="981" bitNumber="1" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="984" variableId="983" bitNumber="3" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="986" variableId="985" bitNumber="5" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="988" variableId="987" bitNumber="7" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="990" variableId="989" bitNumber="1" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="992" variableId="991" bitNumber="3" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="994" variableId="993" bitNumber="5" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="996" variableId="995" bitNumber="7" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="998" variableId="997" bitNumber="1" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1000" variableId="999" bitNumber="3" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1002" variableId="1001" bitNumber="5" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1004" variableId="1003" bitNumber="7" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1006" variableId="1005" bitNumber="1" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1008" variableId="1007" bitNumber="3" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1010" variableId="1009" bitNumber="5" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1012" variableId="1011" bitNumber="7" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1014" variableId="1013" bitNumber="1" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1035" variableId="1034" bitNumber="3" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1037" variableId="1036" bitNumber="5" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1039" variableId="1038" bitNumber="7" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1053" variableId="1052" bitNumber="1" byteNumber="7" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1055" variableId="1054" bitNumber="3" byteNumber="7" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1057" variableId="1056" bitNumber="5" byteNumber="7" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1059" variableId="1058" bitNumber="7" byteNumber="7" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1061" variableId="1060" bitNumber="1" byteNumber="8" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1033" variableId="1032" bitNumber="3" byteNumber="8" ffMeansNotAvailable="false" size="2" />
+                    </cbJ1939Message>
+                    <cbJ1939Message dclName="18FE1600 (OutD Höger Belysning)" id="1065" direction="0" pgn="65046" priority="3" rate="50" requestMessage="false" messageReceiveOKId="-1" messageSendTriggId="-1" pgnVariablesCount="2">
+                        <cbJ1939Variable id="1067" variableId="1066" bitNumber="1" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1069" variableId="1068" bitNumber="3" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                    </cbJ1939Message>
+                </cbJ1939Messages>
+                <cbJ1939DTCVariables dtcVariableCount="0" />
+            </cbJ1939Source>
+            <cbJ1939Source dclName="Vänster Excidor pallett" id="1216" cbSourceAddress="39" sourceAddress="11" spnConversion="0" cbUnitId="3011">
+                <cbJ1939Messages messageCount="4">
+                    <cbJ1939Message dclName="18FE000B (InA Js Vänster)" id="1217" direction="1" pgn="65024" priority="3" rate="20" requestMessage="false" messageReceiveOKId="-1" messageSendTriggId="-1" pgnVariablesCount="4">
+                        <cbJ1939Variable id="1219" variableId="1218" bitNumber="1" byteNumber="1" ffMeansNotAvailable="false" size="16" />
+                        <cbJ1939Variable id="1221" variableId="1220" bitNumber="1" byteNumber="3" ffMeansNotAvailable="false" size="16" />
+                        <cbJ1939Variable id="1223" variableId="1222" bitNumber="1" byteNumber="5" ffMeansNotAvailable="false" size="16" />
+                        <cbJ1939Variable id="1225" variableId="1224" bitNumber="1" byteNumber="7" ffMeansNotAvailable="false" size="16" />
+                    </cbJ1939Message>
+                    <cbJ1939Message dclName="18FE010B (InA Vänster)" id="1226" direction="1" pgn="65025" priority="3" rate="20" requestMessage="false" messageReceiveOKId="-1" messageSendTriggId="-1" pgnVariablesCount="4">
+                        <cbJ1939Variable id="1228" variableId="1227" bitNumber="1" byteNumber="1" ffMeansNotAvailable="false" size="16" />
+                        <cbJ1939Variable id="1230" variableId="1229" bitNumber="1" byteNumber="3" ffMeansNotAvailable="false" size="16" />
+                        <cbJ1939Variable id="1232" variableId="1231" bitNumber="1" byteNumber="5" ffMeansNotAvailable="false" size="16" />
+                        <cbJ1939Variable id="1234" variableId="1233" bitNumber="1" byteNumber="7" ffMeansNotAvailable="false" size="16" />
+                    </cbJ1939Message>
+                    <cbJ1939Message dclName="18FE0B00 (OutD Vänster)" id="1299" direction="0" pgn="65035" priority="3" rate="20" requestMessage="false" messageReceiveOKId="-1" messageSendTriggId="-1" pgnVariablesCount="21">
+                        <cbJ1939Variable id="1301" variableId="1300" bitNumber="1" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1303" variableId="1302" bitNumber="3" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1305" variableId="1304" bitNumber="5" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1309" variableId="1308" bitNumber="7" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1311" variableId="1310" bitNumber="1" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1313" variableId="1312" bitNumber="3" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2327" variableId="2326" bitNumber="5" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2329" variableId="2328" bitNumber="7" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2331" variableId="2330" bitNumber="1" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2333" variableId="2332" bitNumber="3" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2335" variableId="2334" bitNumber="5" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2337" variableId="2336" bitNumber="7" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2339" variableId="2338" bitNumber="1" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2341" variableId="2340" bitNumber="3" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2343" variableId="2342" bitNumber="5" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2345" variableId="2344" bitNumber="7" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2347" variableId="2346" bitNumber="1" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2349" variableId="2348" bitNumber="3" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2351" variableId="2350" bitNumber="5" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2353" variableId="2352" bitNumber="7" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="2355" variableId="2354" bitNumber="1" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                    </cbJ1939Message>
+                    <cbJ1939Message dclName="18FE030B (InD Sw Vänster)" id="1314" direction="1" pgn="65027" priority="3" rate="20" requestMessage="false" messageReceiveOKId="-1" messageSendTriggId="-1" pgnVariablesCount="30">
+                        <cbJ1939Variable id="1316" variableId="1315" bitNumber="1" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1318" variableId="1317" bitNumber="3" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1320" variableId="1319" bitNumber="5" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1322" variableId="1321" bitNumber="7" byteNumber="1" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1324" variableId="1323" bitNumber="1" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1326" variableId="1325" bitNumber="3" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1328" variableId="1327" bitNumber="5" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1330" variableId="1329" bitNumber="7" byteNumber="2" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1332" variableId="1331" bitNumber="1" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1334" variableId="1333" bitNumber="3" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1336" variableId="1335" bitNumber="5" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1338" variableId="1337" bitNumber="7" byteNumber="3" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1340" variableId="1339" bitNumber="1" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1342" variableId="1341" bitNumber="3" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1344" variableId="1343" bitNumber="5" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1346" variableId="1345" bitNumber="7" byteNumber="4" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1348" variableId="1347" bitNumber="1" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1350" variableId="1349" bitNumber="3" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1352" variableId="1351" bitNumber="5" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1354" variableId="1353" bitNumber="7" byteNumber="5" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1356" variableId="1355" bitNumber="1" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1358" variableId="1357" bitNumber="3" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1360" variableId="1359" bitNumber="5" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1362" variableId="1361" bitNumber="7" byteNumber="6" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1364" variableId="1363" bitNumber="1" byteNumber="7" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1366" variableId="1365" bitNumber="3" byteNumber="7" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1368" variableId="1367" bitNumber="5" byteNumber="7" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1370" variableId="1369" bitNumber="7" byteNumber="7" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1372" variableId="1371" bitNumber="1" byteNumber="8" ffMeansNotAvailable="false" size="2" />
+                        <cbJ1939Variable id="1374" variableId="1373" bitNumber="3" byteNumber="8" ffMeansNotAvailable="false" size="2" />
+                    </cbJ1939Message>
+                </cbJ1939Messages>
+                <cbJ1939DTCVariables dtcVariableCount="0" />
+            </cbJ1939Source>
+        </cbProtocol>
+        <cbProtocol protocol="1" sourceCount="0" />
+    </cbSettings>
+    <mapSettings>
+        <mapInVariables mapInVariableCount="1">
+            <mapInVariable id="3456" variableId="3342" />
+        </mapInVariables>
+        <mapOutVariables mapOutVariableCount="1">
+            <outVariable id="3455" variableId="3454" />
+        </mapOutVariables>
+        <mapFunctions mapFunctionCount="1">
+            <mapFunction dclName="MapObject0" id="3457" outDefaultId="3454" outLocked="false" inDefaultId="3342" inLocked="false" shiftDefaultId="-1" shiftLocked="false" shiftVisible="true" doubleClickDefault="true" doubleClickLocked="false" doubleClickVisible="true" storage="0" />
+        </mapFunctions>
+    </mapSettings>
+    <logVariables logCount="0" />
+</mainDCL>
